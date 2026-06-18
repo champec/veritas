@@ -1,0 +1,298 @@
+Chapter 1 – Introduction
+
+CHAPTER I
+INTRODUCTION
+Purpose of the Study
+The purpose of this investigation has been to discover how and to what extent interpretation has entered into the translation of the major English versions of the New Testament.
+
+There are many words, phrases, and sentences of doctrinal or exegetical significance in the Greek New Testament which are capable of more than one meaning. Often the immediate context provides no clear indication as to what the correct translation should be. The versions have differed widely in their treatment of these problem passages and in the solutions they have presented.
+
+Some versions have tended to offer more or less literal renderings of’ such passages, thereby frequently only increasing the obscurity or actually misleading the reader. In some of these versions an attempt has been made to remedy this deficiency by providing interpretative helps in the margin and elsewhere. In others the English reader has been left to complete the work of translation and interpretation himself, usually without the benefit of access to the original text from which his version was prepared.
+
+Other versions indicate that attempts have occasionally been made to preserve the ambiguity of some of these Greek passages in the translation English. But the results are usually difficult to distinguish from merely literal renderings.
+
+– 2 –
+
+In a few versions efforts have been made to assist the reader in interpreting some of these obscure passages by presenting one interpretative translation in the text and one or more alternatives in the margin. Other versions have quite consistently offered idiomatic interpretations without suggesting that any alternative meanings are possible.
+
+The more interpretative versions have been especially open to accusations of doctrinal bias, though in actuality even the more literal translations have not escaped the charge of prejudiced distortion of the text. On the popular level it seems that the majority of uncritical Bible readers still decry interpretative translations and have confidence only in what they believe to be a strictly literal version, meanwhile unaware of the fact that the literal rendering often suggests only one of two or more possible meanings–the version, in effect, being interpretative to that extent. Even in ecclesiastical circles it would appear that many of the charges of doctrinal bias levelled against some versions have been based on little more than a superficial check of the critics’ own favorite “keytexts.” lt is hoped that the material here presented may provide a more adequate basis for evaluating and characterizing any particular Bible translation in this respect.
+
+The problem of whether or not obscure and ambiguous passages should be interpreted in translation’ and, if so, whether or not alternative interpretations should be offered in the margin has been the source of considerable difference of opinion among New Testament translators and expositors. Their divergent views represent the various ways in which these problem passages have been treated in the versions.
+
+– 3 –
+
+That there are obscurities and ambiguities in the Greek text is generally recognized. John Eadie has observed that even “the punctuation always depends ultimately on the exegesis.”l Some have urged that these obscurities and ambiguities should be preserved in the translation English. Such, for example, is the position taken by Morton Smith in his criticism of E. J. Goodspeed’s Problems of New Testament Translation. Regarding the problems of translating  and , he asserts that:
+
+It will have been noticed that in these last two cases . . . the translator’s problem was to preserve in English the ambiguity of the Greek, for it is only fair to the unlearned reader that the English text should present the same opportunities for misunderstanding as does the Greek. Only such a translation will enable the unlearned to appreciate the great wealth of traditional exegesis to understand the development of that science, and above all to experience for themselves the intellectual confusion of the original authors. But such a translation is, of all sorts, that which scholars are most reluctant to produce. They have neath analytical minds which, in dealing with texts, are forever imposing order and diminishing chaos, deciding what the author meant to say.. and saying it for him: Fiat lux: Yet not only is the limited clarity they produce less valuable as literature and for religion but it is also false as a translation–it misrepresents an original the suggestive obscurity of which was characteristic.2
+
+Again, referring to the problem of  in John 1:5Open in Logos Bible Software (if available):
+
+Now the careless translator would here be apt to suppose it his task to determine which one of these various meanings was intended by the author, and to render that one with unmistakeable, exclusive clarity. But the author’s intention can probably never be determined (and whatever his intention it led him to use a word with such ambiguities) and if his thought was verbal, as thought often is, he may have intended this word in all its several meanings at once. The real problem is therefore to get an English word which also has them all.3
+
+1John Eadie, The English Bible (London: Macmillan Co., 1876), Vol. II p. 381.
+
+2Morton Smith, “Notes on Goodspeed’s Problems of New Testament Translation,” Journal of Biblical Literature, Vol. LXIV (Dec., 1945), p. 510.
+
+3Ibid., p. 511.
+
+– 4 –
+
+Thomas F. Ford, one of the translators of the 1948 Letchworth New Testament, is likewise opposed to the interpretative translation of such passages. He argues that “wherever the original text is capable of more than one interpretation, this quality is lost once paraphrase is allowed, as this must almost inevitably give one meaning only, and that the particular one which appeals most to the translator.”1 R. F. Henderson agrees that “a good translation will retain the ambiguity or the vagueness if it is at all possible to do so. Failing this, the translator becomes a dogmatic expositor.”2 G. Ch. Aalders likewise recommends that “if the text to be rendered shows a certain ambiguity; and if the text to be rendered leaves us with some uncertainty, the same must be the case in our translation.”3
+
+J. A. Beet, in his criticism of the English Revised Version, was of the opinion that even that literal translation is too interpretative.
+
+He maintained that:
+
+Translators have no right to compel their readers to learn from a single verse that which they would not themselves have known but for their study of other . . . portions of the Bible. They ought as far as possible so to put the Scriptures before their readers that the same passages shall proclaim the same truths to learned and unlearned alike. Even the ambiguities of Scripture should if possible, be reproduced.4
+
+1Thomas F. Ford, “Need for a Revision of the English Bible,” a paper read before the Ecclesialogical Society in London on June 23, 1945, and printed in the appendix of T. F. Ford, and R. E. Ford, The New Testament of our Lord and Saviour Jesus Christ: The Letchworth Version (Letchworth: Letchworth Printers Ltd., 1948.
+
+2R. F. Henderson, “Problems of Bible Translation,” The Bible Translator, Vol. VI (July, 1955), p. 134.
+
+3G. Ch. Aalders, “Some Aspects of Bible Translation Concerning the Old Testament,” The Bible Translators, Vol. IV (July, 1953), p. 98.
+
+4J. A. Beet, “The Revised Version of the New Testament,” The Expositor, Vol. III (1882),  p. 381.
+
+– 5 –
+
+He did allow, however, that this is sometimes impossible.
+
+In these cases, the translator is compelled, in spite of himself, to become an expositor. He ought, therefore, to put in the margin the rendering required by the exposition he rejects; so that his readers may know that an alternative is grammatically allowable, and therefore open to the expositions choice.1
+
+C. J. Ellicott, in anticipating the same 1881 revisions took the opposite view.
+
+It is very doubtful how far such a principle as this can be justified viz., of leaving the English translation in the same state of ambiguity as the Greek, so that, if two meanings should be fairly compatible with the words of the original, they should be equally so with the words of the translation. It may be urged that it is literally faithful; but, on the other hand, it must be felt to be an evasion.2
+
+At the same time he warns that:
+
+The translator must be careful not to pass into the province of the interpreter, and to give a paraphrase instead of a faithful rendering. All that he can or ought to do is, by some words in italics, or some happy choice of expression or subtle change of collocation, to make the probable meaning of the Greek as clear and appreciable as the nature of the passage will admit. Secondly, if there be difference of opinion as to the meaning of the words, one or more of the alternative renderings should be placed in the margin.3
+
+John Eadie agreed that “a version ought never, if possible, to present to the ordinary reader a doubtful sense, but an alternative rendering may go into the margin.4
+
+Evidently the translators of the English Revised Version were generally of this same opinion, for they state in the preface: “It has
+
+1Ibid.
+
+2C.J. Ellicott, Considerations of the Revision of the English Version of the New Testament (New York: Harper and Bros., 1873), footnote, p. 102.
+
+3Ibid., p. 103.
+
+4Eadie, op. cit., Vol. II, p. 367.
+
+– 6 –
+
+been our principle not to leave any translation, or any arrangement of woods, which could adapt itself to one or other of two interpretations, but rather to express as plainly as was possible that interpretation which seemed best to deserve a place in the text, and to put the other in the margin.”1 An approach to this point of view even appeared in the preface to the King James Version.
+
+Some peraduenture would haue no varietie of senses to be set in the margine, lest the authoritie of the Scriptures for deciding of controuersies by that shew of vncertaintie, should somewhat be shaken. but we hold their judgment not to be so sound in this point . . . . . . Therefore as S. Augustine saith, that varietie of Translations is profitable for the finding out of the sense of the Scriptures: so diuersitie of signification and sense in the margine, where the text is not so cleare, must needes doe good, yea, is necessary, as we are persuaded.2
+
+Earlier, the Rheims translators had explained their reasons for leaving such obscure passages equally ambiguous and obscure in the English.
+
+Moreover, we presume not in hard places to mollifie the speeches or phrases, but religiously keeps them word for word, and point for point, for fear of missing, or restraining the sense of the Holy Ghost  to our phantasie, as Eph. 6Open in Logos Bible Software (if available),  “Against the spirituals of wickedness in the celestials,” and, ”What to me and thee woman?” and l Pet. 2, “As infants even now borne, reasonable, milke without guile desireye.” We do so place, “reasonable” of purpose, that it may be indifferent both to infants going before, as in our Latin text: or to milke that followeth after, as in other Latin copies and in the Greeke.3
+
+The hazards and inadequacies of excessively literal and uninterpretative translation have been emphasized by “modern speech” translators.
+
+ 
+
+1Preface to the New Testament of the English Revised Version (1881), p. xiii. The evidence of this study shows that they were about 80 per cent successful in following this principle in the translation of the book of Romans.
+
+2Myles Smith (?). “The Translators to the Readers,” Preface to the King James Version (1611).
+
+3Preface to the Rheims New Testament (1582).
+
+ 
+
+– 7 –
+
+R. F. Weymouth has warned that ”a literal rendering into English cannot but partially veil, and in some degree distort, the true sense, even if it does not totally obscure it . . . . It follows that the reader who is bent upon getting a literal rendering, such as he can commonly find in the R. V. . . . should always be on his guard against its strong tendency to mislead.”1
+
+The preface to The Twentieth Century New Testament points out that “no purely verbal rendering can ever adequately represent the thoughts conveyed in the idioms of another language.”2 Godspeed has deplored “this devotion to word after word with never a glance at the line or thought” as “the bane of Bible translation, from Tyndale to the revised versions.”3 “The fault of the first English versions was their word-for-word method, coupled with the evident conviction that the translator need not understand the text he was at work upon in order to translate it.”4 James Moffatt agrees by concluding that “a real translation is in the main as interpretation.”5 The same position is taken by R.A. Knox,6 and
+
+1R.F Weymouth, The New Testament in Modern Speech (5th ed. rev.; Boston: Pilgrim Press, 1929), p. xi.
+
+2The Twentieth Century New Testament (rev. ed., New York: Fleming H. Revell Company, 1904), p. iv.
+
+3E.J. Godspeed, Problems of New Testament Translation (Chicago: University of Chicago Press, 1945), p. 2.
+
+4Ibid. See also, by the same author, New Chapters in New Testament Study (New York: Macmillan Co., 1937), pp. 102-126.
+
+5James Moffatt, The Bible,  A New Translation (rev. and final ed.; New York: Harper and Bros., 1937), p. vii.
+
+6R. A. Knox, The Trials of a Translator (New York: Sheed and Ward, 1949), pp. 4, 14, 29, 75, 77, 82.
+
+ 
+
+– 8 –
+
+W. Schmarz.1
+
+More recently,  Eugene A. Nida, American Bible Society secretary for versions, has stated and analysed some of the principles and procedures of Bible translation recommended by the Society.2 Society rule number 12 states that “versions and revisions should be faithful translations,  in a style easily understood by the people . . . . Paraphrase should be avoided as far as practicable. Every version should be as literal as the idiom of the language will permit.”3 In his analysis, however, Nida is not opposed to “legitimate” paraphrase.
+
+In the strict sense on the term many of the expressions which translators are called upon to use in rendering the sense of the Bible text are simply paraphrases. But the fact that be acknowledge them as paraphrases does not mean that we should regard them as any less correct. In fact, we should attempt to discard from our minds the prejudice that has been built up in the distinction between translation and paraphrase. There are legitimate and illegitimate paraphrases. The literal word-for-word translation cannot be justified purely by calling it a “translation.” Nor must a paraphrase be rejected simply by contending that it is such. There are literal, blind translational biased translations, and excessively free translations– all of which are to be rejected. Similarly one must emphatically reject paraphrases which are made for the sake of novelty of expression or designed to satisfy the translator’s private whim . . .
+
+Our objective must be in finding the closest equivalence in meaning. The insistence upon the principle of closest semantic equivalence actually renders obsolete the meaningless discussions which go on between the defenders of “translation” and the advocates of “paraphrase.”4
+
+1W. Schwarz,  Principles and Problems of Biblical Translation (Cambridge: Cambridge University Press, 1955), p. 1.
+
+2Eugene A. Nida, Bible Translating (New York: American Bible Society, 1947).
+
+3A Guide for Translators, Revisers, and Editors working in Connection with the American Bible Society (New York: American Bible society, 1932), reprinted in the appendix of Nida, op. cit., p. 296.
+
+4Eugene A. Nida, “Translation or Paraphrase, ” The Bible Translator, Vol. I (July, 1950), pp. 105-106.
+
+ 
+
+– 9 –
+
+Nida also warns against the dangers of excessively literal translation.
+
+Some Bible students have attempted to translate in what they feel is a consistent manner by always rendering the same Hebrew or Greek word by the same English word, and similarly for many types of grammatical constructions. This type of translation, which has been called “concordant,” makes an immediate appeal to those uninformed about the problems and principles of linguistic usage. But no two languages correspond throughout in their words or grammatical usages, and such a literal type of translation actually distorts the facts of a language rather than reveals them.1
+
+On the other hand, Nida is equally critical of excessively free translation.
+
+Some translators have adopted as a basic principle a formula which may be stated as follows: “What would the author have said if he had been using English instead of Greek or Hebrew?” . . . . Such a translation is likely to be based on the translator’s idea of the “gist” of the text and consequently reflects his personal interpretation of it.2
+
+It is interesting to note Hilaire Belloc’s advice to the contrary: “We should say to ourselves not ‘How shall I make this foreigner talk English?’, but ‘What would an Englishman have said to express the same?’ That is translation. That is the very essence of the art.”3
+
+William A. Mcloughlin, in his review of Knox’s New Testament translation, seems to condemn such freedom.
+
+There must be, and it seems to me that it is the most important of all,   a high degree of accuracy, by which I mean fidelity to the original. A translation ought to reproduce as closely as is possible within the limits of the newer language, the thought and expression of the original . . . . When that is not true,   we have no translation but a paraphrase or a commentary.4
+
+1Nida, Bible Translating, pp. 11-12.
+
+2Ibid., p. 12.
+
+3Hilaire Belloc, Selected Essays (London and Philadelphia: J. B. Lippincott, 1936), pp. 310-311.
+
+4William A. McLoughlin, review of the Knox New Testament translation, The Thomist, Vol. VIII (April, 1945) p. 285.
+
+– 10 –
+
+Knox himself, however, advises that “the translator must never be frightened of the word ‘paraphrase’; it is a bogey of the half-educated . . . It is almost impossible to translate a sentence without paraphrasing.”1 J. B. Phillips agrees and urges that “when necessary the translator should feel free to expand or explains while preserving the original meaning as nearly as can be ascertained.”2, in a recent debate with Phillips on the subject of Bible translation, took the position that paraphrase “is permissible only when literal translation is liable to obscure the original meaning.” But he added that “on such occasions it is not only permissible, but it is imperative, and therefore becomes good translation.”3
+
+As a solution to the problem, Nida recommends a translation based upon the closest semantic equivalents in the two languages as representing a middle ground between the two extremes of “awkward literalness” on the one hand and “unjustified interpretations” on the other. He recognizes that “every translation will to some extent represent the theological views of the translator. It is impossible to avoid this. But such features should be kept at a minimum.” Since “the Bible is the heritage of the entire church” it should not be made the means or propagandizing one’s own special theories of interpretation.”4
+
+1Knox op. cit., p. 20.
+
+2J. B. Phillips, Letters to Young Churches (New York: MacMillan Co.,  1947), p. xi.
+
+3E. V. Rieu, “Translating the Gospels,” reprint of an interview between Rieu and Phillips on the BBC, Dec. 3, 1953, The Bible Translator? Vol. VI (Oct., 1955) pp. 150-159.
+
+4Nida, Bible Translating, p. 21.
+
+– 11 –
+
+The safest guide is to eliminate all additions which are not expressly in the text from which one is translating. There will be a greater number of obscure passages, but if they are obscure in the text itself their clarification should be left to teaching and to a commentary . . . .
+
+Note the translation of l Cor. 11:10 My Goodspeed: “She ought to wear upon her head something to symbolize her subjections out of respect to the angels, if to nobody else. The last phrase helps to make the meaning plainer, and yet this phrase is not in the original text. Such an addition should be avoided, even at the expense of less clarity.1
+
+Yet Nida also cautions that “translator must constantly be on guard against meaningless or totally obscure phrases.”2
+
+In a review of the Revised Standard Version, J. Y. Campbell questions the value of preserving obscurity in translation. “Is it really good enough to give an almost meaningless translation, and leave the ordinary reader to make what he can of it, without even a footnote to tell him that we simply do not know that the meaning is?” Criticizing the 1946 revision he suggests that it would have been better to give the interpretation accepted by the best scholars. “Then in a note they could have indicated that this interpretation is far from being certainly right.”3
+
+Translators have not agreed on whether or not alternative interpretations should be offered in the margin. Rule number 13 (b) of the American Bible Society states that “in important passages where the original admits of more than one meanings or where the meaning cannot be expressed adequately in one word or phrase, translators may put preferred renderings in the text and alternatives in the margin.”4 Goodspeed, however, chose
+
+ 
+
+1Ibid., p. 53. 2Ibid., p.20.
+
+3J. Y. Campbell “The New Testament: Revised Standard Version,” The Journal of Theological Studies, Vol. XLIX (1948), p. 121.
+
+4A Guide for Translators, Revisers, and Editors (New York: American Bible Society, 1932),  reprinted in the appendix of Nida, Bible Translating p. 297.
+
+ 
+
+– 12 –
+
+to include no notes whatsoever, with this brief explanation: “The translator has not interspersed the text with footnotes or captions of his own devising, preferring to leave it to make its own impression upon the reader.”1 Moffatt followed a similar policy or providing a minimum of notes.
+
+I have added a few notes . . . But they are deliberately few. Surely nothing is more calculated to deaden the interest of the public in any classic than the cult of various readings. There is a place for them, but their place is in technical works for scholars.   The text of any classic, whether ancient or modern, ought to be presented without notes upon differences in reading, except where these are absolutely needful. This applies in a special degree to translation.2
+
+These remarks were primarily concerning textual variants, but evidently
+Moffatt applied the same rule to alternative interpretations.
+
+On the contrary, Allen P. Wikgren, in a criticism of the 1946 Revised Standard Version, has urged that “where free and interpretative renderings of the Greek are adopted in the text itself on almost every page there can hardly be any valid objection to the marginal notation of at least such alternative interpretations of the Greek text as have highly commended themselves to scholar and translators.”3 In an article on “The
+Use of Marginal Notes in the English Bible,” Wikgren has further argued that:
+
+The right of the reader to understand what he reads will doubtless make a certain number of explanatory marginalia necessary so long as portions of the text are rendered in an antiquated and often unintelligible idiom. But even in a translation into modern speech a convincing argument might be made especially for comment on passages
+
+1E. J. Goodspeed, The New Testament: An American Translation (Chicago: University of Chicago Press, 1923), pp. vi-vii.
+
+2Moffatt, op. cit., p. xliii.
+
+3A. P. Wikgren, “The Revised Standard New Testament,” The Journal of Religion, Vol.  XXVII (April, 1947), p. 124.
+
+– 13 –
+
+where legitimate and important differences of interpretation still exist. When such go unmarked it means that one opinion or viewpoint may be imposed upon the unsuspecting reader without his being aware of an alternative. As Miles Smith put it, he may “be captivated to one, when it may be the other.”1
+
+Perhaps it might be argued that there is greater need for such marginal notation in church supported, “authorized” versions than in those prepared by individual translators, for as Craig has observed, “an official translation must stand in the tradition of the church and offer a consensus them than the opinions of any one man.”2
+
+The opinions noted above indicate the divergence of viewpoint there has been regarding the proper treatment of obscure and ambiguous passages. The actual translation of these problem passages in the versions will illustrate the extent to which such principles have affected New Testament translation. Few of the major English versions of the New Testament appear to have been the product of translators who have consistently followed any one of the above methods. Hence the purpose of this investigation has been to discover how and to what extent interpretation has entered into the translation of the New Testament text in each of the selected versions.
+
+Although there are many references to this question in works dealing with the history of the English Bible, it appears that as yet there have been but few special studies of the problem, none of them comprehensive. Books and papers have been written in criticism or defence of some particular version, but most of these are polemical and deal with matters
+
+1Alien P. Wikgren, “The Use of Marginal Notes in the English Bible,” The Crozer Quarterly, Vol. XXVII (April, 1950). p. 153.
+
+2C. T. Craig, “The Revised standard Version,” Journal of Bible and Religion, Vol. XIV (Feb. 1946), p. 33.
+
+– 14 –
+
+of dogma rather than principles of translation. Such, for instance, have been Gregory Martin’s famous 1582 A discovery of the manifold Corruptions of the Holy scriptures by the Heretics of our Day, especially by the English Sectaries, and of their foul dealing herein by partial and false Translations, to the advantage of their Heresies, in their English Bibles used and authorized since the Time of Schism; and William Fulke’s vigorous reply, in 1583, Defence of the Sincere and True Translation of the Holy Scriptures into the English Tongue, followed by The Text of the New Testament of Jesus Christ, translated out of the vulgar Latine by the Papists of the traiterous Seminaire at Rhemes, in 1589, in which he criticized the Catholic translation verse by verse; Thomas Cartwright’s 1618 A Confutation of the Rhemists Translation, Glosses and Annotations on the New Testament; and Thomas Ward’s 1810 Errata of the Protestant Bible. Through the centuries of Bible revision and translation each new major version has provoked dogmatic censure and oppositions culminating more recently in the barrage of criticism hurled at the Revised Standard Version. One critic was even moved to publish a pamphlet with the unambiguous title, Wresting the Scriptures: The Revised Standard Version Satan’s Subtle, Subversive Masterpiece. The Most Dangerous Book of the Twentieth Century.1 A number of other publications charging the Revised Standard Version with serious doctrinal bias are listed in the bibliography.
+
+Other more significant studies of some aspects of the problem have been presented by John Eadie in The English Bible, 1876;2 by Archdeacon
+
+ 
+
+1James Cowan, James, Wresting the Scriptures (Prince Albert: By the author, n.d.).
+
+2Eadie, op. cit., Vol. II. He discusses charges of bias brought against a number of the older versions.
+
+ 
+
+– 15 –
+
+Farrar in “Fidelity and Bias in Versions of the Bible,” 1882;1 and by R. C. Trench in a chapter entitled “On Some Charges Unjustly Brought against the Authorized version,” 1873.2
+
+Further Limitations of the Study
+
+The investigation has been confined to the main-stream of English and American translations and versions from Wycliffe to the Revised Standard of 1946, including the Geneva and Rheims versions, and to a number of the more important and popular translations of the seventieth century.3
+
+The versions included are as follows: Wycliffe, 1382; Tyndale, 1525; Coverdale, 1535; Rogers, 1537; the Great Bible, 1539; Taverner, 1539 the Geneva, 1560; the Bishops’, 1568; the Rheims, 1582; the King James, 1611; the English Revised, 1881; the Twentieth Century, 1900 (the date of publication of Part II, Paul’s Letters to the Churches, in the first and tentative edition); the American Standard, 1901; Weymouth, 1903; Moffatt, 1913; the Westminster, 1920 (the date of publication of Vol. III, St. Paul’s Epistles to the Churches); Goodspeed, 1923, Ballantine, 1923; Montgomery, 1924; Williams, 1937; Spencer, 1937; the Confraternity, 1941; the Basic English, 1941; Knox, 1944; Verkuyl, 1945; the Revised Standard, 1946; Phillips, 1947; Schonfield, 1955; and Lilly, 1956.
+
+1.F. W. Farrar, “Fidelity and Bias in Versions of the Bible,” The Expositor, Vol. III (1882), pp. 280ff.
+
+2R. C. Trench, On the Authorized Version of the New Testament (New
+York: Harper and Bros., 1873), pp. 163-174. He deals particularly with the problem of bias in translation.
+
+3Although Wycliffe’s translation is from the Latin, and although the influence of his version and Purvey’s revision upon later translation is doubtful, it has been included as representing the major beginnings of English New Testament translation. The other translations from the Latin have been included because of their wide use and influence.
+
+ 
+
+– 16 –
+
+Later editions of some of these versions have also been included in order to take note of significant and interesting modifications of renderings in the first editions.
+
+All but the first two of the older versions were examined at first hand in the collections of the University of Chicago; the Henry E. Huntington Library, in San Marino, California; the Pacific School of Religion; and the San Francisco Theological Seminary. The texts of Wycliffe and Tyndale were studied in the facsimiles of Forshall and Madden, and Francis Fry respectively.
+
+Inasmuch as the most important elements of interpretation are those which have entered into the translation of the text itself, only brief mention has been made of the interpretation present in the margins and other accessories to the text. These must occasionally be noted in order to determine the intent of the translators in an obscure rendering or to see if the translators have attempted to avoid the appearance of doctrinal bias by presenting alternative interpretations.
+
+A preliminary survey of the entire Greek New Testament produced so large a collection of problem passages that to include them all in this study would necessitate too bulky a report. Therefore, it has been assumed reasonable to suppose that a careful study of the various translations of problem passages in one of the longer and more difficult New Testament documents would provide sufficient evidence for comparing the principles and methods of translation employed in each of the versions. The epistle to the Romans has been selected as the document likely to produce the most significant results.
+
+ 
+
+– 17 –
+
+Method Employed in the Study
+
+The method employed has been to compile a list of the passages of doctrinal or exegetical significance in Romans which are sufficiently obscure and ambiguous to have resulted in important differences of opinion among translators and commentators and to find how each of the selected versions has translated them. The translations have been grouped under four classifications: (1) literal, obscure, and ambiguous; (2) literals but actually suggesting only one interpretation; (3) interpretative, with at least one alternative and/or the literal translation of the Greek in the margin; (4) interpretative, but with no alternative in the margin.
+Occasionally it has been necessary to use a fifth classification to include translations which avoid the problem of interpretation by translating in some other way.
+
+It might seem desirable to have an additional classification entitled, perhaps, “representative: that is, purposely preserving in the translation English the ambiguity of the Greek.” But it is usually too difficult to determine whether the translator has purposely attempted to preserve the ambiguity or has simply offered a literal rendering. Only rarely does a version seem to present a clearly “representative” translation, for example, Goodspeed’s translation of  in Matt. 5:48Open in Logos Bible Software (if available),  ”You are to be perfect” (Is it a command or a promise?), or Knox’s translation of  in Rom. 3:9Open in Logos Bible Software (if available), ”Has either side the advantage?”
+
+The results of the study have been arranged as follows: First, the problem passage is quoted in the Greek of Nestle’s twenty-first edition of 1952. Where necessary, textual variants are noted. The translation possibilities of the passage are briefly discussed to show its ambiguity.
+
+ 
+
+– 18 –
+
+In order to illustrate further the important differences of opinion that exist with respect to the translation and interpretation of the passage, the opinions of various representative grammarians, commentators, lexicographers, and translators are cited. Then the translations offered by the versions and editions are listen and grouped under the four or five classifications. The results are then summarized and discussed and evidence of doctrinal bias considered.
