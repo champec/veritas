@@ -130,6 +130,14 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 - **The she-bears mauling the youths (2 Kings 2:23–24)** — After Elisha is jeered, two bears maul forty-two youths. Belongs with the other "irreverence" stories (Uzzah; Nadab and Abihu) and should be studied together rather than explained alone.
 - **Fire from heaven on the fifties (2 Kings 1)** — Fire consumes the soldiers sent to seize Elijah. Note the explicit contrast in the Gospels: when the disciples wanted to call down fire "as Elijah did," Jesus refused, "I have not come to destroy but to save." Read this severe story through Jesus (see `biblical-interpretation.md`).
 
+### Esther
+
+- **The Jews' violent self-defense (Esther 8–9)** — Given permission to defend themselves against those who sought their lives, the Jews killed many thousands. Heaven offers no comment, for or against. Note two things before forming a conclusion: they should not have been scattered in Persia in the first place (this is an emergency story, far from the ideal), and they pointedly took no plunder, though the decree allowed it. As with other emergency-era acts, Scripture records the deed without commending it; the ideal is seen in how Jesus later treats His enemies.
+
+### Psalms
+
+- **The vengeance / imprecatory psalms (Ps 58, 69, 94, 109, 137, 139)** — Some psalms call down brutal vengeance: "bathe his feet in the blood of the wicked" (58), "happy shall he be who dashes your little ones against the rock" (137), "may his children be fatherless and his wife a widow" (109). *Resolved* — these reveal the *human author's* honest feelings, not God's endorsement. Heaven adds no correction precisely because they are *truthful* prayers (see Principle 11, "God Invites Us to Express Ourselves Honestly and Openly"), and God's own answer to the cry for vengeance is "leave vengeance to Me" (whose aim is to win, not destroy—see Principle 6). They must be read as whole *songs of experience*, not plucked as God's ideal (see `biblical-interpretation.md`).
+
 ### Deuteronomy
 
 - **Severe laws and curses** — How should the warnings, curses, and severe laws be understood in light of Jesus' gentleness?
@@ -137,7 +145,9 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 - **Illegitimate children excluded for ten generations** — What context explains such a severe-sounding rule?
 - **Strong drink in Deuteronomy 14** — Why would God permit strong drink at a religious gathering if that is not His ideal?
 - **Do not boil a kid in its mother's milk** — What context explains this unusual command?
+### Isaiah
 
+- **The worm and fire that shall not be quenched (Isaiah 66:24)** — The final verse of Isaiah describes people "going forth to look on the dead bodies" of those who have rebelled, where "their worm shall not die and their fire shall not be quenched." On the surface this appears to describe eternal conscious torment continuing forever alongside the joy of the new earth. *Resolved* — see the grounded entry below.
 ---
 
 ## Developing Context Notes
@@ -304,6 +314,25 @@ This is severe but not ungodlike. God does not hate or despise these women and c
 
 **Weak explanations to avoid:**  
 Do not explain this by "they shouldn't have married pagans, so they deserved it," or treat it as God endorsing the casual breaking of families. The point is the specific emergency: protecting the survival of the only people still carrying the truth.
+
+### Isaiah 66:24 — The Worm and Fire That Shall Not Be Quenched
+
+**Surface problem:**  
+The final verse of Isaiah reads: *"They shall go forth and look on the dead bodies of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched, and they shall be an abhorrence to all flesh."* Read next to Isaiah 65–66's glorious picture of new heavens and a new earth, no more weeping, no more death — this appears to describe a section of eternal conscious torment that continues forever alongside the joy of the redeemed. It makes God appear willing to preserve horror indefinitely, even in the restored creation.
+
+**Proper context:**  
+The image is Gehenna — the garbage dump in the Valley of Hinnom outside Jerusalem, where fires burned continuously and worms consumed what the fire did not reach. This was familiar to every Jew hearing Isaiah. The phrase "the fire is not quenched" does not mean the fire burns forever; it means the fire is not put out before its job is done — it burns until there is nothing left. Malachi adds the explicit conclusion: the wicked will be "stubble... the fire will burn them up and leave them neither root nor branch" — nothing remains (Malachi 4:1). The fire does its work completely and then has nothing more to fuel it.
+
+This image cannot stand alongside Isaiah 65:17, which says the former things "shall not be remembered or come into mind," or Isaiah 65:19–20, which says there will be no more weeping or crying. You cannot have eternal ongoing torment and also have no more weeping. The passages must be held together: the end of rebellion is thorough destruction, not eternal torture.
+
+**What God is doing:**  
+Isaiah is using the most vivid image his audience knew — the garbage dump where nothing good was preserved — to say that rebellion ends in complete and final destruction, not in any kind of continuation or survival.
+
+**What this shows about God:**  
+God does not keep a section of torment burning forever in the new earth as a warning or deterrent. The end of those who reject His love is destruction, not eternal suffering. The new creation is genuinely new — no preserved horror, no ongoing screaming. The fire does its work and is done. This is consistent with God's character: He does not keep the lost alive to suffer indefinitely; He lets them go, and they perish.
+
+**Weak explanations to avoid:**  
+Do not read "the fire is not quenched" as meaning the fire never goes out for all eternity. The same expression is used in Jeremiah 17:27 of a fire that would burn Jerusalem "and shall not be quenched" — that fire burned Jerusalem and is now long since out. "Not quenched" means not extinguished prematurely, not that it burns without end. Do not force an eternal-torment reading onto a text whose surrounding context explicitly contradicts it.
 
 ---
 

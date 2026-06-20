@@ -120,3 +120,102 @@ This is a warning against reading the Bible as a code book of deeds to be done a
 **Working question:**
 
 Is this reading leading me to know God better, or only to keep rules more carefully? Correct behavior without knowing God's character is exactly the mistake that ended in rejecting Christ.
+
+---
+
+## Read Psalms and Whole Prayers as Units, Not Plucked Verses
+
+A psalm, prayer, or song is a single movement of thought and must be read whole. Plucking an isolated verse out of it can produce the exact opposite of what the song actually says.
+
+Psalm 77 is the clearest example. Its first half is pure discouragement—"Will the Lord spurn forever? Has God forgotten to be gracious?"—and a verse lifted from there (e.g., "the right hand of the Most High has changed," 77:10) makes God sound fickle. But the psalm turns at "I will remember the deeds of the LORD," and resolves into confident praise. The message is in the whole, not in either half alone. The same danger applies to harvesting "precious promises" verse by verse: you cannot know you have picked the right ones, or what the lines in between were for.
+
+A practical bonus: when psalms are taken whole, differences between Bible translations become unimportant, because the overall intention of each psalm comes through the same in every version, even where a single verse is rendered very differently.
+
+**Working question:**
+
+Am I lifting a verse out of a song whose whole movement might mean something different—even the opposite—of this line by itself?
+
+---
+
+## "Messianic" Psalms Are Parallels of Experience, Not a Prediction-Checklist
+
+Several psalms are quoted of Christ in the New Testament (Ps 22, 69, 40), but they should not be read as a list of predictions Jesus mechanically recited to "fulfill prophecy." They are *songs of experience* with significant parallels to His.
+
+The test is that these psalms contain lines Jesus plainly did *not* speak. Psalm 69 cries, "Pour out your indignation upon them... let them be blotted out of the book of the living"—but on the cross Jesus said, "Father, forgive them, they know not what they do." Psalm 22 begins with His very words, "My God, my God, why have you forsaken me," yet David is the one crying them about his own suffering. So the psalmist genuinely went through these experiences; Jesus then entered the same kind of suffering—only far more intensely—and always responded *better*, forgiving where the psalmist cursed. The value is in the real parallel, not in pretending every line is a prediction.
+
+**Working question:**
+
+Am I treating this psalm as a checklist of predictions, or as a real human experience that parallels Christ—who entered the same suffering and responded better?
+
+---
+
+## "The Fear of the Lord" Usually Means Reverence, Not Terror
+
+The word translated "fear" carries a range of meanings—from raw terror to reverent respect, honor, and awe—and the right meaning must be read from context. Treating every "fear of the Lord" as terror produces a distorted, frightening picture of God.
+
+Proverbs 9:10 settles it by Hebrew parallelism: "The fear of the LORD is the beginning of wisdom" is matched in the next line with "the knowledge of the Holy One is insight." In Scripture, to *know* someone (as "Adam knew Eve") implies love, trust, and intimacy; so "the knowledge of the Holy One" means to admire and love Him—which is what "the fear of the LORD" means here: reverence, not fright. Other passages confirm it ("happy is the man who fears the LORD" cannot mean happy is the man scared of God), as does 1 John 4: "perfect love casts out fear… fear has to do with punishment." Even the first angel's message, "Fear God and give Him glory," is better read as "honor, reverence God."
+
+**Working question:**
+
+Does "fear" here mean terror, or reverent respect? Which meaning fits the context and the God revealed in Jesus?
+
+---
+
+## Proverbs Are General Maxims, Not Absolute Guarantees or Proof-Texts
+
+A proverb is a compact statement of a *general* truth. It must not be pressed into an absolute promise, nor plucked in isolation to "prove" a doctrine.
+
+- **Not an absolute guarantee:** "Train up a child in the way he should go, and when he is old he will not depart from it" (Prov 22:6) states a general truth—good upbringing greatly improves the outcome—not an ironclad promise. The proof that it cannot be absolute: God was the perfect parent in a perfect environment and still "lost" a third of His angels. Reading it as a guarantee forces the false conclusion that every wayward child proves bad parents (and that God Himself failed).
+- **Not a proof-text:** the wine sayings are scattered across Proverbs (20:1; 23:29–35; 31:4–7). Lift "give strong drink to him who is perishing… let them drink and forget their poverty" (31:6–7) out of context and you can "prove" the church should open saloons. Read whole and in setting—a mother's counsel to a king, and the easing of those who are dying—and the real sense appears. Building doctrine "here a little, there a little" can prove almost anything.
+
+**Working question:**
+
+Am I reading this proverb as the general truth it is, or forcing it into an absolute guarantee—or lifting a single verse out of the wider context that gives it meaning?
+
+---
+
+## God's "Discipline" Means Instruction, Not Punishment
+
+Passages that say "whom the Lord loves He disciplines" (Prov 3:11–12; quoted in Hebrews 12 and Revelation 3) are easily misread as "whom the Lord loves He punishes." The word study corrects this. The King James "chasten" suggests punishment, but the New Testament word is *paideuo* (from the root *paid-*, a child, as in *pediatrician*, *pedagogue*)—to instruct or bring up *as a child*. To disciple someone is to *teach* them, not to punish them.
+
+So God's discipline is loving instruction that does "whatever is necessary" to teach and restore, the way a good parent corrects a child for the child's own growth. This is a distinct category from imposed penalty: God's correction aims at instruction and restoration, not retribution.
+
+**Working question:**
+
+Am I reading God's "discipline" as punishment/retribution, or as the loving instruction the word actually means?
+
+---
+
+## Read Ecclesiastes Whole—Take Only the Author's Final Conclusion
+
+Ecclesiastes is a tired old king's record of regret, looking back on a wasted life. Much of it is the language of discouragement and depression ("vanity of vanities… all is vanity"), not settled doctrine. So a verse must not be plucked from the middle of his despair and treated as a teaching of Scripture.
+
+The classic misuse is "the dead know nothing" (Eccl 9:5), pressed into a proof-text about the state of the dead. But that line expresses Solomon's gloom, not a doctrine—even the Living Bible footnotes it as the author's discouraged outlook. The book itself tells us where to find its real verdict: "the end of the matter; all has been heard" (12:13). Read the whole book and wait for the author's own conclusion before drawing a teaching from it.
+
+**Working question:**
+
+Is this verse the author's settled conclusion, or an expression of his discouragement that the book itself later resolves?
+
+---
+
+## Take the Simplest Natural Meaning Before Forcing an Allegory
+
+The Song of Solomon is often forced into a full allegory of "Christ's love for the church." But the allegory breaks down on its own details—who, in that scheme, are the sixty queens and eighty concubines? When a reading has to strain every detail to fit, that is a sign it is being imposed rather than drawn out.
+
+Its irreducible, natural meaning is simply human love—and that itself speaks eloquently of God. The marriage-as-God's-love picture is genuine elsewhere in Scripture (Hosea, Isaiah 54, Jeremiah 3, Ephesians 5), so nothing is lost by reading this book plainly. The simplest meaning that fits the whole is usually the right one.
+
+**Working question:**
+
+Am I drawing the natural meaning out of the text, or forcing an allegory the details won't support?
+
+---
+
+## God's Forgiveness Comes First—Repentance Is Our Response to It
+
+It is easy to read the gospel backwards: that God forgives us *because* we repent, as if our sorrow earns His pardon. The prodigal son shows the opposite order. The father had already forgiven the son and was watching the road long before the boy finished (or even began) his repentance speech—"the kindness of his father led him to repentance" (cf. Romans 2:4).
+
+Stated plainly: "I don't believe God forgives us when we repent; I believe we repent when we find God has long ago forgiven us." Forgiveness is *prior*; discovering it is what melts the heart and turns us home. This guards against picturing a God who waits, arms folded, until we have grovelled enough to deserve mercy. (Solomon and David writing Scripture *after* their worst failures are the lived demonstration of this—see the book summaries.)
+
+**Working question:**
+
+Am I treating repentance as the price that earns God's forgiveness, or as the response awakened by a forgiveness already offered?
