@@ -186,6 +186,18 @@ Am I reading God's "discipline" as punishment/retribution, or as the loving inst
 
 ---
 
+## God Is Not Two-Faced — Love and Justice Are the Same Thing in Him
+
+A common misreading treats God as having two faces: a loving face and a "justice" face — as if love and justice were different dispositions that alternate depending on the situation. The Bible presents them as the same thing, all the time.
+
+"To be loving is to be just, to be justice, to be righteous, to be righteousness, to be merciful — they're all the same thing, all the time. God does not change in the end." The picture of a God who is loving now but will be "just" (meaning severe) later misrepresents Him. He is the same at the end as He is now. His wrath is not a different disposition from His love — it is His love letting go those who refuse it.
+
+**Working question:**
+
+Am I picturing God as loving sometimes and severe other times, or as the same all the time — whose love and justice are one?
+
+---
+
 ## Read Ecclesiastes Whole—Take Only the Author's Final Conclusion
 
 Ecclesiastes is a tired old king's record of regret, looking back on a wasted life. Much of it is the language of discouragement and depression ("vanity of vanities… all is vanity"), not settled doctrine. So a verse must not be plucked from the middle of his despair and treated as a teaching of Scripture.
@@ -219,3 +231,27 @@ Stated plainly: "I don't believe God forgives us when we repent; I believe we re
 **Working question:**
 
 Am I treating repentance as the price that earns God's forgiveness, or as the response awakened by a forgiveness already offered?
+
+---
+
+## Scripture Often Says God "Does" What He Actually Permits
+
+A recurring Hebrew idiom attributes directly to God's action what God in fact *allowed*. Read flatly, these passages make God the active author of evil; read with the idiom in view, they describe a God who, as ruler, accepts responsibility for what He permits without being the one who inflicts it.
+
+Ezekiel supplies a stark case: "Moreover I gave them statutes that were not good… and I defiled them through their very gifts, in making them offer by fire all their firstborn" (Ezek 20:25–26). God did not command child sacrifice—elsewhere He calls it detestable; the text speaks of His giving a rebellious people over to the ruinous path they themselves chose. The same idiom lies behind "thus God slew Saul" (when Saul fell on his own sword, 1 Chron 10), "God hardened Pharaoh's heart," and the wrath-as-letting-go language of Ezekiel 18 and Hosea. *(This pattern is treated in full in `proper-context.md`, "God Did What He Allowed—and the Meaning of God's Wrath.")*
+
+**Working question:**
+
+Does this passage mean God actively did this, or that He permitted it and, as ruler, accepts responsibility for what He allowed?
+
+---
+
+## Don't Build Doctrine on Obscure Symbols—Start with the Clear Picture of Christ
+
+Ezekiel's wheels within the wheels, the river from the temple, and similar symbols have generated endless speculation: a newspaper once claimed Ezekiel saw a *spaceship*; "Rosh" (a word for *head* or *chief*) is read as "Russia"; "the powers of the heavens shall be shaken" is twisted by sound-alikes into "the powers of uranium shall be split." Such methods can prove almost anything.
+
+The safe approach is the reverse: take the Bible as a whole, begin with the plain revelation of God in the life of Christ, and only then venture into the symbols—never resting a doctrine on a symbol whose meaning cannot be pinned down. Even Ezekiel's own conclusion was simply, "such was the appearance of the likeness of the glory of the LORD," and that overall message was enough to send him out reassured.
+
+**Working question:**
+
+Am I reading this symbol in light of the clear picture of God in Christ and the whole of Scripture, or building a doctrine on a detail whose meaning cannot be established?

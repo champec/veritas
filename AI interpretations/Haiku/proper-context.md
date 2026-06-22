@@ -138,6 +138,11 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 
 - **The vengeance / imprecatory psalms (Ps 58, 69, 94, 109, 137, 139)** — Some psalms call down brutal vengeance: "bathe his feet in the blood of the wicked" (58), "happy shall he be who dashes your little ones against the rock" (137), "may his children be fatherless and his wife a widow" (109). *Resolved* — these reveal the *human author's* honest feelings, not God's endorsement. Heaven adds no correction precisely because they are *truthful* prayers (see Principle 11, "God Invites Us to Express Ourselves Honestly and Openly"), and God's own answer to the cry for vengeance is "leave vengeance to Me" (whose aim is to win, not destroy—see Principle 6). They must be read as whole *songs of experience*, not plucked as God's ideal (see `biblical-interpretation.md`).
 
+### Ezekiel
+
+- **"I gave them statutes that were not good… making them offer by fire all their firstborn" (Ezekiel 20:25–26)** — God appears to give harmful laws and even to be behind child sacrifice. *Resolved* — part of the "God did what He allowed" pattern: God did not command child sacrifice (He calls it detestable) but gave a rebellious people over to the ruinous path they chose. See the grounded entry "God Did What He Allowed—and the Meaning of God's Wrath" in Developing Context Notes, and the matching note in `biblical-interpretation.md`.
+- **God forbids Ezekiel to mourn his wife's death (Ezekiel 24:15–24)** — God takes "the delight of your eyes" and tells Ezekiel not to weep, as a living sign of Jerusalem's coming loss. Hard on the surface. Note the pattern: like Job and Hosea, a close friend of God is asked to bear a painful thing in order to "say something" true about God. Scripture records the cost without minimizing it; study alongside the other "friends asked to suffer a sign" cases before forming a conclusion.
+
 ### Deuteronomy
 
 - **Severe laws and curses** — How should the warnings, curses, and severe laws be understood in light of Jesus' gentleness?
@@ -145,9 +150,7 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 - **Illegitimate children excluded for ten generations** — What context explains such a severe-sounding rule?
 - **Strong drink in Deuteronomy 14** — Why would God permit strong drink at a religious gathering if that is not His ideal?
 - **Do not boil a kid in its mother's milk** — What context explains this unusual command?
-### Isaiah
 
-- **The worm and fire that shall not be quenched (Isaiah 66:24)** — The final verse of Isaiah describes people "going forth to look on the dead bodies" of those who have rebelled, where "their worm shall not die and their fire shall not be quenched." On the surface this appears to describe eternal conscious torment continuing forever alongside the joy of the new earth. *Resolved* — see the grounded entry below.
 ---
 
 ## Developing Context Notes
@@ -155,7 +158,7 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 ### "God Did What He Allowed" — and the Meaning of God's Wrath
 
 **Surface problem:**  
-Scripture repeatedly says God *did* destructive things that, on closer reading, someone else actually did or that God merely permitted: "God hardened Pharaoh's heart"; "thus God slew Saul" (when Saul fell on his own sword); "God incited David to number Israel" (called Satan's work in 1 Chronicles 21:1); "the LORD has put a lying spirit in the mouth of these prophets" (1 Kings 22). Read flatly, these make God the active author of evil and destruction.
+Scripture repeatedly says God *did* destructive things that, on closer reading, someone else actually did or that God merely permitted: "God hardened Pharaoh's heart"; "thus God slew Saul" (when Saul fell on his own sword); "God incited David to number Israel" (called Satan's work in 1 Chronicles 21:1); "the LORD has put a lying spirit in the mouth of these prophets" (1 Kings 22); "I gave them statutes that were not good… making them offer by fire all their firstborn" (Ezekiel 20:25–26). Read flatly, these make God the active author of evil and destruction.
 
 **Proper context:**  
 These passages form a single pattern in which God accepts responsibility for what He permits. The clearest key is Job: God did not take Job's family, wealth, and health—He permitted Satan to do it—yet the language can read as though God did it. The same idiom runs through the whole Bible. Behind it stands the great-controversy setting, with a real adversary, so the destruction has a real source other than God even when the text says "God did" it.
@@ -315,24 +318,26 @@ This is severe but not ungodlike. God does not hate or despise these women and c
 **Weak explanations to avoid:**  
 Do not explain this by "they shouldn't have married pagans, so they deserved it," or treat it as God endorsing the casual breaking of families. The point is the specific emergency: protecting the survival of the only people still carrying the truth.
 
-### Isaiah 66:24 — The Worm and Fire That Shall Not Be Quenched
+---
+
+### Israel Was a Means to Win the World — Not a Favorite Nation Above All
 
 **Surface problem:**  
-The final verse of Isaiah reads: *"They shall go forth and look on the dead bodies of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched, and they shall be an abhorrence to all flesh."* Read next to Isaiah 65–66's glorious picture of new heavens and a new earth, no more weeping, no more death — this appears to describe a section of eternal conscious torment that continues forever alongside the joy of the redeemed. It makes God appear willing to preserve horror indefinitely, even in the restored creation.
+Much of the Old Testament reads as if God plays favorites — choosing Israel, blessing Israel, fighting for Israel, while other nations are conquered or destroyed. This can make God appear ethnocentric, as if He values one nation above all others.
 
 **Proper context:**  
-The image is Gehenna — the garbage dump in the Valley of Hinnom outside Jerusalem, where fires burned continuously and worms consumed what the fire did not reach. This was familiar to every Jew hearing Isaiah. The phrase "the fire is not quenched" does not mean the fire burns forever; it means the fire is not put out before its job is done — it burns until there is nothing left. Malachi adds the explicit conclusion: the wicked will be "stubble... the fire will burn them up and leave them neither root nor branch" — nothing remains (Malachi 4:1). The fire does its work completely and then has nothing more to fuel it.
+Israel was not chosen because God loved them more than other nations. Israel was chosen as a *means* to win the world — the channel through which the knowledge of the true God would be preserved and carried, and through which the promised Redeemer would come. The Bible focuses on this one line because that is where God most particularly dealt with the problems that reveal the truth about Himself — not because He is indifferent to everyone else.
 
-This image cannot stand alongside Isaiah 65:17, which says the former things "shall not be remembered or come into mind," or Isaiah 65:19–20, which says there will be no more weeping or crying. You cannot have eternal ongoing torment and also have no more weeping. The passages must be held together: the end of rebellion is thorough destruction, not eternal torture.
+The same books that describe Israel's special calling also show God working with people outside Israel: Rahab, Ruth, Naaman the Syrian, Cyrus, the message to Belshazzar, Jonah's mission to Nineveh, Peter and Cornelius. John 3:16 says "God so loved the world" — everybody in it. If the Bible contained all God has done everywhere, "there wouldn't be room in the world to hold all the books."
 
 **What God is doing:**  
-Isaiah is using the most vivid image his audience knew — the garbage dump where nothing good was preserved — to say that rebellion ends in complete and final destruction, not in any kind of continuation or survival.
+God is preserving a channel of truth through a fragile, often unfaithful people — not because they are superior, but because that is how He has chosen to keep the knowledge of Himself alive in a world that was losing it. The choice of Israel is an emergency measure for the sake of the world, not a statement of favoritism.
 
 **What this shows about God:**  
-God does not keep a section of torment burning forever in the new earth as a warning or deterrent. The end of those who reject His love is destruction, not eternal suffering. The new creation is genuinely new — no preserved horror, no ongoing screaming. The fire does its work and is done. This is consistent with God's character: He does not keep the lost alive to suffer indefinitely; He lets them go, and they perish.
+God is not ethnocentric. He loves all His children — He watches the sparrow fall and knows the number of hairs on every head. He counts all His children, even the badly behaved ones. Israel's special role was a means to win the world, not evidence that God plays favorites. When Israel misunderstood their calling as privilege rather than responsibility, they missed the point — and God said so through the prophets.
 
 **Weak explanations to avoid:**  
-Do not read "the fire is not quenched" as meaning the fire never goes out for all eternity. The same expression is used in Jeremiah 17:27 of a fire that would burn Jerusalem "and shall not be quenched" — that fire burned Jerusalem and is now long since out. "Not quenched" means not extinguished prematurely, not that it burns without end. Do not force an eternal-torment reading onto a text whose surrounding context explicitly contradicts it.
+Do not explain Israel's special treatment by "they were God's favorite," or "God can choose whomever He wants." The choice was functional — to preserve and carry the truth for the sake of all nations — not a statement that God values one people above another.
 
 ---
 
