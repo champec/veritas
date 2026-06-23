@@ -146,7 +146,7 @@ But each case must be grounded in its own context. Do not use this as a blanket 
 ### Deuteronomy
 
 - **Severe laws and curses** — How should the warnings, curses, and severe laws be understood in light of Jesus' gentleness?
-- **Divorce laws** — Why would God regulate divorce if Jesus later says “from the beginning it was not so”?
+- **Divorce laws** — Why would God regulate divorce if Jesus later says “from the beginning it was not so”? *Resolved* — see the grounded entry "The Laws of Divorce and God's Accommodations" in Developing Context Notes below.
 - **Illegitimate children excluded for ten generations** — What context explains such a severe-sounding rule?
 - **Strong drink in Deuteronomy 14** — Why would God permit strong drink at a religious gathering if that is not His ideal?
 - **Do not boil a kid in its mother's milk** — What context explains this unusual command?
@@ -338,6 +338,25 @@ God is not ethnocentric. He loves all His children — He watches the sparrow fa
 
 **Weak explanations to avoid:**  
 Do not explain Israel's special treatment by "they were God's favorite," or "God can choose whomever He wants." The choice was functional — to preserve and carry the truth for the sake of all nations — not a statement that God values one people above another.
+
+---
+
+### The Laws of Divorce and God's Accommodations
+
+**Surface problem:**  
+God authorized laws in Deuteronomy 24 that regulate divorce (allowing a man to write a certificate of divorce and put his wife away). This can seem as if God is indifferent to the sanctity of marriage or has low ethical standards that permit the mistreatment and abandonment of women.
+
+**Proper context:**  
+In Matthew 19, the Pharisees tested Jesus on this very point, asking why Moses *commanded* a certificate of divorce if God originally designed them to be one flesh. Jesus replied: *"For your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so."* The original creation ideal (Genesis 1-2) was permanent, loving union. The Deuteronomy law was not a statement of God's ideal or active approval; it was a protective regulation under emergency circumstances to prevent far worse abuse of women in a highly patriarchal society when marriage covenants collapsed.
+
+**What God is doing:**  
+God is practicing divine accommodation (meeting people where they are). Knowing the stiffness of Israel's necks and the hardness of their hearts, He stooped to regulate and introduce safeguards into their highly imperfect practices. This is structurally identical to God allowing Israel to have a king, permitting them to eat meat instead of angels' food, or helping them organize an army. These concessions were emergency measures to prevent greater evil and keep contact with the people, not divine endorsements of the practices themselves.
+
+**What this shows about God:**  
+God's character is incredibly gracious, patient, and humble. Rather than refusing to lead or walk with people until they are morally perfect, He acts as a patient teacher who works within human limitations and hard-hearted custom to slowly draw them toward His ideal. His willingness to stoop and regulate a compromised system is an act of love, not a lowering of His eternal standard.
+
+**Weak explanations to avoid:**  
+Do not explain this by claiming "God changed His mind about marriage" or "divorce is morally acceptable to God because He once permitted it." Do not say "Moses did this on his own." Jesus makes it clear that the concession was an active, strategic choice of accommodation by God due to human "hardness of heart."
 
 ---
 
