@@ -405,6 +405,117 @@ blockquote {
   flex-shrink: 0;
 }
 
+.book-detail-header {
+  padding-bottom: 3rem;
+}
+
+.book-subtitle {
+  max-width: 42rem;
+  color: var(--text-muted);
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin-top: 1rem;
+}
+
+.book-back {
+  padding: 2rem 0 0;
+  font-family: var(--font-head);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.book-tabs {
+  display: flex;
+  gap: 0.75rem;
+  padding: 2rem 0 0;
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+}
+
+.book-tab {
+  appearance: none;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: var(--radius) var(--radius) 0 0;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: var(--font-head);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.85rem 1rem;
+  white-space: nowrap;
+  transition: background var(--transition), color var(--transition), border-color var(--transition);
+}
+
+.book-tab:hover,
+.book-tab.is-active {
+  background: var(--bg-card);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.book-panel {
+  max-width: 52rem;
+  padding: 3rem 0 1rem;
+}
+
+.book-section + .book-section {
+  margin-top: 3.5rem;
+  padding-top: 3rem;
+  border-top: 1px solid var(--border);
+}
+
+.book-section h2 {
+  margin-bottom: 1rem;
+}
+
+.book-section-intro {
+  max-width: 42rem;
+  color: var(--text-muted);
+}
+
+.evidence-list,
+.lesson-list,
+.principle-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.evidence-card,
+.lesson-card,
+.principle-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.35rem;
+}
+
+.evidence-kind {
+  font-family: var(--font-head);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.45rem;
+}
+
+.lesson-card h3,
+.principle-card h3 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.principle-card.is-current-book {
+  border-left: 3px solid var(--accent);
+}
+
 /* --- Essays page ------------------------------------------- */
 .essays-list {
   padding: 3rem 0;
@@ -544,6 +655,10 @@ blockquote {
   .hero-sub { font-size: 1.1rem; }
 
   .essay-item { grid-template-columns: 1fr; }
+
+  .book-tabs { gap: 0.5rem; }
+  .book-tab { font-size: 0.7rem; padding-inline: 0.8rem; }
+  .book-panel { padding-top: 2rem; }
 
   .site-footer .container { flex-direction: column; align-items: flex-start; }
 }

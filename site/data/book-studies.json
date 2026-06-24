@@ -1,0 +1,105 @@
+{
+  "books": {
+    "genesis": {
+      "title": "Genesis",
+      "subtitle": "Creation, rupture, promise, and the beginning of God's long work of restoration.",
+      "summary": [
+        "Genesis opens with God creating a good world and entrusting human beings with meaningful freedom. The book quickly turns to rupture: distrust enters the human family, violence spreads, and the created order is bent away from its purpose.",
+        "Even so, Genesis is not chiefly a record of collapse. It follows God patiently pursuing people through judgment, promise, covenant, and family history. Abraham, Isaac, Jacob, and Joseph become witnesses to a God who keeps working through damaged people without surrendering His original intention."
+      ],
+      "evidence": [
+        { "kind": "Action by God", "point": "God seeks Adam and Eve after their failure instead of abandoning them to hiding." },
+        { "kind": "Word from God", "point": "God promises that evil will not have the final word, even while naming the real consequences of distrust." },
+        { "kind": "Human response", "point": "Abraham argues for justice over Sodom, showing that God allows moral questions from His friends." },
+        { "kind": "Providence", "point": "Joseph's story shows God working through human betrayal without becoming the author of the betrayal." }
+      ],
+      "lessons": [
+        { "title": "God begins with blessing", "text": "Before command, failure, or judgment, Genesis presents God as generous Creator. The first word about Him is abundance, not suspicion." },
+        { "title": "God pursues without coercing", "text": "He asks questions, makes promises, gives warnings, and keeps relationships open. He does not erase freedom in order to get quick compliance." },
+        { "title": "God can work through fractured families", "text": "Genesis refuses to pretend its heroes are clean. The point is not their moral polish, but God's faithfulness amid complicated human stories." }
+      ],
+      "principles": [
+        { "title": "God restores by truth and trust", "text": "Genesis introduces the pattern: God answers distrust by revealing Himself over time. The same principle grows through Exodus, Hosea, and the Gospels, where God keeps moving toward people with evidence rather than force.", "highlightsCurrentBook": true },
+        { "title": "Judgment serves mercy", "text": "Flood, Babel, and Sodom are severe scenes, but each is framed by restraint, warning, and preservation. Later prophets carry this same pattern when judgment interrupts destruction so restoration remains possible.", "highlightsCurrentBook": true }
+      ]
+    },
+    "exodus": {
+      "title": "Exodus",
+      "subtitle": "Deliverance from bondage and the formation of a people learning to trust.",
+      "summary": [
+        "Exodus tells the story of Israel's rescue from slavery, but it is also a public contest over what kind of ruler God is. Pharaoh rules by domination, forced labor, and fear. God answers by hearing the oppressed, confronting the empire, and leading former slaves toward covenant life.",
+        "The book then follows Israel into the wilderness, where freedom proves harder than escape. God feeds, guides, instructs, and remains present with a people who repeatedly misread Him."
+      ],
+      "evidence": [
+        { "kind": "Action by God", "point": "God hears the cries of the enslaved and acts before Israel has become faithful or strong." },
+        { "kind": "Word from God", "point": "God identifies Himself as the One who brings people out of bondage, making liberation central to His self-revelation." },
+        { "kind": "Action by God", "point": "He provides manna before Israel has learned steady trust, meeting need while teaching dependence." },
+        { "kind": "Mediation", "point": "God listens to Moses after the golden calf, showing that intercession is welcomed rather than treated as rebellion." }
+      ],
+      "lessons": [
+        { "title": "God opposes systems that crush people", "text": "Exodus reveals divine power as liberation, not domination. God's strength is directed against bondage and toward restored human dignity." },
+        { "title": "God teaches freed people how to live free", "text": "The wilderness commands are not random restrictions. They train a traumatized people to become a trustworthy community." },
+        { "title": "God wants presence, not distance", "text": "The tabernacle places God's presence in the middle of the camp. His goal is not merely rescue from Egypt, but life with His people." }
+      ],
+      "principles": [
+        { "title": "Power is safest in self-giving hands", "text": "Exodus contrasts Pharaoh's power with God's. The same contrast continues in Daniel, Matthew, and Revelation, where God's kingdom is shown by rescue, service, and truth rather than coercion.", "highlightsCurrentBook": true },
+        { "title": "God meets fear with patient evidence", "text": "Israel keeps fearing abandonment, and God keeps answering with provision. This pattern echoes in Numbers, Psalms, and the ministry of Jesus.", "highlightsCurrentBook": true }
+      ]
+    },
+    "leviticus": {
+      "title": "Leviticus",
+      "subtitle": "Ritual, holiness, and God's patient teaching through visible forms.",
+      "summary": [
+        "Leviticus can appear distant because it is full of sacrifices, priestly instructions, purity laws, and ceremonial detail. Read inside the larger story, those details become a teaching system for a people still learning what life with God means.",
+        "The book presents holiness not as cold separation, but as ordered life near a God who wants His people healed, truthful, and morally awake. Its rituals are not the destination; they are concrete lessons meant to lead toward trust."
+      ],
+      "evidence": [
+        { "kind": "Action by God", "point": "God provides structured worship for people who need visible help understanding sin, restoration, and nearness." },
+        { "kind": "Word from God", "point": "The repeated call to holiness is tied to God's own character: Israel is to live differently because God is different." },
+        { "kind": "Instruction", "point": "Laws about the poor, the foreigner, and fair dealing show that holiness includes social integrity." },
+        { "kind": "Warning", "point": "Priestly carelessness is treated seriously because worship can either clarify or distort the picture of God." }
+      ],
+      "lessons": [
+        { "title": "God teaches at the level people can receive", "text": "Leviticus uses tangible practices to communicate realities Israel was not ready to grasp in abstraction." },
+        { "title": "God does not need appeasement", "text": "Sacrifice is a teaching sign, not a way to make God less loving. The system points to healing, confession, and restored trust." },
+        { "title": "Holiness protects relationship", "text": "The boundaries in Leviticus are ordered toward life with God and neighbor, not arbitrary religious performance." }
+      ],
+      "principles": [
+        { "title": "Symbols serve relationship", "text": "Leviticus highlights a principle that later appears in Hebrews and the Gospels: forms are valuable when they lead people to the reality of God's character, and dangerous when they replace it.", "highlightsCurrentBook": true },
+        { "title": "God's ideal is intelligent trust", "text": "The rituals teach, but they are not God's final goal. Across Scripture, God keeps moving people from external forms toward mature understanding and willing love.", "highlightsCurrentBook": true }
+      ]
+    },
+    "numbers": {
+      "title": "Numbers",
+      "subtitle": "Wilderness testing and the long patience of God.",
+      "summary": ["Numbers follows Israel through delay, complaint, fear, rebellion, and renewed mercy. The journey exposes how difficult freedom becomes when former slaves still imagine God through fear.", "The book is factual and sobering: distrust has consequences. Yet God continues guiding, feeding, correcting, and preserving the people even when they resist the very future He is giving them."],
+      "evidence": [{ "kind": "Action by God", "point": "God continues providing guidance and food in the wilderness despite repeated complaint." }, { "kind": "Human response", "point": "The spies' report shows how fear can reinterpret God's promise as danger." }, { "kind": "Word from God", "point": "God refuses to ignore rebellion, but He also refuses to abandon the covenant future." }],
+      "lessons": [{ "title": "God is patient with slow learners", "text": "Numbers shows patience without sentimentality. God keeps teaching, but distrust still damages the journey." }, { "title": "Fear can falsify reality", "text": "Israel sees giants more clearly than God's faithfulness. The book warns that fear can become an interpretive system." }],
+      "principles": [{ "title": "Trust must be learned in the wilderness", "text": "Numbers joins Exodus, Deuteronomy, Psalms, and Matthew in showing that testing reveals whether people know God's character or merely want His gifts.", "highlightsCurrentBook": true }]
+    },
+    "deuteronomy": {
+      "title": "Deuteronomy",
+      "subtitle": "Remembering the journey before entering the land.",
+      "summary": ["Deuteronomy is Moses' covenant review for a new generation. It retells the story so Israel can enter the land with memory, humility, and moral clarity.", "The book insists that obedience is not bare rule-keeping. Israel is called to love God, remember His rescue, and build a society where power is restrained by covenant faithfulness."],
+      "evidence": [{ "kind": "Word from God", "point": "Israel is commanded to love God with heart, soul, and strength, placing love at the center of covenant life." }, { "kind": "Memory", "point": "Moses repeatedly tells Israel to remember slavery, rescue, and wilderness provision." }, { "kind": "Instruction", "point": "Commands about justice, debt, kings, and the vulnerable show God's concern for public life." }],
+      "lessons": [{ "title": "God wants remembered trust", "text": "Forgetfulness is spiritually dangerous because it makes present obedience feel detached from past mercy." }, { "title": "Love is the center of law", "text": "Deuteronomy frames commands as the shape of faithful love, not a substitute for it." }],
+      "principles": [{ "title": "God forms communities, not just private believers", "text": "Deuteronomy links worship with economics, justice, leadership, and neighbor care. The prophets and Jesus carry the same integrated vision forward.", "highlightsCurrentBook": true }]
+    },
+    "matthew": {
+      "title": "Matthew",
+      "subtitle": "The King who reveals God's kingdom by mercy, truth, and self-giving authority.",
+      "summary": ["Matthew presents Jesus as Israel's Messiah and the true interpreter of God's kingdom. His authority is real, but it appears through healing, teaching, forgiveness, and costly faithfulness.", "The Gospel repeatedly contrasts religious performance with the deeper matters of mercy, justice, and trust. In Jesus, God's character becomes visible in human life."],
+      "evidence": [{ "kind": "Action by Jesus", "point": "Jesus heals outsiders, sinners, and the unclean, showing that holiness moves toward restoration." }, { "kind": "Word from Jesus", "point": "He names mercy, justice, and faithfulness as weightier matters than religious display." }, { "kind": "Passion", "point": "Jesus refuses coercive rescue and reveals kingship through self-giving love." }],
+      "lessons": [{ "title": "God's authority is gentle without being weak", "text": "Matthew's Jesus commands, corrects, and judges, but His authority is never selfish or theatrical." }, { "title": "Mercy reveals the law's intent", "text": "Jesus does not lower the moral vision. He restores it to its center in love of God and neighbor." }],
+      "principles": [{ "title": "God is exactly like Jesus", "text": "Matthew strengthens the whole biblical witness by making God's character visible in a human life. Themes from Torah and the prophets converge in Christ.", "highlightsCurrentBook": true }]
+    },
+    "mark": {
+      "title": "Mark",
+      "subtitle": "The suffering Son of God moving with urgent mercy.",
+      "summary": ["Mark is fast, direct, and focused on action. Jesus announces God's kingdom, confronts evil, heals the broken, and steadily moves toward the cross.", "The book presses readers to rethink power. The Son of God is not recognized most clearly through spectacle, but through suffering service and faithful love."],
+      "evidence": [{ "kind": "Action by Jesus", "point": "Jesus repeatedly touches and restores people others avoid." }, { "kind": "Word from Jesus", "point": "He teaches that greatness is service, not status." }, { "kind": "Cross", "point": "The confession at the cross identifies God's Son in the moment of apparent defeat." }],
+      "lessons": [{ "title": "God's mercy is active", "text": "Mark shows compassion on the move. Jesus does not merely explain God's character; He enacts it." }, { "title": "God redefines greatness", "text": "True authority descends to serve. This is not a side theme; it is central to the Gospel's portrait of God." }],
+      "principles": [{ "title": "The clearest power is self-giving love", "text": "Mark joins Isaiah, Matthew, John, and Philippians in presenting God's victory through humble, costly faithfulness.", "highlightsCurrentBook": true }]
+    }
+  }
+}
