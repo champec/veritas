@@ -1,0 +1,54 @@
+Right — let me cut the questionnaire and just propose a real plan.
+
+## What this site actually is
+
+A home for the whole project. Essays are one part. The book-by-book is the spine. Books, videos, talks, and testimonials grow into their own sections over time. Everything sits under one roof with a shared identity.
+
+## Proposed structure
+
+```
+site/
+├── index.html               ← home
+├── about.html               ← what this is
+├── study/
+│   └── index.html           ← the 66 book-by-book exploration
+├── essays/
+│   ├── index.html           ← list of essays
+│   └── the-god-who-stooped.html
+├── books/index.html         ← scaffolded for now
+├── videos/index.html        ← scaffolded for now
+├── events/index.html        ← scaffolded for now
+├── testimonials/index.html  ← scaffolded for now
+├── styles.css
+├── script.js
+└── README.md
+```
+
+Drop the folder into Vercel, done. No build step.
+
+## What it looks and feels like
+
+- Serif body type, sans-serif headings, generous whitespace
+- Light/dark toggle
+- Reads beautifully on phone and desktop
+- Looks like a serious publisher's site, not a blog
+- Restrained — the writing is the star
+
+## The home page
+
+Two clear elements:
+1. **Top:** the project name, a one-line statement of what it is, and an invitation to read.
+2. **Below:** four or five cards linking into the main sections (Study, Essays, Books, Videos, Events). Sections with no content yet say "in progress" — honest, not hidden.
+
+## My defaults for the things you'd otherwise have to decide
+
+- **Name:** *Veritas* (matches the repo, weighty, single word)
+- **Tagline:** *"A re-examination of who God actually is."*
+- **Accent colour:** deep oxblood red (used sparingly — links, accents)
+- **Body font:** EB Garamond
+- **Heading font:** Inter
+- **About page:** brief, third-person, focused on the project not the person
+
+If any of those don't sit right, tell me what to change and I'll change just that. Otherwise I'll build it as described.
+
+Shall I go?
