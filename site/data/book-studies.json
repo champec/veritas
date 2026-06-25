@@ -13,171 +13,577 @@
         "Genesis 37-50 centers on Joseph and the movement of Jacob's family into Egypt. Joseph is sold by his brothers, taken to Egypt, imprisoned, and later raised to authority after interpreting Pharaoh's dreams. Famine brings his brothers to Egypt, Joseph tests and then reveals himself to them, Jacob's family settles in Goshen, Jacob blesses his sons, and the book ends with Jacob buried in Canaan and Joseph dead in Egypt, awaiting a future return."
       ],
       "evidence": [
-        { "kind": "Genesis 1:1-31", "point": "God creates by speaking, and at each stage He stops to look: 'And God saw that it was good.' Creation opens not with a demand for tribute but with a gift made deliberately good." },
-        { "kind": "Genesis 1:27", "point": "Human beings are made to carry God's likeness: 'So God created man in his own image... male and female he created them.' Dignity is built into people from the first page." },
-        { "kind": "Genesis 2:15-17", "point": "God places the man in the garden 'to work it and keep it' and gives a single boundary. The command is framed as a warning about consequence, not an arbitrary hurdle: 'in the day that you eat of it you shall surely die.'" },
-        { "kind": "Genesis 3:1", "point": "The first recorded words of the adversary are a question that twists God's own words: 'Did God actually say...?' The conflict begins as a contest over whether God can be trusted." },
-        { "kind": "Genesis 3:9", "point": "After the fall God comes seeking, not sentencing: His first word is a question, 'Where are you?' He questions Adam and Eve before announcing any consequence." },
-        { "kind": "Genesis 4:6-15", "point": "God warns Cain before the murder, 'sin is crouching at the door,' questions him afterward rather than striking him down, and then marks him so that he will not be killed in return." },
-        { "kind": "Genesis 6:5-8", "point": "God sees that 'every intention of the thoughts of his heart was only evil continually,' and the text records grief rather than rage: 'the Lord was sorry... and it grieved him to his heart.'" },
-        { "kind": "Genesis 8:20-9:17", "point": "After the flood God establishes the rainbow covenant, and He makes it with more than Noah: it is 'between me and you and every living creature,' a promise of restraint." },
-        { "kind": "Genesis 11:1-9", "point": "At Babel people build a tower 'to make a name for ourselves'; God responds by confusing their language and scattering them, limiting a united project of self-exaltation." },
-        { "kind": "Genesis 12:1-3", "point": "God calls Abram with a promise aimed outward at everyone: 'in you all the families of the earth shall be blessed.' The chosen family is a means of blessing the world, not a favourite raised above it." },
-        { "kind": "Genesis 15:6", "point": "The relationship is built on trust: 'And he believed the Lord, and he counted it to him as righteousness.' Faith here is confidence in the kind of person God is." },
-        { "kind": "Genesis 18:23-25", "point": "Abraham presses God over Sodom and is not rebuked for it: 'Shall not the Judge of all the earth do what is right?' God hears the appeal again and again." },
-        { "kind": "Genesis 22:11-13", "point": "Abraham is told to offer Isaac, yet the story turns on God stopping the act and providing a ram in Isaac's place. The narrative ends by preventing the death, not requiring it." },
-        { "kind": "Genesis 28:15", "point": "At Bethel God assures the fleeing Jacob, 'Behold, I am with you and will keep you wherever you go,' meeting a deceiver with presence rather than abandonment." },
-        { "kind": "Genesis 32:30", "point": "Jacob wrestles through the night, is renamed Israel, and names the place 'for I have seen God face to face, and yet my life has been delivered.'" },
-        { "kind": "Genesis 50:20", "point": "Joseph distinguishes human intent from divine outcome without calling the betrayal good: 'You meant evil against me, but God meant it for good.'" }
+        {
+          "kind": "Genesis 1:1-31",
+          "point": "God creates by speaking, and at each stage He stops to look: 'And God saw that it was good.' The opening act of Scripture is not a demand for tribute but a gift made deliberately beautiful, handed over to creatures who had done nothing to earn it. And He took His time — the whole universe was watching, and the creation was a public demonstration."
+        },
+        {
+          "kind": "Genesis 1:27",
+          "point": "Human beings are made to carry God's likeness: 'So God created man in his own image, in the image of God he created him; male and female he created them.' Dignity is not earned or assigned by rank. It is built in from the first page, and it belongs to every person."
+        },
+        {
+          "kind": "Genesis 2:18-24",
+          "point": "God creates human beings male and female and gives them the capacity to bring new life into the world in their own image. One of the charges laid against God was that He hoards His creative power and does not share it with His creatures. The design of human love and family is His most personal answer to that charge."
+        },
+        {
+          "kind": "Genesis 2:15-17",
+          "point": "God places the man in the garden and limits where the adversary may approach to a single tree. Rather than allowing access everywhere, He fences off the hazard and names it clearly. 'In the day that you eat of it you shall surely die' is a warning about consequence, not an arbitrary test, and 'do not go near it' reads less like a trap than a parent telling a child exactly where the danger is."
+        },
+        {
+          "kind": "Genesis 3:1",
+          "point": "The first recorded words of the adversary are a question designed to twist God's own words: 'Did God actually say...?' The conflict that runs through all sixty-six books begins not as a military rebellion but as a challenge to whether God can be trusted. It is a contest of character."
+        },
+        {
+          "kind": "Genesis 3:9",
+          "point": "After the fall God comes seeking, not sentencing. His first word is a question, 'Where are you?' He questions Adam and Eve before announcing any consequence, giving them the chance to speak before He does."
+        },
+        {
+          "kind": "Genesis 3:21",
+          "point": "'The LORD God made for Adam and for his wife garments of skins and clothed them.' The first act God performs after announcing the consequences of the fall is to provide cover and protection. Even as they are sent out, He ensures they are not left exposed."
+        },
+        {
+          "kind": "Genesis 4:6-15",
+          "point": "God warns Cain before the murder: 'sin is crouching at the door.' After the murder He questions rather than strikes him down, and then marks him so that no one will kill him in return. God shows more care for the life of a murderer than the murderer showed for his brother."
+        },
+        {
+          "kind": "Genesis 6:3, 6:5-8",
+          "point": "God reaches across one hundred and twenty years through Noah's preaching before the Flood comes. When it arrives, the text records grief rather than satisfaction: 'the LORD was sorry that he had made man, and it grieved him to his heart.' Those who chose to enter the ark were saved; the eight were not the limit of who God wanted to save, only the limit of who came."
+        },
+        {
+          "kind": "Genesis 8:20-9:17",
+          "point": "After the flood God establishes the rainbow covenant, and He makes it not only with Noah but explicitly 'between me and you and every living creature of every kind.' The promise of restraint covers all of creation, not just the people who had survived."
+        },
+        {
+          "kind": "Genesis 12:1-3",
+          "point": "God calls Abram with a promise aimed outward from the start: 'in you all the families of the earth shall be blessed.' The chosen family is chosen as a vehicle of blessing to the world, not as a favourite elevated above it."
+        },
+        {
+          "kind": "Genesis 18:23-25",
+          "point": "Abraham presses God over Sodom seven times, working down from fifty to ten, and is not rebuked once: 'Shall not the Judge of all the earth do what is right?' God hears every appeal and answers each one. This is what God's friendship looks like when it is most itself."
+        },
+        {
+          "kind": "Genesis 22:11-13",
+          "point": "The story of Isaac on Mount Moriah turns on the moment God stops Abraham before the act: 'Do not lay your hand on the boy.' He then provides a ram in Isaac's place. Whatever the test was, the narrative ends by preventing the death, not requiring it."
+        },
+        {
+          "kind": "Genesis 28:15",
+          "point": "At Bethel God appears to the fleeing Jacob — a man who had just deceived his father and stolen his brother's blessing — and says: 'Behold, I am with you and will keep you wherever you go.' There is no condition, no rebuke. God meets a deceiver with faithful presence."
+        }
       ],
       "lessons": [
-        { "title": "God begins the Bible with a gift", "text": "The very first portrait of God is a Creator who makes a beautiful, habitable world and keeps pausing to call it good. He does not enter the story demanding tribute or testing loyalty; He gives. Before a single command is recorded, people are handed work, companionship, food, beauty, and rest. The kind of God Genesis introduces is generous by nature, and everything that follows has to be read against that opening." },
-        { "title": "God invites reverential questioning, not blind obedience", "text": "When God told Abraham He would destroy Sodom, Abraham did not fall silent. He challenged God directly: 'Shall not the Judge of all the earth do what is right?' God did not punish him for it. Instead He let Abraham reason with Him about justice and went on to make him the model of friendship throughout Scripture, the one called the friend of God. That title cannot belong to someone who merely obeys without understanding. Genesis shows from the start that God welcomes honest questions from people who trust Him." },
-        { "title": "God's government runs on real freedom", "text": "The possibility of distrust is not an accident that slipped into the garden; it is built into the way God chose to govern. The tree, the serpent's access, and the genuine option to refuse all show that God will not secure obedience by removing the ability to choose against Him. Love and trust cannot be forced, so God accepts the risk of a real alternative, while still warning His children clearly where the danger lies." },
-        { "title": "The forbidden tree was protection, not a trap", "text": "Read alone, the tree can look like an arbitrary loyalty test set up to catch people out. In context it works more like a guarded meeting place. The adversary is allowed to be present, but not everywhere and not without warning. The single boundary keeps the danger in one known place and gives a clear caution about it. God is not hiding a tripwire; He is fencing off a hazard and telling His children exactly where it is." },
-        { "title": "Sin is damage that needs healing, not only a debt to be cleared", "text": "After the fall Adam and Eve are not simply in legal trouble; they are changed. They hide, they are afraid, they shift blame, they cover themselves. Genesis points past the idea of mere pardon to a deeper need: restored trust, renewed hearts, and a relationship that has to be healed rather than just excused. The problem the rest of Scripture answers is not only guilt on a record but ruin in the person." },
-        { "title": "Severe judgments need their full setting", "text": "The Flood and the destruction of Sodom cannot be explained well by saying only that the people were wicked. Genesis presses the harder question of what was actually at stake: the survival of any line that could still hear God, the future of the promised rescue, and whether communication with humanity could continue at all. These are emergencies, not God's ordinary way of dealing with sin, and they look like the act of an arbitrary God only when they are pulled out of that setting." },
-        { "title": "God meets people where they are", "text": "God's first preference is direct friendship in the garden, plain and unafraid. Once distrust enters, He adapts so that contact can continue: He clothes the pair, guards the way to the tree of life, gives covenant signs like the rainbow, repeats family promises, and provides concrete demonstrations to people who can no longer bear the full brightness of His presence. He does not shame people for their limitations; He works with them where they actually are." },
-        { "title": "God is faithful inside imperfect families", "text": "Genesis hides nothing about its central family: deceit, rivalry, favouritism, fear, and betrayal are all on the page. The point is not that these people are naturally admirable, but that God stays faithful and patient within an unpolished human story. He keeps working with Jacob the deceiver and with brothers who sold their own, which says more about His character than about theirs." },
-        { "title": "God can redeem evil without ever endorsing it", "text": "Joseph tells his brothers, 'You meant evil against me, but God meant it for good,' and he does not soften what they did. Genesis draws a careful line between what people intend, what God permits, and what God is able to turn toward saving outcomes. God overrules the harm without calling it good, which protects both His goodness and the seriousness of what was done to Joseph." }
+        {
+          "title": "God begins the Bible with a gift",
+          "text": "The very first portrait of God is a Creator who makes a beautiful, habitable world and keeps pausing to call it good. He does not enter the story demanding tribute or testing loyalty; He gives. Before a single command is recorded, people are handed work, companionship, food, beauty, and rest. The kind of God Genesis introduces is generous by nature, and everything that follows has to be read against that opening."
+        },
+        {
+          "title": "God invites reverential questioning, not blind obedience",
+          "text": "When God told Abraham He would destroy Sodom, Abraham did not fall silent. He challenged God directly: 'Shall not the Judge of all the earth do what is right?' God did not punish him for it. Instead He let Abraham reason with Him about justice and went on to make him the model of friendship throughout Scripture, the one called the friend of God. That title cannot belong to someone who merely obeys without understanding. Genesis shows from the start that God welcomes honest questions from people who trust Him."
+        },
+        {
+          "title": "God's government runs on real freedom",
+          "text": "The possibility of distrust is not an accident that slipped into the garden; it is built into the way God chose to govern. The tree, the serpent's access, and the genuine option to refuse all show that God will not secure obedience by removing the ability to choose against Him. Love and trust cannot be forced, so God accepts the risk of a real alternative, while still warning His children clearly where the danger lies."
+        },
+        {
+          "title": "The forbidden tree was protection, not a trap",
+          "text": "Read alone, the tree can look like an arbitrary loyalty test set up to catch people out. In context it works more like a guarded meeting place. The adversary is allowed to be present, but not everywhere and not without warning. The single boundary keeps the danger in one known place and gives a clear caution about it. God is not hiding a tripwire; He is fencing off a hazard and telling His children exactly where it is."
+        },
+        {
+          "title": "Sin is damage that needs healing, not only a debt to be cleared",
+          "text": "After the fall Adam and Eve are not simply in legal trouble; they are changed. They hide, they are afraid, they shift blame, they cover themselves. Genesis points past the idea of mere pardon to a deeper need: restored trust, renewed hearts, and a relationship that has to be healed rather than just excused. The problem the rest of Scripture answers is not only guilt on a record but ruin in the person."
+        },
+        {
+          "title": "Severe judgments need their full setting",
+          "text": "The Flood and the destruction of Sodom cannot be explained well by saying only that the people were wicked. Genesis presses the harder question of what was actually at stake: the survival of any line that could still hear God, the future of the promised rescue, and whether communication with humanity could continue at all. These are emergencies, not God's ordinary way of dealing with sin, and they look like the act of an arbitrary God only when they are pulled out of that setting."
+        },
+        {
+          "title": "God meets people where they are",
+          "text": "God's first preference is direct friendship in the garden, plain and unafraid. Once distrust enters, He adapts so that contact can continue: He clothes the pair, guards the way to the tree of life, gives covenant signs like the rainbow, repeats family promises, and provides concrete demonstrations to people who can no longer bear the full brightness of His presence. He does not shame people for their limitations; He works with them where they actually are."
+        },
+        {
+          "title": "God is faithful inside imperfect families",
+          "text": "Genesis hides nothing about its central family: deceit, rivalry, favouritism, fear, and betrayal are all on the page. The point is not that these people are naturally admirable, but that God stays faithful and patient within an unpolished human story. He keeps working with Jacob the deceiver and with brothers who sold their own, which says more about His character than about theirs."
+        },
+        {
+          "title": "God can redeem evil without ever endorsing it",
+          "text": "Joseph tells his brothers, 'You meant evil against me, but God meant it for good,' and he does not soften what they did. Genesis draws a careful line between what people intend, what God permits, and what God is able to turn toward saving outcomes. God overrules the harm without calling it good, which protects both His goodness and the seriousness of what was done to Joseph."
+        }
       ],
       "context": [
-        { "title": "Expelled from Eden on the first offence", "problem": "Adam and Eve are sent out of the garden after a single act of distrust. Why expel them at once instead of giving a second chance inside Eden?", "context": "The garden held the tree of life, and continued access to it would have meant living forever in a condition of distrust and fear. Sending them out was not God slamming a door in anger; the same chapter shows Him clothing them and promising that the conflict with evil would one day be undone. The expulsion keeps a ruined situation from being locked in permanently.", "shows": "God acts to prevent sin from becoming endless, not to punish a first mistake. Even the expulsion is wrapped in provision and promise, the move of a parent limiting harm rather than a judge venting outrage." },
-        { "title": "The Flood", "problem": "God destroys nearly the whole human race, including children and animals. On the surface this looks like the most extreme act of an arbitrary, vengeful God.", "context": "By this point 'every intention of the thoughts of the heart was only evil continually,' and just one family could still hear God at all. The line of communication between God and humanity, and with it any possibility of rescue, was about to end completely. God had already tried the patient way, preaching through Noah for years while the ark was built, and no one listened. Like the thunder at Sinai, the Flood is an emergency measure to keep open the channel through which God could still speak and save, not His normal way of dealing with sin.", "shows": "God's chosen method is never to end life; His ideal is to reach and to heal. The Flood is an emergency intervention to preserve the possibility of relationship and rescue when humanity was about to destroy it entirely, an act done to keep the door open rather than the work of the harsh God Satan accused Him of being." },
-        { "title": "Sodom and Gomorrah", "problem": "God destroys whole cities with fire. Read on its own this looks like sheer wrath against people He had given up on.", "context": "The story is framed by Abraham's bargaining, where God agrees to spare the cities for the sake of even ten righteous people. He is shown searching for a reason to relent, not for a reason to strike. The destruction comes only when no such remnant is found, and even then Lot and his family are personally led out first. The cities had reached the point where there was nothing left to preserve.", "shows": "God's instinct is to spare, and He invites a friend to hold Him to His own justice. The fire falls only after every avenue of rescue has been exhausted, which is the opposite of arbitrary cruelty." },
-        { "title": "Lot's wife", "problem": "Lot's wife is turned to a pillar of salt simply for looking back. The consequence seems wildly out of proportion to a glance.", "context": "The looking back was not idle curiosity but a turning of the heart back toward a life and a city under judgment, after being warned plainly not to. The detail belongs with other difficult 'severity' stories in Scripture that are best studied together rather than explained alone; the consistent pattern is that clinging to what is being destroyed shares in its ruin. The warning had been clear, and the danger was real.", "shows": "The account reads as the natural outcome of refusing rescue and turning back toward ruin, not as a God eager to punish a small slip. It belongs to the same theme as the rest of Genesis, where God repeatedly warns before harm comes." }
+        {
+          "title": "Expelled from Eden on the first offence",
+          "problem": "Adam and Eve are sent out of the garden after a single act of distrust. Why expel them at once, with no second chance inside Eden? It can look as though God responded to a first mistake with the severest possible consequence.",
+          "context": [
+            "The first thing to notice is that sin is not a legal status to be stamped forgiven; it is a real change in real people. Adam and Eve are already different before God says a word about consequences. They are hiding. They are afraid. They are blaming each other. The problem is not a mark on a record that can be cleared; it is damage inside the persons themselves that requires real experience to address. Keeping them in the garden would not have healed what had happened to them. It would have preserved the damage in a state of endless life.",
+            "The tree of life was still there. Continued access to it would have meant living in a state of fear, guilt, and self-centredness forever, which is the very thing sin produces. The expulsion was less like a judge slamming a cell door and more like a surgeon removing someone from a condition that would otherwise become permanent.",
+            "There is also an educational dimension that only history can fully reveal. The lessons that sin produces, what it actually does to individuals and communities, could only be learned outside the garden. Toil, hardship, raising children, caring for someone when it costs you something, the discipline that comes from a world that resists you: none of these were possible in a world of effortless provision. The book of Judges shows what a society looks like when every person does what is right in their own eyes. The pre-Flood world shows what humanity becomes when every restraint is gone. These were not merely punishments; they were the curriculum. And the watching universe needed to see it too. What does life look like when it is lived without God? Does selfishness produce freedom? Is life genuinely better without the constraints God described? History has been answering those questions in real time.",
+            "Adam, in this new condition, is also not the same person who walked with God in the garden. He is now selfish by nature and afraid of God, experiencing guilt for the first time. He knew good and evil theoretically before; now he knows them as lived experience. Even if he wanted to stay in the garden, he would be staying for self-protective reasons, which is exactly the condition God cannot build a real relationship on. The relationship has to be rebuilt from the outside, through a much longer process.",
+            "And then the extraordinary thing: despite the betrayal, God's first act is to clothe them, and His first announced promise is to crush the serpent. They chose against Him, and He immediately committed to rescuing them from the consequences of that choice. That is not the response of an offended sovereign. It is the response of a parent whose child has done something that cannot be undone, who is already thinking about how to help."
+          ],
+          "shows": [
+            "The expulsion was not punishment for a first mistake but the necessary consequence of a real change, and the beginning of a long education that history has been providing ever since. God's first acts after the fall were provision (clothing) and promise (rescue). Even in what looks most like rejection, both of those things are present."
+          ]
+        },
+        {
+          "title": "The Flood",
+          "problem": "God destroys nearly the whole human race, including children, animals, and people who were presumably born into that world without choosing it. This looks like the most extreme act of an arbitrary, vengeful God anywhere in Scripture.",
+          "context": [
+            "It is worth being honest about the two most obvious theories and testing each one. The first is that this is simply the consequence of crossing God: disobey, and He will destroy you. But if that were the case, why only once? Why does Jesus refuse when His disciples ask for fire to come down from heaven on an unresponsive village? Why does God tell Elijah that He was not in the wind, the earthquake, or the fire? Why does He reprimand Moses for striking the rock in anger, holding Moses to a standard of patience under pressure? Why does the rainbow come with the explicit statement that God never wants to do this again? The punitive-sovereign reading does not hold together across the rest of Scripture.",
+            "The second theory is that God lost His temper, snapped, and did something He later regretted. But Scripture shows God's consistent character across centuries and circumstances as patient to an almost incomprehensible degree, even with people who had been testing Him for generations. The God who waits 120 years while Noah preaches, the God who says 'how can I give you up, Ephraim?' in Hosea, and the God who weeps over Jerusalem on the Mount of Olives is not a God who loses His temper.",
+            "To understand the Flood, you have to hold it up against what God desires most. According to Jesus and the prophets, what God wants is not sacrifice but a clean heart, not outward compliance but inward change. The command not to covet locates sin in what a person wants, not only in what they do. The Pharisees kept every external requirement and earned Jesus's sharpest rebukes, because technically correct obedience driven by fear or habit is exactly the kind of response God does not want. He wants the Sabbath to be a delight, not a duty. He wants people not to even want to sin. That can only come through genuine transformation, not through being frightened into compliance. God Himself acknowledges in Zechariah that He does not win by might or power but by His Spirit, meaning by truth and love. He knows better than anyone that power cannot produce the thing He is after. So when He uses it, there must be a reason other than winning hearts, because He already knows it will not do that.",
+            "The reason is this: God uses overwhelming methods when people can only hear overwhelming language. Gideon needed signs. Israel in Egypt needed miracles to believe in a God who could actually help them. The people at Sinai needed thunder to listen at all. In Noah's day, the whole human culture was built on the logic of force, and 'every intention of the thoughts of the heart was only evil continually.' Noah preached for one hundred and twenty years and was mocked. The question is not whether God preferred this method; He did not. The question is what the alternative was.",
+            "By the time of the Flood, God saw that the channel through which He could still reach humanity was about to close permanently. Not 10, not 50, not a hundred righteous people remained. One family still had any capacity to hear God. If nothing was done, that would be gone too, and with it any possibility of the rescue promised in the garden. The Flood was not God eliminating opposition; it was God preserving the one remaining line through which communication and rescue were still possible. He saved everyone who was willing to come. The eight were not the limit of who God wanted in the ark; they were the limit of who came.",
+            "This is in fact the deepest lesson of the Flood, and perhaps the one that reflects most clearly on what kind of person God is. He had infinite power available and used it in the most overwhelming way in all of Genesis. The result was the Tower of Babel: people rebuilding in fear, not in love or trust. The Flood convinced them that God existed and was powerful. It produced no one who loved and trusted Him freely. This is not a footnote to the story; it is the story's most important outcome. It demonstrated, more conclusively than any argument could, that even God's own power cannot win what He desires most. That may be part of why He never uses it this way again, and why His consistent description of how He works is 'not by might, nor by power, but by My Spirit' (Zechariah 4:6). The Flood is the proof, not just an assertion.",
+            "The hardest element remains the children and the animals. God gave humanity genuine dominion over the earth and genuine responsibility for those in our care. He does not routinely override that by removing children from dangerous situations or managing human affairs from outside. He gave us real authority, which means our choices carry real weight for those around us. This is why Jesus says that leading a child astray is treated with such seriousness. The children of the pre-Flood generation suffered the consequences of their parents' total and irreversible choices. This is among the genuinely most difficult things to accept, and no treatment of the Flood should pretend otherwise.",
+            "We cannot give a complete explanation, and we should not try to. What we can say, drawing on everything else Scripture shows about God's character, is what it was not. It was not a loss of temper. It was not arbitrary. It was not punitive pleasure. It was not His preferred method; He never uses it again and says so immediately. It was a last resort taken by a God who had reached the end of every other option, who saved everyone who was willing, who grieved as He did it, and who placed a rainbow in the sky as a promise that He would not do it this way again. When an action sits this far outside everything else we know about a person, we read it in light of everything else, not the other way around."
+          ],
+          "shows": [
+            "The Flood's deepest revelation is not that God will use power when pushed far enough, but that even His own power at its most overwhelming cannot produce what He desires most. It proved the point He makes throughout Scripture: the still small voice, truth spoken in love, is the only method that wins genuine trust and free obedience. This actually reflects well on God. He knew power would not work, and yet before He reached that limit He spent one hundred and twenty years reaching through Noah, a man who was mocked for all of it. That He went to such extraordinary lengths before giving up says something about how much each person matters to Him, and about what kind of God He is."
+          ]
+        },
+        {
+          "title": "Sodom and Gomorrah",
+          "problem": "God destroys two cities with fire, including every inhabitant. Read on its own, this looks like the act of a God who responds to sin with total, disproportionate destruction.",
+          "context": [
+            "The first theory to test is the obvious one: God destroys those who sin seriously enough. But if that were true, why does He give Abraham the opportunity to negotiate at all? Why does He agree to spare the cities for the sake of 50 righteous people, then 45, then 40, then 30, then 20, then 10? If God wanted to destroy, the negotiation makes no sense. And if this theory were right about God's character, why does Jesus refuse to call fire on a Samaritan village that rejected Him? Why does He rebuke the disciples for even suggesting it, saying 'you do not know what manner of spirit you are of'? Theory A does not cohere across the rest of Scripture.",
+            "What the story actually shows is a God looking for every available reason to spare, not for a reason to strike. He invites Abraham to hold Him to His own stated justice and accepts every lowering of the threshold. The destruction comes only when even Abraham, bargaining on behalf of the cities, cannot find enough righteous people to hold God's hand back. The minimum was ten. It was not reached.",
+            "Even then, God personally leads Lot and his family out before anything happens. The rescue precedes the judgment. And even in Lot's own household, his sons-in-law thought he was joking when he warned them to leave, which is itself a measure of how far the city had gone. God pulled out the last people who could still hear Him before the rest was released to its own course.",
+            "Did the destruction root out rebellion? No. Everywhere else in the ancient world, rebellion continued and multiplied. The story of Sodom belongs in the same category as the Flood: a moment that produced fear, not love, and that God does not repeat. The pattern holds throughout Scripture: power can frighten, but it cannot win hearts, which is precisely what God says He knows."
+          ],
+          "shows": [
+            "God's instinct is to spare, and He invites a trusted friend to hold Him to His own justice. The fire comes only when there is nothing left to reach and no one left to rescue. Read alongside the Flood and the exile, this is the consistent pattern: God extends every avenue of rescue he has available and releases only when the last one is exhausted."
+          ]
+        },
+        {
+          "title": "Lot's wife",
+          "problem": "Lot's wife is turned to a pillar of salt for looking back at the city. The consequence appears wildly disproportionate to a single glance, suggesting a God who punishes trivially.",
+          "context": [
+            "The first theory to test: God punishes anyone who breaks a specific instruction, however small the infraction. But this makes God more capricious and dangerous than He appears anywhere else in Scripture. The same God who waited 120 years for Noah's generation, who bargained with Abraham over ten righteous people, who clothed Adam and Eve before sending them out, does not turn a woman to salt for a glance. Theory A does not cohere with the rest of the portrait.",
+            "The looking back was not a glance of curiosity. In the narrative tradition of Scripture, turning back carries the weight of returning in heart, not merely turning a head. She had been warned plainly. Her home, her connections, her entire life were in that city. The physical act was the expression of a heart that had not fully left, and that in a moment of total destruction, was moving back toward the thing being destroyed.",
+            "The geography of the Dead Sea region is full of salt formations. Whether the account describes a miraculous transformation or describes the fate of someone who turned back into the zone of fire and ash, the principle is the same: clinging to what is being destroyed shares in its ruin. This is the consistent pattern in Scripture, not a one-off divine penalty for a minor infraction.",
+            "Jesus cites this story himself in Luke 17:32, and what He draws from it is not a warning about obeying specific instructions under pain of punishment, but a warning about the cost of a divided heart at the moment of rescue. That is how the author of the story's most authoritative interpretation read it. It is about allegiance, not compliance.",
+            "God chose that moment to make a lasting impression, knowing that even if most people would not respond, some would. Throughout Scripture, dramatic events create enough reverence that important messages can get through to those still willing to hear. Rahab had heard about the Red Sea before she hid the spies. Sailors on Jonah's ship feared God deeply after the storm. Foreign nations said to Israel: we have heard what your God did for you. When people are laughing at the prophets and the prophets cannot get a hearing, a visible event can reach a few who otherwise never would have listened at all. God goes to great lengths to keep the channel of communication open, but He clearly does not enjoy doing it this way: the prophets say so, and He says so. The question worth sitting with is this: that before He gives up on a people, He goes to such extraordinary lengths to reach even a few, does that not speak well of Him?"
+          ],
+          "shows": [
+            "The account is best read as the natural consequence of turning back toward something under judgment, not as a divine punishment for a momentary act. God warned clearly and at length, and the story stands in the same tradition as every other moment in Scripture where clinging to what is being destroyed shares in its ruin. Jesus himself read it that way. It also belongs to the pattern of dramatic moments God uses not because He prefers them but because, when people will not hear the prophets, a visible event can still reach a few who otherwise would not listen at all."
+          ]
+        }
       ],
       "principles": [
-        { "id": "reverential-questioning", "text": "Abraham's appeal over Sodom shows that God does not shut down moral questioning from a trusted friend; He allows His justice to be examined in conversation." },
-        { "id": "actions-in-context", "text": "Eden, the Flood, Babel, Sodom, Lot's wife, and Isaac on Moriah all become dangerous if treated as isolated proof-texts for severity. Genesis requires the larger setting of freedom, accusation, preservation, and promised rescue." },
-        { "id": "meets-us-where-we-are", "text": "God begins with direct garden fellowship, but after distrust enters He adapts: clothing, guarded access, covenant signs, family promises, and concrete demonstrations for people who can no longer bear the full brightness of His presence." },
-        { "id": "freedom", "text": "The tree, the serpent's limited access, and the tragic freedom of Cain, Babel, Abraham, Jacob, and Joseph's brothers show that God does not run the world by preventing every misuse of choice." },
-        { "id": "extreme-lengths", "text": "From Eden's delayed death to Noah's long warning and the preserved covenant family, Genesis shows God intervening to keep the possibility of healing open before final consequences run their course." },
-        { "id": "demonstration-and-evidence", "text": "Genesis opens the pattern of God answering accusations through visible history: creation, freedom, consequence, promise, and providence become evidence rather than mere claims." },
-        { "id": "not-arbitrary", "text": "The Sabbath, the tree, expulsion from Eden, and the preservation of one covenant line all make sense inside the story's moral logic; they are not disconnected tests of submission." }
+        {
+          "id": "reverential-questioning",
+          "text": "Abraham's appeal over Sodom shows that God does not shut down moral questioning from a trusted friend; He allows His justice to be examined in conversation."
+        },
+        {
+          "id": "meets-us-where-we-are",
+          "text": "God begins with direct garden fellowship, but after distrust enters He adapts: clothing, guarded access, covenant signs, family promises, and concrete demonstrations for people who can no longer bear the full brightness of His presence."
+        },
+        {
+          "id": "freedom",
+          "text": "The tree, the serpent's limited access, and the tragic freedom of Cain, Babel, Abraham, Jacob, and Joseph's brothers show that God does not run the world by preventing every misuse of choice."
+        },
+        {
+          "id": "extreme-lengths",
+          "text": "From Eden's delayed death to Noah's long warning and the preserved covenant family, Genesis shows God intervening to keep the possibility of healing open before final consequences run their course."
+        },
+        {
+          "id": "demonstration-and-evidence",
+          "text": "Genesis opens the pattern of God answering accusations through visible history: creation, freedom, consequence, promise, and providence become evidence rather than mere claims."
+        },
+        {
+          "id": "not-arbitrary",
+          "text": "The Sabbath, the tree, expulsion from Eden, and the preservation of one covenant line all make sense inside the story's moral logic; they are not disconnected tests of submission."
+        }
       ]
     }
   },
   "principles": {
     "reverential-questioning": {
-      "title": "God Invites Reverential Questioning, Not Blind Obedience",
-      "text": "God values friends who ask why, seek understanding, and discern truth. He is not threatened by honest questions when they are rooted in trust and a desire to know Him rightly.",
+      "title": "God's Highest Call Is Willing Agreement, Not Blind Obedience",
+      "text": [
+        "There are four ways to obey someone. The first is the servant's obedience: you do what you are told because you have been told to do it. The second is the slave's obedience: you comply because you fear the consequences of not complying. The third is the child's obedience: you trust that the other person has your best interest at heart, even without fully understanding why. The fourth is a friend's obedience: you have come to understand the reasoning, examined it with your own mind, and freely agree. Of these, only the fourth is genuine harmony of will. The others are forms of compliance.",
+        "God accepts all four. He works with people at every level of understanding and does not despise the child who simply trusts. But His design and desire was always for the fourth. He made human beings with reasoning faculties, placed genuine alternatives before them, and gave them real freedom to choose. He has been explaining Himself, revealing His reasons, and inviting examination across the whole of recorded history. None of that makes sense if compliance was the goal. It only makes sense if the goal was agreement.",
+        "Abraham, Moses, and Job each earned the title of God's friend, and in each case the friendship was inseparable from a willingness to engage at the level of reason. Abraham pressed God on the justice of destroying Sodom. Moses argued from God's own stated character when God threatened to destroy Israel. Job refused the polished explanations his friends offered and insisted on speaking with God directly. God did not rebuke any of them. He made them models. The questioning was not disrespect; it was the pathway toward the fourth level.",
+        "Job's three companions are the warning. They said all the correct things, never made a factual error, and defended God's power and sovereignty throughout. Yet God's verdict was against them: 'you have not spoken of Me what is right, as My servant Job has' (Job 42:7). They had produced compliance without understanding, defended God's authority without knowing His character. That, in God's estimation, was the worse error.",
+        "What does it say about the kind of person God is, that He designed us for the fourth level? A God who only wanted compliance would have built a very different universe: fewer choices, less room for doubt, more immediate consequences for deviation. This God built a universe where genuine opposition was possible, where angels were free to defect and did, and where He still refuses to compel agreement. He would rather have fewer who freely agreed than many who simply obeyed. The invitation to question is not merely His management style; it is the sign of a God confident enough in the truth to let it be examined, and humble enough to want friends rather than subjects."
+      ],
       "examples": [
-        { "book": "Genesis", "text": "Abraham questions the justice of destroying Sodom." },
-        { "book": "Exodus", "text": "Moses reasons with God after Israel's rebellion." },
-        { "book": "Job", "text": "Job's honest wrestling is vindicated over his friends' polished explanations." },
-        { "book": "Deuteronomy", "text": "Truth about God matters more than impressive signs." }
-      ]
-    },
-    "actions-in-context": {
-      "title": "God's Actions Must Be Understood in Context",
-      "text": "Severe or difficult stories can misrepresent God when isolated from the larger conflict, the circumstances addressed, and the purpose behind His action.",
-      "examples": [
-        { "book": "Genesis", "text": "Eden, the Flood, Sodom, and Lot's wife require the wider context of sin's ruin and God's preservation of hope." },
-        { "book": "Habakkuk", "text": "Judgment scenes must be read through God's reluctance and His withdrawal of protection." }
+        {
+          "book": "Genesis",
+          "text": "Abraham's response to the announcement about Sodom is one of the most striking exchanges in the Bible. Rather than bowing in submission, he pressed God seven times: 'Shall not the Judge of all the earth do what is right?' (Genesis 18:25). He began at fifty righteous people and worked down to ten. God answered every appeal. Far from being rebuked, Abraham is called 'the friend of God' throughout Scripture (Isaiah 41:8; James 2:23). The questioning was not disrespect; it was exactly the language of someone who knew God well enough to speak plainly."
+        },
+        {
+          "book": "Exodus",
+          "text": "When Israel worshipped the golden calf at Sinai, God told Moses: 'Let me alone, that my wrath may burn hot against them and I may consume them' (Exodus 32:10). Moses did not accept the announcement. He argued from God's own reputation: the Egyptians would hear of it; the promises to Abraham, Isaac, and Jacob were at stake. The text records: 'the LORD relented from the disaster that he had spoken of bringing on his people' (Exodus 32:14). God responded to the argument, not to the silence."
+        },
+        {
+          "book": "Leviticus",
+          "text": "Leviticus 10:9 prohibits Aaron's sons from entering the tabernacle after drinking wine, 'so that you can distinguish between the holy and the common, and between the unclean and the clean, and so that you can teach the people of Israel all the statutes.' The entire worship system is designed for clear-minded engagement. Ecstatic or intoxicated religion, in which the worshipper surrenders rational engagement, was the pattern of Israel's neighbours. God wanted the opposite: worshippers sober enough to listen, discern, and teach."
+        },
+        {
+          "book": "Deuteronomy",
+          "text": "Deuteronomy 13:1-4 confronts a specific scenario: a prophet produces a genuine sign or wonder, and it comes to pass. The instruction is still not to follow him if he leads away from the true God. 'For the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul.' God does not want trust based on spectacular demonstrations. He wants people who hold signs up against the test of truth and who can tell the difference."
+        },
+        {
+          "book": "Job",
+          "text": "Job's three friends arrived with theologically respectable explanations: God punishes the guilty; Job must have sinned; he should confess and be restored. Job refused explanations that did not match what he knew and demanded to speak with God directly: 'I desire to argue my case with God' (Job 13:3). At the end, God's verdict was devastating to the friends: 'you have not spoken of me what is right, as my servant Job has' (Job 42:7). The honest questioner was vindicated; those who performed reverence while misrepresenting God's character were reproved."
+        }
       ]
     },
     "meets-us-where-we-are": {
       "title": "God Meets Us Where We Are",
-      "text": "God's ideal is direct friendship, but He adapts His methods to human fear, immaturity, culture, and limited capacity so contact and learning can continue.",
+      "text": [
+        "The question this principle raises is not merely 'does God adapt?' but 'what kind of person stoops?' He did not have to. He could have set His standard, communicated it once, and withdrawn from everyone who did not meet it. Instead He comes down. He adjusts His approach to where people actually are, not where He wishes they were. He gives smaller goals, sets the next step just within reach, and leads people no quicker than they can follow. The character word for this is gracious.",
+        "The most dramatic expression of it is the incarnation. God did not send an ambassador or a message. He became one of us: born in a stable, raised in a working-class town, eating meals with people the respectable world had written off. Jesus is not God in disguise; He is the clearest picture of what God has always been like. The parent who gets on the floor to play with the child is not pretending to be a child. They are doing what love does when it is serious about helping.",
+        "Jesus made the argument directly: 'Which of you, if your son asks for bread, will give him a stone? Or if he asks for a fish, will give him a snake? If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!' (Matthew 7:9-11). An ordinary parent, imperfect as they are, does not give their child what harms them when the child asks for what they need. God does not fall beneath that standard.",
+        "The contrast matters. He could have been cold and exacting: here is the standard, meet it or be cut off. He chose to be warm and adaptive. He chose imperfect people for His ministry, worked within imperfect systems, and accepted imperfect faith. His consistent message was: come as you are, and I will do the rest. Just come. The standard has not changed; what He adapts is the path to it, making it walkable from wherever the person is standing.",
+        "This is distinct from the extraordinary persistence that keeps reaching before finally letting go (Principle 9). That is about how long God pursues. This is about how He engages: the willingness to stoop, to adapt the approach to the actual capacity of the person in front of Him. Whether it is Sinai's thunder for people shaped by Egypt's power-religion, or the sanctuary symbols for those not yet ready for direct speech, or the incarnation itself, all are expressions of the same instinct. He meets people where they are because He genuinely wants them where He is, and He knows the only way there is together, step by step."
+      ],
       "examples": [
-        { "book": "Exodus", "text": "Sinai's thunder speaks to former slaves who would not yet hear gentler speech." },
-        { "book": "Leviticus", "text": "The sanctuary gives concrete symbols to people not ready for plain speech." },
-        { "book": "Numbers", "text": "Balaam receives repeated warnings rather than instant abandonment." },
-        { "book": "Mark", "text": "Jesus uses tangible methods with people who need something to hold onto." }
+        {
+          "book": "Exodus",
+          "text": "The thunder and fire at Sinai was not God's preferred way of speaking; it was His emergency method for reaching people who had spent four hundred years in a culture that respected only overwhelming power. Moses explained to the terrified crowd: 'Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin' (Exodus 20:20). The word 'fear' is doing two things at once: you do not need terror, but you do need reverent respect. After the drama, God's actual message was the Decalogue, beginning with who He is and what He has done for them. The thunder was to get their attention; the relationship was the point."
+        },
+        {
+          "book": "Leviticus",
+          "text": "Moses spoke with God face to face, 'as a man speaks to his friend' (Exodus 33:11). The elaborate system of tabernacle, priests, sacrifices, and festivals in Leviticus was not how God spoke to Moses; it was the teaching system provided for people who could not yet manage that kind of direct relationship. The sanctuary told the story of sin, sacrifice, forgiveness, and access to God through every object in it, for people who needed something to see and touch. God met them where their capacity was while the pattern of Moses kept showing what He ultimately preferred."
+        },
+        {
+          "book": "Numbers",
+          "text": "Balaam's story in Numbers 22-24 shows God working with a man who was not fully committed. God first told him not to go. When Balaam kept pressing, God let him go but placed an angel in the road, used Balaam's own donkey to speak, and then turned Balaam's intended curses into blessings four times over. God worked with a resistant, self-interested man and still brought good from the encounter. The provision was not ideal, but God met Balaam where he was and kept placing warnings and redirections in his path rather than simply abandoning him."
+        },
+        {
+          "book": "Deuteronomy",
+          "text": "Deuteronomy contains laws that regulate situations that were never God's design. Jesus later explains the divorce provision of Deuteronomy 24:1 by saying it was given 'because of your hardness of heart' (Matthew 19:8); 'from the beginning it was not so.' God did not wait for people to reach the ideal before giving them guidance; He worked within the imperfect conditions they were actually in, providing structure that limited harm even where it could not achieve the full ideal. The concession was not endorsement; it was accommodation to where people were."
+        },
+        {
+          "book": "Ezekiel",
+          "text": "The exiles in Babylon were in a crisis of faith: far from the promised land, the temple destroyed, the surrounding nations sneering that Israel's God must be weak or asleep. God did not rebuke their bewilderment. He gave Ezekiel an overwhelming vision of four living creatures, wheels within wheels, a firmament of blazing crystal, deliberately impossible to decode fully. The plain message behind the complexity was simple: He had not been caught by surprise and He had not lost control. Ezekiel could only approximate: 'such was the appearance of the likeness of the glory of the LORD' (Ezekiel 1:28). God met people who were overwhelmed by giving them something correspondingly overwhelming."
+        },
+        {
+          "book": "Haggai",
+          "text": "Haggai 2:9 contains a promise that might seem strange: 'The latter glory of this house shall be greater than the former, says the LORD of hosts.' Solomon's temple had fire from heaven and the overwhelming glory cloud. The second temple had none of that majesty. But the Messiah would walk through its courts teaching, healing, and speaking with God's own authority. God's point was that His glory was never in the overwhelming displays; it was in the gentleness. The most glorious moment in the universe's history was the infinitely powerful One walking quietly through those precincts, asking questions and washing feet."
+        }
       ]
     },
     "truthful-representation": {
-      "title": "God Values Trust and Truthful Representation",
-      "text": "Because trust is central to relationship with God, misrepresenting His character is especially serious, particularly for people who know Him well.",
+      "title": "God's Authority Rests on Truth, and All He Asks Is Trust",
+      "text": [
+        "Of everything God requires of His creatures, the most fundamental is trust. Not ritual, not perfect behaviour, not a long record of faithful service: trust. The thief on the cross received the same promise as any lifelong believer. Paul's answer to the desperate jailer who cried 'what must I do to be saved?' was simply: 'Believe on the Lord Jesus Christ' (Acts 16:31). Trust is the whole thing, because everything else flows from it. A person who genuinely trusts God will eventually do what He asks; a person who performs the outward requirements without trust has missed what God is actually after.",
+        "But trust cannot be demanded from a stranger. It requires knowing someone, and knowing someone takes experience, time, and honest exposure. This is why God has spent the whole of history making Himself known. 'In many and various ways God spoke to our ancestors through the prophets, but in these last days he has spoken to us by his Son' (Hebrews 1:1-2). He did not ask for trust and then remain hidden. He gave Himself to be known. What does it say about the kind of person He is, that He invites us to get to know Him before He asks us to trust Him?",
+        "This also explains why misrepresentation of His character matters so deeply. The adversary's original and most effective move was not a military rebellion; it was a character assassination. In heaven, he convinced a third of the angels that God's government was arbitrary and self-serving, that His love was conditional, that He could not be trusted. In the garden, the first recorded words of the adversary were a question designed to distort: 'Did God actually say...?' The attack was always on the basis of trust, because trust is the basis of everything. A misrepresented God cannot be genuinely trusted; and a God who cannot be trusted cannot be genuinely known; and the whole relationship depends on both.",
+        "Moses making God look angry when God was being generous was serious not because it broke a symbolic rule but because it planted a false portrait in the minds of watching people. Wrong conclusions about who God is make genuine trust impossible. God takes this seriously not out of wounded pride but because truth about His character is the only foundation on which a real relationship can be built.",
+        "What kind of authority runs this way? God holds ultimate power. He could govern on the basis of position alone: trust me because I am God, obey me because I can compel you. Instead He says: here is what I am like, here is the evidence, examine it, take the time you need. His authority is the authority of someone who is simply telling the truth and knows it. He would rather be trusted freely on the basis of what He has revealed than obeyed reluctantly on the basis of what He commands. That is a remarkable choice for the most powerful being in existence to make."
+      ],
       "examples": [
-        { "book": "Numbers", "text": "Moses striking the rock makes God look angry when He is giving water generously." },
-        { "book": "Ezekiel", "text": "God acts for His name's sake so His character is seen truthfully." }
+        {
+          "book": "Numbers",
+          "text": "In Numbers 20, God told Moses to speak to the rock and water would come. Moses instead gathered the people and said: 'Hear now, you rebels: shall we bring water for you out of this rock?' (Numbers 20:10), then struck it twice. The water came, but God's verdict was severe: 'Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, you shall not bring this assembly into the land' (Numbers 20:12). Moses had made God look angry when God was trying to be generous. The breach was not the striking of the rock; it was the portrait of God it painted before a watching people."
+        },
+        {
+          "book": "Ezekiel",
+          "text": "Ezekiel 36:22-23 is one of the most explicit statements in Scripture about how God's character is tied to His actions: 'It is not for your sake, O house of Israel, that I am about to act, but for the sake of my holy name, which you have profaned among the nations to which you came... and the nations will know that I am the LORD.' God's concern for His name is not vanity; it is the recognition that how the world understands Him determines whether they will trust Him. When His people behaved in ways that made Him look harsh, arbitrary, or absent, the nations drew wrong conclusions about what kind of God He was."
+        },
+        {
+          "book": "Job",
+          "text": "In Job 42:7-8, God's verdict is specifically about representation: 'My wrath is kindled against you and against your two friends, for you have not spoken of me what is right, as my servant Job has.' The friends had defended God's power, sovereignty, and justice throughout the book. What they said was not factually wrong. But they used true propositions about God to reach a false conclusion about His character: that Job's suffering proved hidden sin, and that God's justice was a simple quid pro quo. They misrepresented what kind of person God is, which mattered more than whether their doctrines were technically correct."
+        },
+        {
+          "book": "Psalms",
+          "text": "Psalm 51:4, David's prayer after his failure with Bathsheba, contains a striking line: 'Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.' Paul quotes this in Romans 3:4 to make a point about the universal human condition before God. The idea is that God is not only the judge but also the One whose own character is on trial in every moral failure. God's actions are subject to scrutiny; that is precisely why truthful representation of His character matters so deeply."
+        }
       ]
     },
     "freedom": {
       "title": "God Values Freedom",
-      "text": "God will not force love, trust, or loyalty. He protects freedom even when His gifts can be misused and even when people choose against Him.",
+      "text": [
+        "The existence of sin is the most radical evidence that we live in a genuinely free universe. God could have silenced the opposition before it spread, quarantined the rebellion before it became public, and prevented the knowledge of evil from entering the record. He did not. He allowed a free creature to take His good gifts and turn them against Him, allowed the adversary to make his case across millennia before the whole watching universe. He did this because to silence the opposition would have proved the adversary's central accusation: that His government runs by suppression rather than truth. A God who truly governs by truth had no option but to let the lie be tested, at whatever cost to Himself.",
+        "He would rather lose every creature He has ever made than force a single one to stay. That is not rhetoric; it is the logical endpoint of freedom taken seriously. Love forced is not love. Loyalty compelled is not loyalty. If God cannot have the freely given trust of His creatures, He will not take their compelled submission as a substitute. Freedom is not a concession built into His kingdom as a compromise. It is the design.",
+        "God gives genuinely. When He gives a gift, He does not attach strings, monitor its use, or withdraw it when it is misused. He prizes freedom so highly that He accepts the cost of real gifts being wasted rather than make His giving conditional on correct behaviour.",
+        "Samson received extraordinary physical strength. He used it to pursue personal vendettas and his own amusement. God did not revoke or restrain the gift to prevent its abuse. Solomon was given wisdom, riches, and honour beyond any king before him. He turned that wisdom to seven hundred wives, three hundred concubines, high places for foreign gods, and eventually open idolatry. The gifts remained real and were not managed from outside. The very fact that they could be so thoroughly misused is the evidence that the freedom was genuine.",
+        "God protects freedom even when it runs against His own stated plans. Daniel 10 shows Gabriel and then Michael contending with 'the prince of the kingdom of Persia', understood as Satan pressing Cyrus not to release the Jews as God had predicted through Jeremiah. Heaven's intervention was not to force Cyrus to comply; it was to hold back the overwhelming pressure being applied so that Cyrus's decision remained his own. God's infinite power was used to protect a single mortal's freedom, not to override it.",
+        "The same logic runs through Hosea. Hosea did not threaten Gomer to make her come home. You cannot say to someone 'come back or I will hurt you' and produce genuine love. Romans 2:4 draws the principle plainly: it is the kindness of God that leads to repentance, not fear of consequences. God will not use threats or force to win love, because love won by force is not love at all.",
+        "Zechariah 4:6 states it directly from God's own lips: 'Not by might, nor by power, but by My Spirit.' The conflict that has shaped all of history is not a contest over who has the most power. The devil never doubted that God had more power. The question was always over who was telling the truth. God cannot win simply by displaying superior force, because the infinite power that could not hold the loyalty of Lucifer, who lived in God's immediate presence, was never going to produce loyalty by compulsion. God wins by His Spirit, which means by truth spoken in love, which means He wins only when people freely choose to trust Him."
+      ],
       "examples": [
-        { "book": "Judges", "text": "Samson remains free to misuse a real gift." },
-        { "book": "1 Kings", "text": "Solomon is not micromanaged out of abusing wisdom and power." },
-        { "book": "Hosea", "text": "Love cannot be won by threat; kindness leads to repentance." },
-        { "book": "Zechariah", "text": "God wins not by might or power, but by His Spirit." }
+        {
+          "book": "Judges",
+          "text": "Samson's story in Judges 13-16 is one of the most puzzling in Scripture because God gave him extraordinary strength and then seemed to leave him to use it however he wished. He married a Philistine woman against his parents' counsel, used his gift for personal vendettas, and spent his final years with Delilah, who was openly trying to betray him. God did not withdraw or diminish the gift at any point. The fact that it could be so thoroughly wasted is evidence of how genuinely it was given: there were no conditions built in to ensure correct use, no mechanism to reclaim the gift if misused."
+        },
+        {
+          "book": "1 Kings",
+          "text": "Solomon asked God for wisdom to govern, and God gave it generously, adding riches and honour as well (1 Kings 3:10-13). Solomon built the temple, wrote Proverbs and Ecclesiastes, and was celebrated throughout the known world for his insight. Then, over decades, he allowed his foreign wives to turn his heart toward their gods; he built high places for Chemosh and Molech (1 Kings 11:1-8). God did not revoke the wisdom. He did not micromanage Solomon back to faithfulness. The gift was genuinely Solomon's to use or misuse. God's response came through consequences and prophecy, not by withdrawing the gift and forcing the outcome He preferred."
+        },
+        {
+          "book": "Daniel",
+          "text": "Daniel 10 describes a heavenly struggle that lasted three weeks while Daniel was fasting and praying. Gabriel tells Daniel that 'the prince of the kingdom of Persia' had been opposing him, and that Michael had come to help (Daniel 10:13). The context is the decree of Cyrus to release the Jews, as Jeremiah had predicted. Satan was pressing Cyrus not to issue it. Heaven's intervention was not to override Cyrus and force him to comply; it was to hold back the supernatural pressure so that Cyrus remained free to make his own choice. God's most powerful agents were deployed to protect a single man's freedom of decision."
+        },
+        {
+          "book": "Hosea",
+          "text": "Hosea chapter 3 shows God telling Hosea to buy Gomer back from the man who now owned her, at the price of a maidservant. Having bought her back, Hosea did not compel her. He said: 'You must dwell as mine for many days. You shall not play the whore, or belong to another man; so will I also be to you' (Hosea 3:3). He waited. He wanted her to want to come home, not simply to be there under compulsion. This is God's own method: He goes to the extreme length of purchase and then waits. He never threatened Gomer with punishment, and neither does God with His people."
+        },
+        {
+          "book": "Nahum",
+          "text": "Nahum uses some of the strongest language in Scripture about God's anger. But this book has to be read against Jonah: God had waited for Nineveh across generations, sent a prophet, and rejoiced when they repented. By Nahum's time they had regressed completely and would not respond. The insight from studying the minor prophets is direct: 'The one thing that impresses me is the great respect God has for humanity. He refuses to turn us into robots.' God gave Nineveh every opportunity, and when there was genuinely nothing more to be done, He let them go. That is not control; it is the final, respectful release of a consistently made choice."
+        },
+        {
+          "book": "Zechariah",
+          "text": "Zechariah 4:6 is addressed to Zerubbabel, who faced the seemingly impossible task of rebuilding Jerusalem with a tiny, demoralised community. The angel's word from God: 'Not by might, nor by power, but by my Spirit, says the LORD of hosts.' The statement is larger than its immediate context. The whole conflict between good and evil in Scripture is not a contest over who has more power; the devil never doubted that God had more. The conflict is over who is telling the truth about the kind of universe this is. God could win by sheer force but chooses not to, because force cannot produce trust, and trust is what the relationship requires."
+        }
       ]
     },
     "gracious-to-enemies": {
       "title": "God Is Gracious to His Enemies",
-      "text": "God keeps working with estranged, opposing, and failing people. His vengeance aims to recover rather than to gloat or retaliate.",
+      "text": [
+        "God's instinct toward people who have turned away from Him, failed Him, or actively opposed Him is not to write them off. It is to keep working with them. His default posture toward the estranged is grace, not grudging toleration.",
+        "Samson wasted the gift he had been given and lived self-indulgently throughout his life. Yet when he turned back at the end, God responded, and Samson is listed among the heroes of faith in Hebrews 11. Solomon misused his extraordinary gifts over decades and slid into open idolatry. Yet on returning he was fully reinstated, not kept at arm's length. In both cases the past is treated as though it were not there.",
+        "Scripture's language of God's vengeance is consistently misread as retaliation. The Psalms draw out the actual meaning: when God says 'Vengeance is mine, I will repay', He is not reserving the right to hurt His enemies. His way of repaying an enemy is to use even discipline in the attempt to win that person back. The striking conclusion is this: if you leave your enemy to God's vengeance, you may find yourself meeting that enemy in the Kingdom, because God loves him too and will use every available means to save him.",
+        "Hosea 11 refuses to let God sound as though He stops loving those He can no longer reach. 'How can I give you up, Ephraim? How can I hand you over, Israel?' God loves everyone, but He can only show that love to those who make themselves available to receive it. He will still love Lucifer as he perishes. He will remember the days when Lucifer bore light and truth. The death of the wicked will leave an eternal void in the infinite memory of God.",
+        "Obadiah is an entire book about gloating, and God's verdict against it. When Edom stood by and cheered as Jerusalem fell, God said: 'You should not have gloated over your brother in the day of his misfortune.' At the end of the ages, when the wicked perish, God's people will not gloat. Neither will God. Even the wicked are still His children."
+      ],
       "examples": [
-        { "book": "Psalms", "text": "God's vengeance is portrayed as discipline that may win an enemy back." },
-        { "book": "Hosea", "text": "God still loves those He can no longer reach." },
-        { "book": "Jonah", "text": "God cares for Nineveh, Israel's enemy city." }
+        {
+          "book": "Judges",
+          "text": "Gideon was hiding in a winepress, threshing grain for fear of the Midianites, when the angel addressed him as 'mighty man of valour' (Judges 6:12). He asked for not one but two signs with a fleece: first wet when the ground was dry, then dry when the ground was wet. God provided both without a word of reproach. Samson wasted the extraordinary gift he had been given across his whole life, using it for personal quarrels and self-indulgence, and at the end his eyes were put out and he was grinding grain in a Philistine prison. Yet when he turned back, God gave him strength for a final act, and he is listed among the heroes of faith in Hebrews 11:32. The past was not held over either man."
+        },
+        {
+          "book": "1 Kings",
+          "text": "Solomon's long slide into idolatry began with his foreign wives and ended with him building high places for Chemosh and Molech on the hill east of Jerusalem (1 Kings 11:7). It was an extraordinary betrayal of everything he had been given. Ecclesiastes appears to record his return and reflection: 'Fear God and keep his commandments, for this is the whole duty of man' (Ecclesiastes 12:13). On returning, he was not placed on probation or kept at arm's length. The grace shown to him on the way back was as unreserved as the gifts shown at the beginning."
+        },
+        {
+          "book": "Psalms",
+          "text": "Psalm 94 opens with a cry for God to repay the proud, and Paul picks up the same language in Romans 12:19: 'Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, Vengeance is mine, I will repay, says the Lord.' The reason Paul gives for leaving vengeance to God is striking: 'if your enemy is hungry, feed him' (Romans 12:20). God's vengeance is not retribution but redemptive discipline, aimed at winning the enemy back. Turn your enemy over to God and you may find yourself meeting him in the Kingdom, because God loves him too."
+        },
+        {
+          "book": "Hosea",
+          "text": "Hosea 11 is one of the tenderest chapters in the Old Testament. 'When Israel was a child, I loved him, and out of Egypt I called my son. The more they were called, the more they went away' (Hosea 11:1-2). Then the passage that sounds like giving up: 'I can love them no more.' And immediately: 'How can I give you up, Ephraim? How can I hand you over, Israel?... My heart recoils within me; my compassion grows warm and tender' (Hosea 11:8). The two things sit in the same chapter: the reaching has to stop, and the love never does. God will still love those who perish. Their loss leaves an eternal void in His memory."
+        },
+        {
+          "book": "Obadiah",
+          "text": "The book of Obadiah is twenty-one verses long, and its entire subject is gloating. When Babylon destroyed Jerusalem in 587 BC, the Edomites stood aside and rejoiced. 'You should not have gloated over the day of your brother in the day of his misfortune; you should not have rejoiced over the people of Judah in the day of their ruin' (Obadiah 12). The principle God draws out is that He does not gloat over the destruction of the wicked either. At the final end, when those who rejected Him perish, it will not be a victory celebration for God. Even the wicked are His children, and He grieves as they go."
+        },
+        {
+          "book": "Jonah",
+          "text": "Jonah's complaint at the end of the book reveals exactly why he had tried to run from his commission: 'O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster' (Jonah 4:2). Jonah did not want Nineveh to be saved. God's response is to ask about the plant that shaded Jonah: he cared about that. Then: 'should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left?' (Jonah 4:11). God's compassion for Israel's enemies is the point of the whole book."
+        }
       ]
     },
     "gentle-with-failing-children": {
       "title": "God Is Gentle With His Failing Children",
-      "text": "God looks for what He can commend, restores dignity, and treats weak or imperfect faith with generosity rather than contempt.",
+      "text": [
+        "God looks for what He can commend. When He looks at imperfect, struggling, failing people, His instinct is not to catalogue their failures. It is to find the faith that is there, however small or mixed, and to credit it.",
+        "Rahab was a Canaanite prostitute who knew almost nothing about God. What little she knew was secondhand and mixed with fear: she had only heard about the Red Sea and the kings east of the Jordan (Joshua 2:8-11). That small, impure knowledge was enough. She is named among the heroes of faith in Hebrews 11. The list she appears on is itself instructive: Sarah laughed and then denied it; Gideon needed two separate signs; Samson was self-indulgent throughout his life. Scripture tells the truth about each of them and then credits them with faith rather than sorting them out by their failures.",
+        "God's gentleness also extends to dignity. Proverbs 31 honours a woman more highly than almost anywhere in ancient literature, praising her for wisdom and character above beauty or charm. Jesus carried the same instinct further into practice: He went out of His way, repeatedly and at real cost to His own reputation, to give back the dignity and self-respect of the woman known for an immoral life, and He openly honoured the Samaritan woman in public. God's gentleness toward His failing children includes actively restoring what sin and other people have taken away.",
+        "Hosea 11 is the tenderest statement: 'Yet it was I who taught Ephraim to walk, taking them by the arms... I led them with cords of kindness, with the bands of love, and I became to them as one who eases the yoke on their jaws, and I bent down to them and fed them.' Even as God prepared to give them up to Assyria, it was only after years of this kind of reaching. His discipline is never harsh or retaliatory. It is the correction of a parent bending down to help a child learn to walk.",
+        "Zechariah 2:8 puts it plainly: 'He who touches you touches the apple of His eye.' The nations that carried Israel into captivity overdid it. God says: 'I was angry but a little, and they furthered the disaster.' He disciplined them in turn. His people remain the apple of His eye even while they are being corrected."
+      ],
       "examples": [
-        { "book": "Joshua", "text": "Rahab's small and mixed faith is honored." },
-        { "book": "Judges", "text": "Gideon's requests for signs are met without scolding." },
-        { "book": "Hosea", "text": "God's discipline is pictured as a parent teaching a child to walk." },
-        { "book": "Mark", "text": "Jesus restores people who are confused, afraid, or unclean." }
+        {
+          "book": "Joshua",
+          "text": "Rahab's knowledge of God at the time of the spies was minimal and partly fearful. She had heard about the drying of the Red Sea and the defeat of the Amorite kings, and concluded: 'The LORD your God, he is God in the heavens above and on the earth beneath' (Joshua 2:11). She had drawn a true conclusion from secondhand reports, and what she felt was primarily dread, not love. That was enough. She hid the spies, sent the pursuers away, and asked only for protection for her household. She appears in the genealogy of Jesus (Matthew 1:5), in the list of heroes of faith (Hebrews 11:31), and as an example of faith proved by works in James 2:25. God honoured the little that was genuinely there."
+        },
+        {
+          "book": "Judges",
+          "text": "Gideon's call in Judges 6 begins with him hiding in a winepress, threshing grain to keep it from the Midianites. When the angel calls him a 'mighty man of valour', he protests that his clan is the weakest in Manasseh and he is the least in his family (Judges 6:15). He asks for a sign (Judges 6:17), and when given one, asks for another (Judges 6:36-40): a wet fleece on dry ground, then a dry fleece on wet ground. God provided both without the slightest reproach. The weakest, most hesitant faith was met with patient confirmation rather than a lecture about trusting more."
+        },
+        {
+          "book": "Proverbs",
+          "text": "Proverbs 31:10-31 is remarkable in its ancient context. The capable woman manages property, buys a field, plants a vineyard, runs a trading business, provides for her household, and opens her arms to the poor. The passage ends: 'Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised. Give her of the fruit of her hands, and let her works praise her in the gates' (Proverbs 31:30-31). In a culture where women's worth was almost entirely defined by appearance and their husband's status, God placed this portrait at the end of a wisdom book and called it the summary of what matters. He honours what the world overlooks."
+        },
+        {
+          "book": "Hosea",
+          "text": "Hosea 11:1-4 is almost unbearable in its tenderness: 'Yet it was I who taught Ephraim to walk; I took them up by their arms, but they did not know that I healed them. I led them with cords of kindness, with the bands of love, and I became to them as one who eases the yoke on their jaws, and I bent down to them and fed them.' This is God describing years of gentle, patient parenting toward people who continually failed to recognise it. Even the decision to give them up to Assyria came only after all of that. God's discipline of His failing children is never harsh or retaliatory. It is the correction of a parent who never stops loving."
+        },
+        {
+          "book": "Mark",
+          "text": "Mark's Gospel is the most compressed of the four, and it is striking how often Jesus's encounters end with restoration rather than reproach. The woman who had been bleeding for twelve years, who touched Jesus's cloak in the crowd hoping not to be noticed, is called 'daughter' and told her faith has made her well (Mark 5:34). The father of the boy with an unclean spirit, who cried 'I believe; help my unbelief!' (Mark 9:24), received exactly that help. Jesus consistently found the faith that was there, however mixed or desperate, and credited it rather than dismissing it for what was missing."
+        },
+        {
+          "book": "Zechariah",
+          "text": "Zechariah 2:8 contains a striking picture of how God regards those who harm His people: 'He who touches you touches the apple of his eye.' God also says of Israel's captors: 'I was angry with my people; I struck them down, but I went too far in punishment' (Zechariah 1:15, various translations). He disciplined His people, and then disciplined those who exceeded what He had intended. The nations that carried Israel into captivity took God's correction as an invitation to pile on, and they will answer for the excess. Even under discipline, His people remain the apple of His eye."
+        }
       ]
     },
     "lets-go": {
       "title": "God Ultimately Lets Go Those Who Reject His Love",
-      "text": "God's wrath is His sorrowful release of people who insist on leaving the only source of life. He lets go only when love will not be received.",
+      "text": [
+        "God does not destroy those who turn away from Him. The final consequence of rejecting His love is not punishment from outside; it is God stepping back and letting a person go, respecting the settled choice they have made. His wrath, as the Bible describes it, is His sorrowful release of those who insist on leaving the only source of life.",
+        "Saul's story shows the long patience before that release. God worked with Saul for years. The break came not from a single failure but from a settled posture: sparing Agag and the best spoil against clear instruction, blaming the people, then erecting a monument to himself. After that, God let him go. What followed was not God punishing him; it was Saul, no longer under God's protection, moving toward the Witch of Endor and finally suicide. God remained the same. Saul had moved beyond the point where God's kindness could reach him.",
+        "The contrast between Peter and Judas is the sharpest illustration in the Gospels. Both men failed catastrophically. Both looked into the face of Christ afterwards. Peter, expecting to see wrath and offended justice, saw instead sorrow, disappointment, and pity. He wept and was eventually fully restored. Judas, under exactly the same look of unretaliatory love, fled and committed suicide. The difference was not in Christ's expression but in the condition of each man's heart. The same infinite, forgiving love healed one and could not reach the other.",
+        "Hosea is the Old Testament's clearest explanation of what God's wrath actually is. The whole book runs on one theme: 'Ephraim is joined to idols; let him alone' (Hosea 4:17). And in the same book, in the same voice: 'How can I give you up, Ephraim? How can I hand you over, Israel?... My heart recoils within me, all my compassion is kindled' (Hosea 11:8). Paul, who had studied Hosea deeply, repeats the pattern three times in Romans 1: 'God gave them up.' That is the wrath being revealed. God does not beat people or impose penalties. He turns away and walks home without His people, exactly as Hosea would have done if Gomer had refused to come back.",
+        "The cross is the one place in all of history where God fully demonstrated what giving someone up costs. Jesus was treated as the sinner He was not. He cried: 'My God, why have You forsaken Me?' The death that came was not torture inflicted by an angry God but the consequence of being given up by One who cries as we go. God did not ask anyone to take His word for what His wrath looks like. He showed it once, on His own Son, so the universe could see."
+      ],
       "examples": [
-        { "book": "1 Samuel", "text": "Saul reaches settled refusal after long patience." },
-        { "book": "Hosea", "text": "Ephraim is joined to idols, so God says to let him alone while grieving the loss." },
-        { "book": "Ezekiel", "text": "God pleads, 'Why will you die?' before release." },
-        { "book": "Matthew", "text": "Peter and Judas encounter the same gracious face with opposite responses." }
+        {
+          "book": "1 Samuel",
+          "text": "Saul's trajectory from 1 Samuel 10 to 15 is a study in God's long patience. Saul began with genuine gifts and a transformed heart (1 Samuel 10:9). His failures multiplied: the unlawful sacrifice at Gilgal (1 Samuel 13), the rash oath that nearly cost Jonathan his life (1 Samuel 14), and finally the decision to spare Agag and the best spoil at Amalek, then blame the people (1 Samuel 15). Samuel's words mark the watershed: 'Because you have rejected the word of the LORD, he has also rejected you from being king' (1 Samuel 15:23). The torment that followed and the consultation of the Witch of Endor were the natural outcome of being released from protection, not new punishments inflicted from outside."
+        },
+        {
+          "book": "2 Kings",
+          "text": "2 Kings 17:7-23 is one of the most detailed accounts in Scripture of why the exile happened, written in what reads like a legal judgment. 'The LORD warned Israel and Judah by every prophet and every seer, saying, Turn from your evil ways... But they would not listen, but were stubborn, as their fathers had been' (2 Kings 17:13-14). The passage describes across many verses the specific ways the northern kingdom persisted in rejection. Then: 'the LORD was very angry with Israel and removed them out of his sight' (2 Kings 17:18). The letting go came at the end of a very long story, not at the beginning."
+        },
+        {
+          "book": "Hosea",
+          "text": "Hosea 4:17 may be the most compressed statement of God's wrath in the Old Testament: 'Ephraim is joined to idols; leave him alone.' There is no anger in the words; just grief. The reaching has ended because there is nothing left to reach. Paul understood this perfectly; he uses the same language three times in Romans 1:24, 26, 28: 'God gave them up.' This is the wrath being revealed: not punishment inflicted, not fire sent from heaven, but God stepping back and walking home without His people, exactly as Hosea would have had to do if Gomer had locked the door."
+        },
+        {
+          "book": "Ezekiel",
+          "text": "Ezekiel 18:31-32 is one of the most explicit statements in the Bible about how God feels about this final step: 'Cast away from you all the transgressions that you have committed, and make yourselves a new heart and a new spirit! Why will you die, O house of Israel? For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live.' Chapter 33:11 repeats it: 'As I live, declares the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live.' God lets go only after pleading, and the letting go gives Him no satisfaction. It is a last grief, not an exercise of power."
+        },
+        {
+          "book": "Matthew",
+          "text": "At the Last Supper, Jesus washed all twelve disciples' feet, including Judas. In the garden, when Judas arrived with the soldiers, Jesus addressed him as 'friend' (Matthew 26:50). Peter, who denied Jesus three times, 'went out and wept bitterly' (Matthew 26:75) when he caught Jesus's eye. Judas, when he saw that Jesus was condemned, felt remorse and threw the money back, but he could not receive what Peter had received from the same look. Both men stood before the same face of unconditional, unretaliatory love. The difference was in what each could bring himself to do with it."
+        }
       ]
     },
     "extreme-lengths": {
       "title": "God Goes to Extreme Lengths Before Letting Anyone Go",
-      "text": "Before release comes persistent reaching, warning, delay, discipline, and invitation. God asks little in return: a willingness to listen and come home.",
+      "text": [
+        "Before God ever releases a person or people to their own choice, He reaches out persistently, over long periods of time, through many different methods, asking very little in return. Only the exhaustion of every available avenue of approach finally ends the reaching.",
+        "The summary in 2 Chronicles 36:15-16 is as direct as Scripture gets: 'The LORD, the God of their fathers, sent persistently to them by His messengers, because He had compassion on His people and on His dwelling place. But they kept mocking the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD rose against His people, till there was no remedy.' For generations, through prophet after prophet across both kingdoms, He kept sending. The letting go came only after the reaching had been refused to the point where there was nothing left to try.",
+        "Manasseh is perhaps the most striking individual example. He was king of Judah for fifty years and led the people to behave worse than the Canaanites God had driven out before them. He set up idols in the temple itself and, by tradition, martyred Isaiah. Yet God kept reaching, and eventually allowed Manasseh to be taken to Babylon in chains. There, in the extremity, Manasseh humbled himself and repented, and was restored. God will use even painful and dramatic measures to reach a person as long as there is any possibility they can still turn around.",
+        "Hosea chapter 3 shows the same pattern in personal terms. God told Hosea to buy Gomer back from the man who owned her, paying the price of a maidservant. But Hosea did not drag her home. He said: 'I will wait for you.' He went to the extreme length of buying her back and then chose to wait rather than compel, because he wanted her to want to be home, not simply to be present under obligation. God does the same: He goes to the extreme of purchase, and then waits.",
+        "2 Peter 3:9 names the driving motive: 'The Lord is not slow about His promise as some count slowness, but is long-suffering toward you, not wishing that any should perish but that all should reach repentance.' Every apparent delay, every moment in which consequences are held back and the door remains open, is God actively intervening so that people have more room to turn around. The delay is not weakness or indecision. It is one more expression of extreme lengths."
+      ],
       "examples": [
-        { "book": "2 Chronicles", "text": "God sends messengers persistently until there is no remedy." },
-        { "book": "Hosea", "text": "Hosea buys Gomer back and waits rather than dragging her home." },
-        { "book": "Jonah", "text": "Nineveh's warning is conditional, and God is pleased to relent." }
+        {
+          "book": "2 Chronicles",
+          "text": "2 Chronicles 36:15-16 is Scripture's own summary of the centuries before the exile: 'The LORD, the God of their fathers, sent persistently to them by his messengers, because he had compassion on his people and on his dwelling place. But they kept mocking the messengers of God, despising his words and scoffing at his prophets, until the wrath of the LORD rose against his people, till there was no remedy.' The word 'persistently' translates a Hebrew expression meaning 'sending again and again, rising early to send.' For generations, through prophet after prophet across the whole divided kingdom, the reaching continued. The letting go was not the beginning of what God did; it was the end of everything."
+        },
+        {
+          "book": "Hosea",
+          "text": "God told Hosea to marry a woman who would be unfaithful, mirroring God's relationship with Israel (Hosea 1:2). Gomer left, and eventually was owned by another man. God told Hosea to find her and buy her back, at a cost of fifteen pieces of silver and some barley (Hosea 3:2). Having bought her back, Hosea did not force her compliance: 'You must dwell as mine for many days. You shall not play the whore, or belong to another man; so will I also be to you' (Hosea 3:3). He went to the extreme of paying for her return and then waited, because he wanted her genuinely home, not merely present. That is the picture: God buys back His people at great cost and then waits rather than compelling."
+        },
+        {
+          "book": "Jonah",
+          "text": "God sent Jonah to Nineveh with a message that sounded absolute: 'Yet forty days, and Nineveh shall be overthrown!' (Jonah 3:4). Nineveh repented, from the king to the least citizen. The king covered himself in sackcloth and issued a decree of fasting and prayer, adding: 'Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish' (Jonah 3:9). God saw their turning and 'relented of the disaster that he had said he would do to them, and he did not do it' (Jonah 3:10). Jonah was furious, which prompted God to explain exactly what He is like: gracious, merciful, slow to anger, abounding in steadfast love, relenting from disaster. The warning was conditional from the beginning, and God was pleased to relent."
+        },
+        {
+          "book": "2 Kings",
+          "text": "The summary at the end of the northern kingdom's history in 2 Kings 17 lists what God had done to try to reach them: He brought them out of Egypt, gave them the land, warned them through every prophet and seer, said 'turn from your evil ways', and maintained the covenant across centuries. Across roughly two centuries of the divided kingdom, the people had been warned by figures including Elijah, Elisha, Amos, and Hosea. The exile came only after all of that, described in 2 Kings 17:18 as God finally removing them from His sight. The account is written so that no reader can conclude the exile was hasty or that God had not tried."
+        },
+        {
+          "book": "Joel",
+          "text": "Joel 2:12-14 is one of the most open invitations in the Old Testament: 'Yet even now, declares the LORD, return to me with all your heart, with fasting, with weeping, and with mourning; and rend your hearts and not your garments. Return to the LORD your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love; and he relents over disaster. Who knows whether he will not turn and relent, and leave a blessing behind him?' The condition is minimal: returning with the heart. God had sent the locusts, the warnings, the armies; but even then the door was open. He was still holding back the full consequence, waiting for people to turn around."
+        }
       ]
     },
     "demonstration-and-evidence": {
       "title": "God Wins Trust by Demonstration and Evidence",
-      "text": "God does not rely on assertion or authority to demand trust. He opens His government to examination and lets truth be shown in history, judgment, and the cross.",
+      "text": [
+        "God does not run His kingdom by asserting claims and demanding they be accepted on the basis of His authority. He is willing to be put to the proof. Questions about His character are settled by open demonstration before the watching universe, not by declarations that brook no argument.",
+        "The book of Job opens this explicitly. When Satan accuses Job of serving God only for the rewards, God does not simply assert that Job's trust is genuine. He allows the whole matter to be tested in the open, so the truth will be shown rather than merely declared. God also does not silence Satan during the contest. Through the long argument He does not strike the three friends dumb, even as they say damaging things about His character. He lets the accusers talk because He is confident that truth, given time, will stand on its own. Truth does not need its critics gagged.",
+        "Ezekiel uses the phrase 'for the sake of My name' repeatedly. God brought Israel out of Egypt, and brings them back from exile, to say something true about Himself before a watching universe, not because the people had earned it. This is not vanity. Because God wants people to trust and obey Him freely, on the strength of evidence rather than compulsion, He pours everything into making the truth about His character visible, and then lays that character open to examination. 'Taste and see that the LORD is good' (Psalm 34:8). 'That You may be justified in Your words, and prevail when You are judged' (Psalm 51:4). God presents Himself for scrutiny of His own accord.",
+        "Daniel 7 shows the same posture writ large: thrones are set, the Ancient of Days takes His seat, and a hundred million beings watch as the court sits and the books are opened. A tyrant rules in secret. God submits His governance to the scrutiny of His creatures because love and trust require openness. Nothing is hidden: 'come and see' is the governing style that runs through every heavenly council scene, from Job 1 through Zechariah 3 to Daniel 7.",
+        "The cross is the definitive demonstration. God did not ask the universe to take His word for what His wrath looks like. He showed it once, on His own Son. Romans 4:25 uses the same Greek word for Christ being 'delivered up' that Romans 1:24, 26, and 28 use three times for God giving up sinners. The cross is not a separate event from God's wrath; it is God's wrath, demonstrated once at infinite cost, so that the universe could see what giving someone up really means and what it really costs Him."
+      ],
       "examples": [
-        { "book": "Job", "text": "Accusations are answered by open demonstration rather than silencing." },
-        { "book": "Daniel", "text": "The heavenly court opens the books before the watching universe." },
-        { "book": "Zechariah", "text": "Satan accuses and God answers with evidence of transformation." },
-        { "book": "Matthew", "text": "Jesus reveals God's character in human life and death." }
+        {
+          "book": "Job",
+          "text": "Job 1-2 opens not with God declaring a verdict but with God pointing to a demonstration: 'Have you considered my servant Job, that there is none like him on the earth, a blameless and upright man?' (Job 1:8). Satan's response is an accusation: Job only serves God because God protects him. God does not silence Satan or simply assert the contrary. He allows everything Satan proposes, so that the truth will be shown in the open before the watching universe. At the end, Job has not cursed God. The truth has been demonstrated, not merely declared. God also lets the three friends talk at length, even as they say things that damage His character, because He is confident the truth will stand on its own."
+        },
+        {
+          "book": "Psalms",
+          "text": "Psalm 34:8 is an invitation that would make no sense if God ran His kingdom by authority and command: 'Oh, taste and see that the LORD is good!' You taste things to find out whether they are actually good, not to comply with a decree. The invitation is to verify the claim by experience. Psalm 51:4 contains another remarkable line: 'Against you, you only, have I sinned... so that you may be justified in your words and blameless in your judgment.' God's own character and judgment are in the dock; human behaviour is part of the evidence. His willingness to be examined in this way, to have His dealings with people become evidence for or against His character, is the posture of someone utterly confident in the truth."
+        },
+        {
+          "book": "Ezekiel",
+          "text": "The phrase 'they shall know that I am the LORD' appears over sixty times in Ezekiel, making it the most repeated refrain in the book. God acts, again and again, not simply because He has the authority to, but 'for the sake of my holy name' (Ezekiel 36:22), so that something true will be known about Him. Ezekiel 20 is a long review of Israel's history in which God explains His repeated interventions in terms of not wanting His name profaned among the nations who were watching. The watching universe matters to God because He is building a universe of free trust, not of compelled compliance, and free trust requires an accurate picture of what He is actually like."
+        },
+        {
+          "book": "Daniel",
+          "text": "Daniel 7:9-10 describes a courtroom vision: 'As I looked, thrones were placed, and the Ancient of Days took his seat... the court sat in judgment, and the books were opened.' A hundred million beings are present. A tyrant rules in secret; God submits His governance to the scrutiny of His creatures. Even the messenger who comes to Daniel says: 'I will tell you what is inscribed in the book of truth' (Daniel 10:21). Nothing is hidden. God does not run a secret operation and ask His people to trust Him in the dark. He opens the records and shows His people what is happening and why. This is the governing style that runs through every heavenly council scene in Scripture."
+        },
+        {
+          "book": "Zechariah",
+          "text": "Zechariah 3 is a heavenly court scene: Joshua the high priest stands before the Angel of the Lord, with Satan at his right hand to accuse him (Zechariah 3:1). God does not exclude Satan from the court or prevent him from speaking. The accusation is heard. The response is not to ignore the record but to testify to transformation: 'See, I have taken your iniquity away from you, and I will clothe you with pure garments' (Zechariah 3:4). Joshua's record is real; the transformation is real; and both are presented openly before the watching court. God wins the argument not by suppressing the accusation but by answering it with evidence of genuine change."
+        },
+        {
+          "book": "Matthew",
+          "text": "The Sermon on the Mount, the parables, the healings, the table fellowship with sinners, the washing of disciples' feet, and ultimately the cross: every element of Jesus's life was a demonstration of what God is like. He did not simply announce that God loves sinners; He ate with them. He did not simply teach that the last would be first; He knelt on the floor and washed feet. 'Whoever has seen me has seen the Father' (John 14:9). The incarnation is the definitive answer to the question of what God's character is actually like: not a claim but a life, lived in full view, available to anyone who wanted to see."
+        }
       ]
     },
     "honest-expression": {
       "title": "God Invites Honest and Open Expression",
-      "text": "God wants real communication, not performance. He preserves raw prayers and welcomes the truth about what is inside us so healing can begin there.",
+      "text": [
+        "God wants real communication, not performance. He already knows everything inside us completely, so keeping up a polished, acceptable front in His presence is not reverence; it is a kind of pointlessness. The only thing that disappoints Him is artificiality.",
+        "Psalm 139 makes the case for honesty from first principles: 'You know when I sit down and when I rise up; you discern my thoughts from afar... even before a word is on my tongue, you know it altogether.' Since God already sees everything, telling Him only the acceptable parts is like insisting to a doctor that you feel perfectly well while he reads your test results. The knowledge is already there; the pretence serves no one.",
+        "The Psalms are the strongest evidence of what God welcomes. They preserve, as inspired models of prayer, depression so deep the psalmist asks whether God has forgotten to be gracious (Psalm 77), the feeling of complete abandonment ('My God, my God, why have you forsaken me?', Psalm 22), and open desire for revenge ('I hate them with perfect hatred', Psalm 139; 'dashes your little ones against the rock', Psalm 137). No voice from heaven interrupts to rebuke the candour. The decisive point is this: if such honesty were wrong, the Spirit would not have inspired and preserved these prayers in Scripture, because doing so would mislead every generation that followed. They were kept because God welcomes honest self-expression rather than being offended by it.",
+        "David is described as a man after God's own heart. He was a man of blood who prayed for the ruin of his enemies. God did not endorse the content of those prayers. What He endorsed was the willingness to be genuine, because the same David who said 'I hate them with perfect hatred' could also say: 'Search me, O God, and know my heart... and see if there be any wicked way in me, and lead me in the way everlasting' (Psalm 139). God honoured the honesty that made real searching and real change possible.",
+        "Honesty before God is not, however, the end of the matter. The model prayers move from candour to surrender: from 'Lord, you know what I am feeling' to 'if I need a new heart and a right spirit, I want that.' God welcomes the raw truth so that healing can begin where we actually are, not where we pretend to be."
+      ],
       "examples": [
-        { "book": "Psalms", "text": "The Psalms preserve grief, anger, abandonment, repentance, and surrender as prayer." },
-        { "book": "Job", "text": "Job refuses artificial piety and speaks honestly before God." }
+        {
+          "book": "Psalms",
+          "text": "The Psalms contain prayers that would shock many churchgoers. Psalm 88 ends without resolution, finishing on the word 'darkness'. Psalm 137 ends with: 'Blessed shall he be who takes your little ones and dashes them against the rock!' Psalm 139:21-22: 'Do I not hate those who hate you, O LORD?... I hate them with perfect hatred; I count them my enemies.' These were not corrected, toned down, or excluded from Scripture. They were preserved as inspired examples of prayer. The conclusion the Spirit draws is: this is acceptable before God. He is not fragile or easily offended. He knows what is inside us already, and He welcomes its honest expression rather than a sanitised performance of it."
+        },
+        {
+          "book": "Job",
+          "text": "Job's speeches become increasingly raw. He calls for a legal hearing: 'I desire to argue my case with God' (Job 13:3). He says: 'God has put me in the wrong and closed his net about me' (Job 19:6). He wants to speak directly: 'Oh, that I knew where I might find him, that I might come even to his seat!' (Job 23:3). None of this is rebuked. When God speaks from the whirlwind, He does not reprove Job for the content of his complaints; He answers him as one who deserves an answer. At the end, God's verdict is that Job has spoken rightly, while his friends, who said theologically safer things, have not. The honest questioner is treated with dignity."
+        },
+        {
+          "book": "2 Samuel",
+          "text": "The Psalms attributed to David across his life include prayers for the destruction of his enemies (Psalm 59, written when Saul sent men to kill him), laments over abandonment (Psalm 22), and transparent confessions after his worst failures (Psalm 51). God's description of David in 1 Samuel 13:14 and Acts 13:22, 'a man after my own heart', is not a claim that David was morally exemplary. David was a man of blood and failure. What God honoured was the willingness to bring everything before Him: the gratitude, the fury, the self-justification, the shame, and ultimately: 'Create in me a clean heart, O God, and renew a right spirit within me' (Psalm 51:10). That movement from honesty to surrender is the whole pattern."
+        }
       ]
     },
     "not-arbitrary": {
       "title": "God Is Not Arbitrary",
-      "text": "God's commands and warnings make moral sense. They describe reality, cause and effect, safety, and healing rather than disconnected demands or imposed penalties.",
+      "text": [
+        "God's commands make sense. His warnings describe real cause and effect rather than arbitrary penalties imposed from outside. The God of Scripture is not a sovereign who issues demands disconnected from reason; He is a person whose ways, examined closely, hold together as a trustworthy and coherent way of life.",
+        "Proverbs exists in the middle of Scripture specifically to make this point. It sits between the Law and the Prophets as a book of plain common sense, showing that genuine religion shows up in ordinary life: in how you treat your neighbour, how you handle money, what you say about someone behind their back, and how you bring up your children. God does not desire sacrifice and ceremony in the abstract; He wants people who are decent, reliable, and safe to live next to. If religious practice does not produce that kind of person, something has gone wrong.",
+        "Hosea 9:10 names a law that runs through all of Scripture: 'they became as abominable as the thing which they loved.' We become like whatever we worship and admire. Worship a crocodile, a beetle, or a frog, and the mind darkens to that level. God does not have to impose a penalty; the consequence is built into the action. This is why idolatry is so damaging: not because God adds punishment from outside, but because the corruption is inherent in the choice itself.",
+        "Even gossip, which may appear trivial, appears in Romans 1 alongside some of the worst sins described in the Bible. The reason is not prudishness; it is architectural. In the hereafter, memories will be better and sharper than they are now. If a gossip were admitted with perfect recall and a willing audience, there would be no peace for anyone. Sins that destroy trust and safety are not trivial to a God who is building a universe where people must genuinely be safe to live alongside one another.",
+        "God's warnings are invitations, not locked decrees. Joel 2:13: 'Return to the LORD your God, for He is gracious and merciful, slow to anger, and abounding in steadfast love, and relents from sending calamity.' He told Nineveh forty days, and relented when they repented. The warnings describe what is coming; they do not foreclose the possibility of turning around. A God whose warnings describe reality, and who is pleased to relent when people respond, is the opposite of arbitrary."
+      ],
       "examples": [
-        { "book": "Proverbs", "text": "Wisdom shows religion as a sensible, trustworthy way of life." },
-        { "book": "Hosea", "text": "People become like what they worship." },
-        { "book": "Micah", "text": "God wants justice, mercy, and humility rather than empty sacrifice." },
-        { "book": "Leviticus", "text": "Ritual boundaries serve teaching, order, and restored relationship." }
+        {
+          "book": "Proverbs",
+          "text": "Proverbs makes no appeal to divine authority; it argues from experience and consequence. 'The fear of the LORD is the beginning of wisdom' (Proverbs 9:10), but the supporting case is built on observation: the young man who visits the adulteress loses his life like an ox going to slaughter (Proverbs 7:22-23); the diligent hand rules while the slack hand comes to poverty (Proverbs 10:4); the one who despises instruction destroys himself (Proverbs 15:32). Each warning describes what actually happens, not what God decides to impose. The book places common sense and divine instruction side by side because they point to the same reality."
+        },
+        {
+          "book": "Hosea",
+          "text": "'They became as abominable as the thing which they loved' (Hosea 9:10). This observation is stated as a law of the inner life: worship forms the worshipper. Israel became like the Baals they worshipped. God does not have to add punishment to idolatry; the corruption is inherent in the choice. This is what makes idolatry serious in a way that has nothing to do with offending divine dignity: it damages the worshipper's capacity to see and think and love rightly. The warning is not 'I will punish you for this' but 'this is what this does to you.' God's warnings describe what is actually happening, not what He has arbitrarily decided to impose."
+        },
+        {
+          "book": "Joel",
+          "text": "Joel 2:13 restates the ancient description of God's character from Exodus 34: 'Gracious and merciful, slow to anger, and abounding in steadfast love, and relenting from disaster.' The warnings in Joel are not locked sentences handed down from an authority who cannot be moved. They describe what is coming and invite a response that will change the outcome. 'Return to the LORD your God' is the repeated call (Joel 2:12-13). When Nineveh did exactly that under Jonah's preaching, God relented immediately. A God whose warnings are conditional on human response is consistent and trustworthy in a way that a God with fixed, unalterable penalties could never be."
+        },
+        {
+          "book": "Micah",
+          "text": "Micah 6:6-8 is one of the most celebrated passages in the prophets, precisely because it reduces what God requires to something morally intelligible: 'He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?' The preceding verses walk through an imaginary negotiation: shall I bring thousands of rams? Shall I give my firstborn for my transgression? God's answer bypasses the escalating religious logic entirely. What He wants is justice, kindness, and humility. These are not arbitrary ritual demands; they are the shape of a life that is genuinely good to live next to."
+        },
+        {
+          "book": "Leviticus",
+          "text": "The clean and unclean distinctions in Leviticus can look like arbitrary ritual rules until their context is read. They belonged to a comprehensive teaching system designed to make the people of God visibly different in everyday life, and to provide a consistent enacted language about access, holiness, and restoration to relationship with God. The sacrificial system as a whole was not about God needing anything; it was about providing a visible way for people who had broken the relationship to understand, step by step, what restoration involved. The system was temporary and preparatory, but it was not arbitrary. It said something true about sin, cost, and forgiveness."
+        }
       ]
     },
     "delights-in-love": {
       "title": "God Delights in Love",
-      "text": "God is warm and personal. He created human love, uses family and marriage imagery for His own affection, and wants religion to become fearless love rather than cold severity.",
+      "text": [
+        "God is warm and personal. He is not a distant, impersonal deity presiding from some remote point in the universe. He created human love deliberately, called it very good, and placed a whole celebration of it at the centre of Scripture. This says something about the kind of person He is.",
+        "When God planned to create human beings, He could have made them any way at all. He made them male and female, and designed it so that couples would be strongly drawn to one another. The Song of Solomon exists because of this: a king who never chose most of his wives found one person he genuinely loved, and they told each other so. That this celebration of ordinary human love sits in the middle of a Bible full of law, war, and sacrifice means it matters deeply to God. He wants people to feel this way about each other. That is not the instinct of an impersonal deity.",
+        "God uses the warmest human relationships to describe His own love for His people. Through Hosea, Isaiah, Jeremiah, and the apostles, He says in effect: I feel about you the way a husband feels about his wife, the way a father feels about his children. And when even those images fall short, He reaches for something gentler still: 'As a hen gathers her chicks under her wings' (Matthew 23:37). He has tried in many and various ways to represent how warmly He feels, and making human beings capable of love and family was one of those deliberate acts.",
+        "Religion has often made people cold, distant, and severe, treating human love itself as suspect. Both the cheapening of love into careless excess and the condemning of it as sinful are perversions of the same good gift. God placed the Song of Solomon in Scripture as a remedy against both. A God who delights in love is not a God to approach in dread, but One whose character is the very basis on which 1 John 4:18 stands: 'Perfect love casts out fear.'"
+      ],
       "examples": [
-        { "book": "Song of Solomon", "text": "Human love is celebrated as a good gift in the middle of Scripture." },
-        { "book": "Hosea", "text": "God pictures His bond with His people through faithful marital love." },
-        { "book": "Matthew", "text": "Jesus gathers, heals, and serves with the warmth of God's own heart." }
+        {
+          "book": "Song of Solomon",
+          "text": "The Song of Solomon is eight chapters of poetry celebrating human love between a man and a woman: their attraction, their longing, their delight in each other's presence. It is warm and explicit. It belongs in the middle of Scripture, between Ecclesiastes and Isaiah, surrounded by wisdom literature on one side and the great prophets on the other. Its placement is not accidental. God designed human beings to experience this kind of love and included its celebration in Scripture deliberately. A God who puts these feelings into human beings and then celebrates them in writing is not a remote deity indifferent to the ordinary texture of human life."
+        },
+        {
+          "book": "Hosea",
+          "text": "God's choice to tell Hosea's story in terms of a marriage illustrates how God wants to be understood. He could have used legal language, or contractual language, or language of national treaty. Instead He chose the most intimate human relationship available. 'I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy. I will betroth you to me in faithfulness. And you shall know the LORD' (Hosea 2:19-20). The repetition of 'I will betroth you' three times, each adding more attributes of the relationship, is poetry trying to say something too large for a single statement. God feels about His people the way a husband feels about a wife he is genuinely in love with."
+        },
+        {
+          "book": "Ecclesiastes",
+          "text": "Ecclesiastes is often read as a book of world-weary scepticism, but at several points it opens into something warmer. 'Go, eat your bread with joy, and drink your wine with a merry heart, for God has already approved what you do... Enjoy life with the wife whom you love, all the days of your vain life that he has given you under the sun' (Ecclesiastes 9:7-9). The context is the recognition that life is uncertain and short, but the response is not despair; it is the enjoyment of the good things God has given. God's approval is already there. The ordinary pleasures of shared meals, celebration, and loving companionship are gifts from a God who delights in His children enjoying what He has made."
+        },
+        {
+          "book": "Matthew",
+          "text": "Jesus's description of what He wanted to do with Jerusalem captures the warmth of God's feeling with an image from the natural world: 'O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!' (Matthew 23:37). The image is not of a king, or a judge, or even a father. It is a hen, a creature that shelters her vulnerable young not through power but through warmth and closeness. Jesus chose that picture deliberately. The God revealed in Jesus gathers rather than repels, shelters rather than exposes, and grieved not at the thought of judgment but at the thought of those He could not reach."
+        }
       ]
     }
   }

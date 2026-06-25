@@ -130,25 +130,23 @@
       if (!principle) return;
 
       var card = document.createElement('article');
-      card.className = 'principle-card is-current-book';
+      card.className = 'principle-card';
 
       var heading = document.createElement('h3');
-      var link = document.createElement('a');
-      link.href = (rootPrefix || '') + 'principles/index.html#' + contribution.id;
-      link.textContent = principle.title;
-      heading.appendChild(link);
+      var titleLink = document.createElement('a');
+      titleLink.href = (rootPrefix || '') + 'principles/index.html#' + contribution.id;
+      titleLink.textContent = principle.title;
+      heading.appendChild(titleLink);
       card.appendChild(heading);
 
-      card.appendChild(createTextElement('p', '', principle.text));
+      card.appendChild(createTextElement('p', 'principle-contribution', contribution.text));
 
-      if (principle.examples && principle.examples.length) {
-        var examples = principle.examples.map(function (example) {
-          return example.book + ': ' + example.text;
-        }).join(' ');
-        card.appendChild(createTextElement('p', 'principle-crossrefs', 'Across Scripture: ' + examples));
-      }
+      var readMore = document.createElement('a');
+      readMore.href = (rootPrefix || '') + 'principles/index.html#' + contribution.id;
+      readMore.className = 'principle-read-more';
+      readMore.textContent = 'See all examples across Scripture →';
+      card.appendChild(readMore);
 
-      card.appendChild(createTextElement('p', 'principle-current', 'This book contributes: ' + contribution.text));
       target.appendChild(card);
     });
   }
@@ -170,7 +168,13 @@
       function addBlock(label, text) {
         if (!text) return;
         card.appendChild(createTextElement('p', 'context-label', label));
-        card.appendChild(createTextElement('p', 'context-text', text));
+        if (Array.isArray(text)) {
+          text.forEach(function (para) {
+            card.appendChild(createTextElement('p', 'context-text', para));
+          });
+        } else {
+          card.appendChild(createTextElement('p', 'context-text', text));
+        }
       }
 
       addBlock('The surface problem', item.problem);
@@ -273,7 +277,7 @@
 
   function renderPrinciplesList(target, principles, books, focusSlug, rootPrefix) {
     target.replaceChildren();
-    Object.keys(principles).forEach(function (id) {
+    Object.keys(principles).forEach(function (id, index) {
       var principle = principles[id];
 
       var entry = document.createElement('details');
@@ -282,12 +286,19 @@
 
       var summary = document.createElement('summary');
       summary.className = 'principle-entry-summary';
+      summary.appendChild(createTextElement('span', 'principle-entry-number', (index + 1) + '.'));
       summary.appendChild(createTextElement('span', 'principle-entry-title', principle.title));
       entry.appendChild(summary);
 
       var body = document.createElement('div');
       body.className = 'principle-entry-body';
-      body.appendChild(createTextElement('p', 'principle-entry-text', principle.text));
+      if (Array.isArray(principle.text)) {
+        principle.text.forEach(function (para) {
+          body.appendChild(createTextElement('p', 'principle-entry-text', para));
+        });
+      } else {
+        body.appendChild(createTextElement('p', 'principle-entry-text', principle.text));
+      }
 
       var appliesToFocus = false;
 
@@ -314,7 +325,7 @@
             item.appendChild(createTextElement('span', 'principle-example-book', example.book));
           }
 
-          item.appendChild(createTextElement('span', 'principle-example-text', example.text));
+          item.appendChild(createTextElement('p', 'principle-example-text', example.text));
 
           if (focusSlug && slug === focusSlug) {
             item.classList.add('is-focus-book');

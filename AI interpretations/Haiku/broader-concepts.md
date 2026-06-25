@@ -18,20 +18,6 @@ All three are called God's friends. God did not punish them for questioning; He 
 
 ---
 
-## 2. God's Actions Must Be Understood in Context
-
-Several Genesis stories appear harsh and seem to contradict Jesus' gracious nature. These require understanding the **context** in which God acted.
-
-**Stories to understand:**
-- The prohibition: Adam and Eve cast out of Eden on their first offense (Genesis 2-3). Why expelled immediately? Why not given a second chance?
-- The Flood: God drowned women, children, babies, and pets (Genesis 6-7). Why destroy the innocent with the guilty?
-- Sodom and Gomorrah: Burning of human beings (Genesis 19). Why such destruction?
-- Lot's wife: Turned to salt for looking back (Genesis 19:26). Why such severe punishment for a glance?
-
-These actions appear arbitrary and severe when read in isolation. But they need the larger context of the conflict, the circumstances they address, and what they reveal about why God acted. Without that context, God seems like the kind of person Satan accused Him of being.
-
----
-
 ## 3. God Meets Us Where We Are
 
 God's preference is to speak directly to people as friends, with no intermediary. But if people are hard of hearing or terrified, He adapts His method so they can still reach Him and understand. He doesn't shame people for their limitations; He works with them where they actually are.
