@@ -2,104 +2,173 @@
   "books": {
     "genesis": {
       "title": "Genesis",
-      "subtitle": "Creation, rupture, promise, and the beginning of God's long work of restoration.",
+      "subtitle": "A chapter-referenced overview of creation, the fall, the flood, the patriarchs, and Israel's family origins.",
       "summary": [
-        "Genesis opens with God creating a good world and entrusting human beings with meaningful freedom. The book quickly turns to rupture: distrust enters the human family, violence spreads, and the created order is bent away from its purpose.",
-        "Even so, Genesis is not chiefly a record of collapse. It follows God patiently pursuing people through judgment, promise, covenant, and family history. Abraham, Isaac, Jacob, and Joseph become witnesses to a God who keeps working through damaged people without surrendering His original intention."
+        "Genesis 1-2 recounts the creation of the heavens and the earth, moving from an unformed and empty world to ordered days, living creatures, human beings made in God's image, and the Sabbath rest. The account ends with Adam and Eve in the garden, entrusted with work, companionship, food, and one boundary concerning the tree of the knowledge of good and evil.",
+        "Genesis 3-5 describes the entrance of distrust and death into the human story. The serpent challenges God's word, Adam and Eve eat from the forbidden tree, God questions them, announces consequences, clothes them, and sends them from Eden. The story then follows Cain and Abel, Cain's violence, the growth of early human culture, and the genealogy from Adam to Noah.",
+        "Genesis 6-9 tells the flood story. Human violence and corruption fill the earth, Noah is introduced as a righteous man in his generation, and God instructs him to build the ark. The flood comes, Noah's family and the animals are preserved, the waters recede, Noah offers sacrifice, and God gives the rainbow as the sign of His covenant that the earth will not again be destroyed by flood.",
+        "Genesis 10-11 traces the nations after the flood and then focuses on Babel. The people gather in one place, build a city and tower to make a name for themselves, and God confuses their language so they scatter over the earth. The genealogy then narrows from Shem to Terah and introduces Abram, Sarai, and their move toward Canaan.",
+        "Genesis 12-25 follows Abraham and Sarah. God calls Abram to leave his country, promises land, descendants, and blessing for all families of the earth, and brings him through famine, conflict, covenant ceremonies, family tension with Hagar and Ishmael, the promise and birth of Isaac, the destruction of Sodom, the test on Mount Moriah, Sarah's death, Isaac's marriage, and Abraham's death.",
+        "Genesis 25-36 follows Isaac, Rebekah, Jacob, Esau, Leah, Rachel, and their children. It includes the birth of Jacob and Esau, the sale of the birthright, Jacob's deception of Isaac, Jacob's dream at Bethel, his years with Laban, the births of the sons who become Israel's tribes, Jacob's return to Canaan, his wrestling at the Jabbok, reconciliation with Esau, and the deaths of Rachel and Isaac.",
+        "Genesis 37-50 centers on Joseph and the movement of Jacob's family into Egypt. Joseph is sold by his brothers, taken to Egypt, imprisoned, and later raised to authority after interpreting Pharaoh's dreams. Famine brings his brothers to Egypt, Joseph tests and then reveals himself to them, Jacob's family settles in Goshen, Jacob blesses his sons, and the book ends with Jacob buried in Canaan and Joseph dead in Egypt, awaiting a future return."
       ],
       "evidence": [
-        { "kind": "Action by God", "point": "God seeks Adam and Eve after their failure instead of abandoning them to hiding." },
-        { "kind": "Word from God", "point": "God promises that evil will not have the final word, even while naming the real consequences of distrust." },
-        { "kind": "Human response", "point": "Abraham argues for justice over Sodom, showing that God allows moral questions from His friends." },
-        { "kind": "Providence", "point": "Joseph's story shows God working through human betrayal without becoming the author of the betrayal." }
+        { "kind": "Genesis 1:1-31", "point": "God creates by speaking, repeatedly sees that creation is good, and gives human beings the image-of-God vocation to fill and rule the earth." },
+        { "kind": "Genesis 2:1-25", "point": "God rests on the seventh day, places the man in the garden to work and keep it, gives the tree command, and forms the woman as a corresponding partner." },
+        { "kind": "Genesis 3:1-24", "point": "The serpent disputes God's warning, the humans eat, God questions them, gives consequences, promises conflict with the serpent, clothes them, and bars access to the tree of life." },
+        { "kind": "Genesis 4:1-16", "point": "God warns Cain before the murder of Abel, questions him afterward, and marks him so he will not be killed in return." },
+        { "kind": "Genesis 6:5-22", "point": "God sees the spread of human evil and violence, grieves over the condition of the world, and gives Noah detailed instructions for preserving life in the ark." },
+        { "kind": "Genesis 8:20-9:17", "point": "After the flood, God blesses Noah's family, gives commands for life after the flood, and establishes the rainbow covenant with Noah, his descendants, and every living creature." },
+        { "kind": "Genesis 11:1-9", "point": "At Babel, people gather to build a city and tower for their own name; God confuses their language and scatters them across the earth." },
+        { "kind": "Genesis 12:1-9", "point": "God calls Abram, promising land, descendants, a great name, and blessing that will extend to all families of the earth." },
+        { "kind": "Genesis 18:16-33", "point": "God speaks with Abraham about Sodom, and Abraham repeatedly asks whether the Judge of all the earth will do what is right." },
+        { "kind": "Genesis 22:1-19", "point": "Abraham is told to offer Isaac, but the story ends with God stopping the act and providing a ram in Isaac's place." },
+        { "kind": "Genesis 28:10-22", "point": "Jacob dreams at Bethel, hears the covenant promise repeated, and is assured that God will be with him on his journey." },
+        { "kind": "Genesis 32:22-32", "point": "Jacob wrestles through the night, receives a new name, and identifies the event as seeing God face to face and living." },
+        { "kind": "Genesis 45:1-15; 50:15-21", "point": "Joseph forgives his brothers, distinguishes their harmful intent from God's preserving outcome, and promises to provide for their families." }
       ],
       "lessons": [
-        { "title": "God begins with blessing", "text": "Before command, failure, or judgment, Genesis presents God as generous Creator. The first word about Him is abundance, not suspicion." },
-        { "title": "God pursues without coercing", "text": "He asks questions, makes promises, gives warnings, and keeps relationships open. He does not erase freedom in order to get quick compliance." },
-        { "title": "God can work through fractured families", "text": "Genesis refuses to pretend its heroes are clean. The point is not their moral polish, but God's faithfulness amid complicated human stories." }
+        { "title": "God begins with generosity", "text": "The first sustained portrait of God is not a ruler demanding tribute, but a Creator making a habitable, beautiful world and calling it good. Genesis begins the Bible with gift." },
+        { "title": "God's government requires freedom", "text": "The possibility of distrust is not an accident in the story. God values freedom enough to permit a real alternative, while also limiting the danger and warning His children where it lies." },
+        { "title": "The tree was protection, not a trap", "text": "The forbidden tree is often read as an arbitrary obedience test. In context, it is more like a guarded meeting place: the adversary may approach, but not everywhere and not without warning." },
+        { "title": "Sin is damage that needs healing", "text": "Adam and Eve are not merely in legal trouble after the fall. They are changed. Genesis points beyond pardon to the deeper need for restored trust, renewed hearts, and a healed relationship with God." },
+        { "title": "Difficult judgments need their full setting", "text": "The Flood and Sodom cannot be explained well by saying only that people were wicked. Genesis asks what was at stake for the future of humanity, the promised rescue, and the possibility of continued communication with God." },
+        { "title": "God welcomes moral conversation", "text": "Abraham's appeal over Sodom is one of Genesis' clearest windows into friendship with God. God does not ask His friends to silence their conscience; He lets them reason with Him about justice." },
+        { "title": "God works through imperfect families", "text": "Genesis does not hide deceit, rivalry, fear, favoritism, or betrayal. Its point is not that the chosen family is naturally admirable, but that God is faithful and patient within an unpolished human story." },
+        { "title": "God preserves without endorsing the evil He overrules", "text": "Joseph can say God meant a saving outcome without calling his brothers' betrayal good. Genesis introduces a careful distinction between what God permits, what people intend, and what God can redeem." }
       ],
       "principles": [
-        { "title": "God restores by truth and trust", "text": "Genesis introduces the pattern: God answers distrust by revealing Himself over time. The same principle grows through Exodus, Hosea, and the Gospels, where God keeps moving toward people with evidence rather than force.", "highlightsCurrentBook": true },
-        { "title": "Judgment serves mercy", "text": "Flood, Babel, and Sodom are severe scenes, but each is framed by restraint, warning, and preservation. Later prophets carry this same pattern when judgment interrupts destruction so restoration remains possible.", "highlightsCurrentBook": true }
+        { "id": "reverential-questioning", "text": "Abraham's appeal over Sodom shows that God does not shut down moral questioning from a trusted friend; He allows His justice to be examined in conversation." },
+        { "id": "actions-in-context", "text": "Eden, the Flood, Babel, Sodom, Lot's wife, and Isaac on Moriah all become dangerous if treated as isolated proof-texts for severity. Genesis requires the larger setting of freedom, accusation, preservation, and promised rescue." },
+        { "id": "meets-us-where-we-are", "text": "God begins with direct garden fellowship, but after distrust enters He adapts: clothing, guarded access, covenant signs, family promises, and concrete demonstrations for people who can no longer bear the full brightness of His presence." },
+        { "id": "freedom", "text": "The tree, the serpent's limited access, and the tragic freedom of Cain, Babel, Abraham, Jacob, and Joseph's brothers show that God does not run the world by preventing every misuse of choice." },
+        { "id": "extreme-lengths", "text": "From Eden's delayed death to Noah's long warning and the preserved covenant family, Genesis shows God intervening to keep the possibility of healing open before final consequences run their course." },
+        { "id": "demonstration-and-evidence", "text": "Genesis opens the pattern of God answering accusations through visible history: creation, freedom, consequence, promise, and providence become evidence rather than mere claims." },
+        { "id": "not-arbitrary", "text": "The Sabbath, the tree, expulsion from Eden, and the preservation of one covenant line all make sense inside the story's moral logic; they are not disconnected tests of submission." }
+      ]
+    }
+  },
+  "principles": {
+    "reverential-questioning": {
+      "title": "God Invites Reverential Questioning, Not Blind Obedience",
+      "text": "God values friends who ask why, seek understanding, and discern truth. He is not threatened by honest questions when they are rooted in trust and a desire to know Him rightly.",
+      "examples": [
+        { "book": "Genesis", "text": "Abraham questions the justice of destroying Sodom." },
+        { "book": "Exodus", "text": "Moses reasons with God after Israel's rebellion." },
+        { "book": "Job", "text": "Job's honest wrestling is vindicated over his friends' polished explanations." },
+        { "book": "Deuteronomy", "text": "Truth about God matters more than impressive signs." }
       ]
     },
-    "exodus": {
-      "title": "Exodus",
-      "subtitle": "Deliverance from bondage and the formation of a people learning to trust.",
-      "summary": [
-        "Exodus tells the story of Israel's rescue from slavery, but it is also a public contest over what kind of ruler God is. Pharaoh rules by domination, forced labor, and fear. God answers by hearing the oppressed, confronting the empire, and leading former slaves toward covenant life.",
-        "The book then follows Israel into the wilderness, where freedom proves harder than escape. God feeds, guides, instructs, and remains present with a people who repeatedly misread Him."
-      ],
-      "evidence": [
-        { "kind": "Action by God", "point": "God hears the cries of the enslaved and acts before Israel has become faithful or strong." },
-        { "kind": "Word from God", "point": "God identifies Himself as the One who brings people out of bondage, making liberation central to His self-revelation." },
-        { "kind": "Action by God", "point": "He provides manna before Israel has learned steady trust, meeting need while teaching dependence." },
-        { "kind": "Mediation", "point": "God listens to Moses after the golden calf, showing that intercession is welcomed rather than treated as rebellion." }
-      ],
-      "lessons": [
-        { "title": "God opposes systems that crush people", "text": "Exodus reveals divine power as liberation, not domination. God's strength is directed against bondage and toward restored human dignity." },
-        { "title": "God teaches freed people how to live free", "text": "The wilderness commands are not random restrictions. They train a traumatized people to become a trustworthy community." },
-        { "title": "God wants presence, not distance", "text": "The tabernacle places God's presence in the middle of the camp. His goal is not merely rescue from Egypt, but life with His people." }
-      ],
-      "principles": [
-        { "title": "Power is safest in self-giving hands", "text": "Exodus contrasts Pharaoh's power with God's. The same contrast continues in Daniel, Matthew, and Revelation, where God's kingdom is shown by rescue, service, and truth rather than coercion.", "highlightsCurrentBook": true },
-        { "title": "God meets fear with patient evidence", "text": "Israel keeps fearing abandonment, and God keeps answering with provision. This pattern echoes in Numbers, Psalms, and the ministry of Jesus.", "highlightsCurrentBook": true }
+    "actions-in-context": {
+      "title": "God's Actions Must Be Understood in Context",
+      "text": "Severe or difficult stories can misrepresent God when isolated from the larger conflict, the circumstances addressed, and the purpose behind His action.",
+      "examples": [
+        { "book": "Genesis", "text": "Eden, the Flood, Sodom, and Lot's wife require the wider context of sin's ruin and God's preservation of hope." },
+        { "book": "Habakkuk", "text": "Judgment scenes must be read through God's reluctance and His withdrawal of protection." }
       ]
     },
-    "leviticus": {
-      "title": "Leviticus",
-      "subtitle": "Ritual, holiness, and God's patient teaching through visible forms.",
-      "summary": [
-        "Leviticus can appear distant because it is full of sacrifices, priestly instructions, purity laws, and ceremonial detail. Read inside the larger story, those details become a teaching system for a people still learning what life with God means.",
-        "The book presents holiness not as cold separation, but as ordered life near a God who wants His people healed, truthful, and morally awake. Its rituals are not the destination; they are concrete lessons meant to lead toward trust."
-      ],
-      "evidence": [
-        { "kind": "Action by God", "point": "God provides structured worship for people who need visible help understanding sin, restoration, and nearness." },
-        { "kind": "Word from God", "point": "The repeated call to holiness is tied to God's own character: Israel is to live differently because God is different." },
-        { "kind": "Instruction", "point": "Laws about the poor, the foreigner, and fair dealing show that holiness includes social integrity." },
-        { "kind": "Warning", "point": "Priestly carelessness is treated seriously because worship can either clarify or distort the picture of God." }
-      ],
-      "lessons": [
-        { "title": "God teaches at the level people can receive", "text": "Leviticus uses tangible practices to communicate realities Israel was not ready to grasp in abstraction." },
-        { "title": "God does not need appeasement", "text": "Sacrifice is a teaching sign, not a way to make God less loving. The system points to healing, confession, and restored trust." },
-        { "title": "Holiness protects relationship", "text": "The boundaries in Leviticus are ordered toward life with God and neighbor, not arbitrary religious performance." }
-      ],
-      "principles": [
-        { "title": "Symbols serve relationship", "text": "Leviticus highlights a principle that later appears in Hebrews and the Gospels: forms are valuable when they lead people to the reality of God's character, and dangerous when they replace it.", "highlightsCurrentBook": true },
-        { "title": "God's ideal is intelligent trust", "text": "The rituals teach, but they are not God's final goal. Across Scripture, God keeps moving people from external forms toward mature understanding and willing love.", "highlightsCurrentBook": true }
+    "meets-us-where-we-are": {
+      "title": "God Meets Us Where We Are",
+      "text": "God's ideal is direct friendship, but He adapts His methods to human fear, immaturity, culture, and limited capacity so contact and learning can continue.",
+      "examples": [
+        { "book": "Exodus", "text": "Sinai's thunder speaks to former slaves who would not yet hear gentler speech." },
+        { "book": "Leviticus", "text": "The sanctuary gives concrete symbols to people not ready for plain speech." },
+        { "book": "Numbers", "text": "Balaam receives repeated warnings rather than instant abandonment." },
+        { "book": "Mark", "text": "Jesus uses tangible methods with people who need something to hold onto." }
       ]
     },
-    "numbers": {
-      "title": "Numbers",
-      "subtitle": "Wilderness testing and the long patience of God.",
-      "summary": ["Numbers follows Israel through delay, complaint, fear, rebellion, and renewed mercy. The journey exposes how difficult freedom becomes when former slaves still imagine God through fear.", "The book is factual and sobering: distrust has consequences. Yet God continues guiding, feeding, correcting, and preserving the people even when they resist the very future He is giving them."],
-      "evidence": [{ "kind": "Action by God", "point": "God continues providing guidance and food in the wilderness despite repeated complaint." }, { "kind": "Human response", "point": "The spies' report shows how fear can reinterpret God's promise as danger." }, { "kind": "Word from God", "point": "God refuses to ignore rebellion, but He also refuses to abandon the covenant future." }],
-      "lessons": [{ "title": "God is patient with slow learners", "text": "Numbers shows patience without sentimentality. God keeps teaching, but distrust still damages the journey." }, { "title": "Fear can falsify reality", "text": "Israel sees giants more clearly than God's faithfulness. The book warns that fear can become an interpretive system." }],
-      "principles": [{ "title": "Trust must be learned in the wilderness", "text": "Numbers joins Exodus, Deuteronomy, Psalms, and Matthew in showing that testing reveals whether people know God's character or merely want His gifts.", "highlightsCurrentBook": true }]
+    "truthful-representation": {
+      "title": "God Values Trust and Truthful Representation",
+      "text": "Because trust is central to relationship with God, misrepresenting His character is especially serious, particularly for people who know Him well.",
+      "examples": [
+        { "book": "Numbers", "text": "Moses striking the rock makes God look angry when He is giving water generously." },
+        { "book": "Ezekiel", "text": "God acts for His name's sake so His character is seen truthfully." }
+      ]
     },
-    "deuteronomy": {
-      "title": "Deuteronomy",
-      "subtitle": "Remembering the journey before entering the land.",
-      "summary": ["Deuteronomy is Moses' covenant review for a new generation. It retells the story so Israel can enter the land with memory, humility, and moral clarity.", "The book insists that obedience is not bare rule-keeping. Israel is called to love God, remember His rescue, and build a society where power is restrained by covenant faithfulness."],
-      "evidence": [{ "kind": "Word from God", "point": "Israel is commanded to love God with heart, soul, and strength, placing love at the center of covenant life." }, { "kind": "Memory", "point": "Moses repeatedly tells Israel to remember slavery, rescue, and wilderness provision." }, { "kind": "Instruction", "point": "Commands about justice, debt, kings, and the vulnerable show God's concern for public life." }],
-      "lessons": [{ "title": "God wants remembered trust", "text": "Forgetfulness is spiritually dangerous because it makes present obedience feel detached from past mercy." }, { "title": "Love is the center of law", "text": "Deuteronomy frames commands as the shape of faithful love, not a substitute for it." }],
-      "principles": [{ "title": "God forms communities, not just private believers", "text": "Deuteronomy links worship with economics, justice, leadership, and neighbor care. The prophets and Jesus carry the same integrated vision forward.", "highlightsCurrentBook": true }]
+    "freedom": {
+      "title": "God Values Freedom",
+      "text": "God will not force love, trust, or loyalty. He protects freedom even when His gifts can be misused and even when people choose against Him.",
+      "examples": [
+        { "book": "Judges", "text": "Samson remains free to misuse a real gift." },
+        { "book": "1 Kings", "text": "Solomon is not micromanaged out of abusing wisdom and power." },
+        { "book": "Hosea", "text": "Love cannot be won by threat; kindness leads to repentance." },
+        { "book": "Zechariah", "text": "God wins not by might or power, but by His Spirit." }
+      ]
     },
-    "matthew": {
-      "title": "Matthew",
-      "subtitle": "The King who reveals God's kingdom by mercy, truth, and self-giving authority.",
-      "summary": ["Matthew presents Jesus as Israel's Messiah and the true interpreter of God's kingdom. His authority is real, but it appears through healing, teaching, forgiveness, and costly faithfulness.", "The Gospel repeatedly contrasts religious performance with the deeper matters of mercy, justice, and trust. In Jesus, God's character becomes visible in human life."],
-      "evidence": [{ "kind": "Action by Jesus", "point": "Jesus heals outsiders, sinners, and the unclean, showing that holiness moves toward restoration." }, { "kind": "Word from Jesus", "point": "He names mercy, justice, and faithfulness as weightier matters than religious display." }, { "kind": "Passion", "point": "Jesus refuses coercive rescue and reveals kingship through self-giving love." }],
-      "lessons": [{ "title": "God's authority is gentle without being weak", "text": "Matthew's Jesus commands, corrects, and judges, but His authority is never selfish or theatrical." }, { "title": "Mercy reveals the law's intent", "text": "Jesus does not lower the moral vision. He restores it to its center in love of God and neighbor." }],
-      "principles": [{ "title": "God is exactly like Jesus", "text": "Matthew strengthens the whole biblical witness by making God's character visible in a human life. Themes from Torah and the prophets converge in Christ.", "highlightsCurrentBook": true }]
+    "gracious-to-enemies": {
+      "title": "God Is Gracious to His Enemies",
+      "text": "God keeps working with estranged, opposing, and failing people. His vengeance aims to recover rather than to gloat or retaliate.",
+      "examples": [
+        { "book": "Psalms", "text": "God's vengeance is portrayed as discipline that may win an enemy back." },
+        { "book": "Hosea", "text": "God still loves those He can no longer reach." },
+        { "book": "Jonah", "text": "God cares for Nineveh, Israel's enemy city." }
+      ]
     },
-    "mark": {
-      "title": "Mark",
-      "subtitle": "The suffering Son of God moving with urgent mercy.",
-      "summary": ["Mark is fast, direct, and focused on action. Jesus announces God's kingdom, confronts evil, heals the broken, and steadily moves toward the cross.", "The book presses readers to rethink power. The Son of God is not recognized most clearly through spectacle, but through suffering service and faithful love."],
-      "evidence": [{ "kind": "Action by Jesus", "point": "Jesus repeatedly touches and restores people others avoid." }, { "kind": "Word from Jesus", "point": "He teaches that greatness is service, not status." }, { "kind": "Cross", "point": "The confession at the cross identifies God's Son in the moment of apparent defeat." }],
-      "lessons": [{ "title": "God's mercy is active", "text": "Mark shows compassion on the move. Jesus does not merely explain God's character; He enacts it." }, { "title": "God redefines greatness", "text": "True authority descends to serve. This is not a side theme; it is central to the Gospel's portrait of God." }],
-      "principles": [{ "title": "The clearest power is self-giving love", "text": "Mark joins Isaiah, Matthew, John, and Philippians in presenting God's victory through humble, costly faithfulness.", "highlightsCurrentBook": true }]
+    "gentle-with-failing-children": {
+      "title": "God Is Gentle With His Failing Children",
+      "text": "God looks for what He can commend, restores dignity, and treats weak or imperfect faith with generosity rather than contempt.",
+      "examples": [
+        { "book": "Joshua", "text": "Rahab's small and mixed faith is honored." },
+        { "book": "Judges", "text": "Gideon's requests for signs are met without scolding." },
+        { "book": "Hosea", "text": "God's discipline is pictured as a parent teaching a child to walk." },
+        { "book": "Mark", "text": "Jesus restores people who are confused, afraid, or unclean." }
+      ]
+    },
+    "lets-go": {
+      "title": "God Ultimately Lets Go Those Who Reject His Love",
+      "text": "God's wrath is His sorrowful release of people who insist on leaving the only source of life. He lets go only when love will not be received.",
+      "examples": [
+        { "book": "1 Samuel", "text": "Saul reaches settled refusal after long patience." },
+        { "book": "Hosea", "text": "Ephraim is joined to idols, so God says to let him alone while grieving the loss." },
+        { "book": "Ezekiel", "text": "God pleads, 'Why will you die?' before release." },
+        { "book": "Matthew", "text": "Peter and Judas encounter the same gracious face with opposite responses." }
+      ]
+    },
+    "extreme-lengths": {
+      "title": "God Goes to Extreme Lengths Before Letting Anyone Go",
+      "text": "Before release comes persistent reaching, warning, delay, discipline, and invitation. God asks little in return: a willingness to listen and come home.",
+      "examples": [
+        { "book": "2 Chronicles", "text": "God sends messengers persistently until there is no remedy." },
+        { "book": "Hosea", "text": "Hosea buys Gomer back and waits rather than dragging her home." },
+        { "book": "Jonah", "text": "Nineveh's warning is conditional, and God is pleased to relent." }
+      ]
+    },
+    "demonstration-and-evidence": {
+      "title": "God Wins Trust by Demonstration and Evidence",
+      "text": "God does not rely on assertion or authority to demand trust. He opens His government to examination and lets truth be shown in history, judgment, and the cross.",
+      "examples": [
+        { "book": "Job", "text": "Accusations are answered by open demonstration rather than silencing." },
+        { "book": "Daniel", "text": "The heavenly court opens the books before the watching universe." },
+        { "book": "Zechariah", "text": "Satan accuses and God answers with evidence of transformation." },
+        { "book": "Matthew", "text": "Jesus reveals God's character in human life and death." }
+      ]
+    },
+    "honest-expression": {
+      "title": "God Invites Honest and Open Expression",
+      "text": "God wants real communication, not performance. He preserves raw prayers and welcomes the truth about what is inside us so healing can begin there.",
+      "examples": [
+        { "book": "Psalms", "text": "The Psalms preserve grief, anger, abandonment, repentance, and surrender as prayer." },
+        { "book": "Job", "text": "Job refuses artificial piety and speaks honestly before God." }
+      ]
+    },
+    "not-arbitrary": {
+      "title": "God Is Not Arbitrary",
+      "text": "God's commands and warnings make moral sense. They describe reality, cause and effect, safety, and healing rather than disconnected demands or imposed penalties.",
+      "examples": [
+        { "book": "Proverbs", "text": "Wisdom shows religion as a sensible, trustworthy way of life." },
+        { "book": "Hosea", "text": "People become like what they worship." },
+        { "book": "Micah", "text": "God wants justice, mercy, and humility rather than empty sacrifice." },
+        { "book": "Leviticus", "text": "Ritual boundaries serve teaching, order, and restored relationship." }
+      ]
+    },
+    "delights-in-love": {
+      "title": "God Delights in Love",
+      "text": "God is warm and personal. He created human love, uses family and marriage imagery for His own affection, and wants religion to become fearless love rather than cold severity.",
+      "examples": [
+        { "book": "Song of Solomon", "text": "Human love is celebrated as a good gift in the middle of Scripture." },
+        { "book": "Hosea", "text": "God pictures His bond with His people through faithful marital love." },
+        { "book": "Matthew", "text": "Jesus gathers, heals, and serves with the warmth of God's own heart." }
+      ]
     }
   }
 }

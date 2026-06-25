@@ -71,6 +71,29 @@
     });
   }
 
+  function renderPrincipleCards(target, principlesById, contributions) {
+    target.replaceChildren();
+    contributions.forEach(function (contribution) {
+      var principle = principlesById && principlesById[contribution.id];
+      if (!principle) return;
+
+      var card = document.createElement('article');
+      card.className = 'principle-card is-current-book';
+      card.appendChild(createTextElement('h3', '', principle.title));
+      card.appendChild(createTextElement('p', '', principle.text));
+
+      if (principle.examples && principle.examples.length) {
+        var examples = principle.examples.map(function (example) {
+          return example.book + ': ' + example.text;
+        }).join(' ');
+        card.appendChild(createTextElement('p', 'principle-crossrefs', 'Across Scripture: ' + examples));
+      }
+
+      card.appendChild(createTextElement('p', 'principle-current', 'This book contributes: ' + contribution.text));
+      target.appendChild(card);
+    });
+  }
+
   function setActiveBookTab(tabName) {
     document.querySelectorAll('[data-book-tab]').forEach(function (tab) {
       var isActive = tab.getAttribute('data-book-tab') === tabName;
@@ -127,7 +150,7 @@
         renderParagraphs(document.querySelector('[data-book-summary]'), book.summary || []);
         renderCards(document.querySelector('[data-book-evidence]'), book.evidence || [], { cardClass: 'evidence-card' });
         renderCards(document.querySelector('[data-book-lessons]'), book.lessons || [], { cardClass: 'lesson-card' });
-        renderCards(document.querySelector('[data-book-principles]'), book.principles || [], { cardClass: 'principle-card' });
+        renderPrincipleCards(document.querySelector('[data-book-principles]'), data.principles || {}, book.principles || []);
       })
       .catch(function () {
         renderMissingBook(bookSlug);

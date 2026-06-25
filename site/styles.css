@@ -516,6 +516,18 @@ blockquote {
   border-left: 3px solid var(--accent);
 }
 
+.principle-crossrefs,
+.principle-current {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-top: 0.85rem;
+}
+
+.principle-current {
+  color: var(--text);
+}
+
 /* --- Essays page ------------------------------------------- */
 .essays-list {
   padding: 3rem 0;
