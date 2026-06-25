@@ -13,27 +13,7 @@
 </head>
 <body>
 
-  <header class="site-header">
-    <div class="container">
-      <a href="../index.html" class="site-logo">Veritas</a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="../study/index.html">Study</a>
-        <a href="../essays/index.html">Essays</a>
-        <a href="../books/index.html">Books</a>
-        <a href="../videos/index.html">Videos</a>
-        <a href="../events/index.html">Events</a>
-        <a href="../about.html">About</a>
-        <span class="nav-spacer"></span>
-      </nav>
-      <button class="theme-toggle" aria-label="Switch to dark mode">
-        <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="display:none"><path d="M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0 2a1 1 0 0 1 1 1v1a1 1 0 0 1-2 0v-1a1 1 0 0 1 1-1zm0-16a1 1 0 0 1 1 1v1a1 1 0 0 1-2 0V4a1 1 0 0 1 1-1zm9 8a1 1 0 0 1-1 1h-1a1 1 0 0 1 0-2h1a1 1 0 0 1 1 1zM4 12a1 1 0 0 1-1 1H2a1 1 0 0 1 0-2h1a1 1 0 0 1 1 1zm14.95 5.364a1 1 0 0 1-1.414 1.414l-.707-.707a1 1 0 1 1 1.414-1.414l.707.707zM6.757 7.05A1 1 0 0 1 5.343 5.636l.707-.707A1 1 0 1 1 7.464 6.34l-.707.707zm11.193 0-.707-.707a1 1 0 1 1 1.414-1.414l.707.707A1 1 0 0 1 17.95 7.05zM5.343 18.364 6.05 17.657a1 1 0 1 1 1.414 1.414l-.707.707a1 1 0 0 1-1.414-1.414z"/></svg>
-        <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.389 5.389 0 0 1-4.4 2.26 5.403 5.403 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
-      </button>
-      <button class="nav-hamburger" aria-label="Open menu" aria-expanded="false">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-      </button>
-    </div>
-  </header>
+  <div data-site-header></div>
 
   <main>
     <div class="article-wrap">
@@ -45,15 +25,22 @@
           <p class="article-byline">An essay on Leviticus, the sanctuary, and the meaning of sacrifice</p>
         </div>
 
-        <div class="article-body">
+        <div class="article-tabs" role="tablist" aria-label="Choose reading level">
+          <button id="essay-tab-normal" class="article-tab is-active" type="button" role="tab" aria-selected="true" aria-controls="essay-panel-normal" data-article-tab="normal">Normal</button>
+          <button id="essay-tab-advanced" class="article-tab" type="button" role="tab" aria-selected="false" aria-controls="essay-panel-advanced" data-article-tab="advanced">Advanced</button>
+          <button id="essay-tab-beginner" class="article-tab" type="button" role="tab" aria-selected="false" aria-controls="essay-panel-beginner" data-article-tab="beginner">Beginner</button>
+        </div>
+
+        <div id="essay-panel-normal" class="article-body article-panel is-active" role="tabpanel" aria-labelledby="essay-tab-normal" data-article-panel="normal">
+          <p class="article-reading-note">The standard version: reflective, direct, and written for a general reader.</p>
 
           <p>There is a way of reading the Bible that turns God into someone you would not want to know.</p>
 
-          <p>It usually starts with the sacrificial system. A modern reader opens Leviticus, finds page after page of bulls and goats and lambs slaughtered at the altar, blood splashed on horns and curtains and ears, fat burned, kidneys consumed — and quietly concludes that whatever else this God is, He must want death. He must need it. Why else demand so much of it?</p>
+          <p>It usually starts with the sacrificial system. A modern reader opens Leviticus, finds page after page of bulls and goats and lambs slaughtered at the altar, blood splashed on horns and curtains and ears, fat burned, kidneys consumed, and quietly concludes that whatever else this God is, He must want death. He must need it. Why else demand so much of it?</p>
 
           <p>The picture that forms is hard to shake. A deity who cannot be approached without blood. Who counts His pardons in carcasses. Who installed a slaughterhouse at the centre of His people's worship and called it holy. By the time such a reader arrives at the cross, the framework is already set: God required a death, and finally He took one big enough to settle the account. Jesus was the last sacrifice because He was the biggest. The system was literal all along; He was just the climax of it.</p>
 
-          <p>It is a tidy reading. It is also, I think, almost completely wrong — and it makes God look exactly like the gods of every surrounding nation Israel was supposed to be different from.</p>
+          <p>It is a tidy reading. It is also, I think, almost completely wrong, and it makes God look exactly like the gods of every surrounding nation Israel was supposed to be different from.</p>
 
           <p>To see why, we have to start somewhere unexpected: with what God actually said He wanted.</p>
 
@@ -65,7 +52,7 @@
             <p>"For in the day that I brought them out of the land of Egypt, I did not speak to your fathers or command them concerning burnt offerings and sacrifices. But this command I gave them: 'Obey my voice, and I will be your God, and you shall be my people, and walk in all the way that I command you, that it may be well with you.'" (Jer 7:22-23)</p>
           </blockquote>
 
-          <p>Notice what He says He never asked for. Burnt offerings. Sacrifices. The very heart of the Levitical system. He is saying — under inspiration, in His own voice — that when He brought Israel out of Egypt, sacrifice was not the point. The point was relationship. Obey, listen, let Me be your God, let yourselves be My people, and we can do anything.</p>
+          <p>Notice what He says He never asked for. Burnt offerings. Sacrifices. The very heart of the Levitical system. He is saying (under inspiration, in His own voice) that when He brought Israel out of Egypt, sacrifice was not the point. The point was relationship. Obey, listen, let Me be your God, let yourselves be My people, and we can do anything.</p>
 
           <p>This is not a one-off. The same God says through Hosea:</p>
 
@@ -91,27 +78,27 @@
             <p>"What to me is the multitude of your sacrifices? says the Lord; I have had enough of burnt offerings of rams and the fat of fed beasts... Bring no more vain offerings; incense is an abomination to me." (Isa 1:11-13)</p>
           </blockquote>
 
-          <p>These are not stray verses tucked into corners. They are the consistent voice of the prophets — the people who knew God best — telling Israel, loudly and repeatedly, that the system they took as the heart of their religion was not what God had been after the whole time.</p>
+          <p>These are not stray verses tucked into corners. They are the consistent voice of the prophets, the people who knew God best, telling Israel, loudly and repeatedly, that the system they took as the heart of their religion was not what God had been after the whole time.</p>
 
-          <p>So what <em>was</em> the system, then? If God did not need the blood — and He said, plainly, that He did not — what were all those animals for?</p>
+          <p>So what <em>was</em> the system, then? If God did not need the blood (and He said, plainly, that He did not), what were all those animals for?</p>
 
           <h2>A Picture for People Who Could Not Yet Hear Words</h2>
 
           <p>Here is where the larger pattern of Scripture begins to make sense. God meets people where they are. He always has.</p>
 
-          <p>The Bible is, from one angle, a record of God adapting His method to whatever generation He happens to be working with. When the slaves came out of Egypt — terrified, illiterate, traumatised by four hundred years of brutality, freshly emerged from a culture saturated with crocodile-gods and bull-gods and rituals of appeasement — He did not hand them a book of systematic theology. He could not. They would not have understood a word of it.</p>
+          <p>The Bible is, from one angle, a record of God adapting His method to whatever generation He happens to be working with. When the slaves came out of Egypt (terrified, illiterate, traumatised by four hundred years of brutality, freshly emerged from a culture saturated with crocodile-gods and bull-gods and rituals of appeasement), He did not hand them a book of systematic theology. He could not. They would not have understood a word of it.</p>
 
-          <p>Instead He gave them thunder and lightning and smoke at Sinai, because that was the language they had been conditioned to recognise as divine. He gave them visible miracles, columns of cloud, manna on the ground every morning. He gave them a tabernacle they could touch, priests in coloured robes, music, incense, ceremony, a routine of festivals through the year. He gave them, in short, a <em>visual</em> religion — because that is what people in their condition could absorb.</p>
+          <p>Instead He gave them thunder and lightning and smoke at Sinai, because that was the language they had been conditioned to recognise as divine. He gave them visible miracles, columns of cloud, manna on the ground every morning. He gave them a tabernacle they could touch, priests in coloured robes, music, incense, ceremony, a routine of festivals through the year. He gave them, in short, a <em>visual</em> religion, because that is what people in their condition could absorb.</p>
 
           <p>And He gave them the sacrificial system.</p>
 
           <p>Not because He needed it. Because <em>they</em> did.</p>
 
-          <p>Paul, centuries later, put a name to what God had been doing. He called it the <em>paidagōgos</em> — the household slave whose job it was to walk children to school and home again, making sure they did not wander off into the bushes (Gal 3:24). The law, including all its ceremonies, was the paidagogue. It was never the teacher. The teacher was waiting at the school. The paidagogue's only job was to get the children there safely.</p>
+          <p>Paul, centuries later, put a name to what God had been doing. He called it the <em>paidagōgos</em>: the household slave whose job it was to walk children to school and home again, making sure they did not wander off into the bushes (Gal 3:24). The law, including all its ceremonies, was the paidagogue. It was never the teacher. The teacher was waiting at the school. The paidagogue's only job was to get the children there safely.</p>
 
           <p>Read with that in view, the whole system suddenly snaps into shape. The lamb at the altar was not a magical transaction; it was a picture. The blood was not a payment; it was a visual aid. The priest was not a mediator God needed; he was a mediator the people needed, because they could not yet imagine going straight to God themselves. The whole apparatus was a kind of pedagogy in colour and sound and smell, designed to teach one truth over and over and over: <em>sin destroys, and God provides a way out of it at His own cost</em>.</p>
 
-          <p>The lessons inside the system, once you read them this way, are stunning. A man brought his lamb. He laid his hand on its head. He confessed his sin into its ears. He saw the animal die in his place. He watched the priest take the blood toward the most holy place. He went home knowing that what had just happened in miniature had a meaning he could not yet fully grasp — but the picture would stay with him. The whole thing was teaching him that sin really does cost a life, that God really does take it on Himself, and that he was loved enough to be spared. None of that required God to actually want the animal dead. The point was the lesson.</p>
+          <p>The lessons inside the system, once you read them this way, are stunning. A man brought his lamb. He laid his hand on its head. He confessed his sin into its ears. He saw the animal die in his place. He watched the priest take the blood toward the most holy place. He went home knowing that what had just happened in miniature had a meaning he could not yet fully grasp, but the picture would stay with him. The whole thing was teaching him that sin really does cost a life, that God really does take it on Himself, and that he was loved enough to be spared. None of that required God to actually want the animal dead. The point was the lesson.</p>
 
           <p>This is why the sacrificial system can be everywhere in the law and the prophets can still say God never wanted it. Both are true. He never <em>wanted</em> it. He <em>gave</em> it, because His people would not yet accept anything subtler.</p>
 
@@ -119,19 +106,19 @@
 
           <p>Once you see this once, you start seeing it everywhere in Scripture. God is constantly stooping to use methods He does not Himself prefer.</p>
 
-          <p>Consider the monarchy. When Israel demanded a king "like all the nations have," God told Samuel plainly: <em>they have rejected Me from being king over them</em> (1 Sam 8:7). He would much rather have led them directly. But they could not yet imagine it — they wanted someone they could see on a throne — so He gave them what they asked for and worked with the arrangement, even though it was never the ideal.</p>
+          <p>Consider the monarchy. When Israel demanded a king "like all the nations have," God told Samuel plainly: <em>they have rejected Me from being king over them</em> (1 Sam 8:7). He would much rather have led them directly. But they could not yet imagine it (they wanted someone they could see on a throne), so He gave them what they asked for and worked with the arrangement, even though it was never the ideal.</p>
 
-          <p>Consider divorce. When the Pharisees came to Jesus asking about it, He told them: <em>because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so</em> (Matt 19:8). God had regulated a practice He did not prefer because the alternative — refusing to engage with His people's brokenness — would have left them worse off.</p>
+          <p>Consider divorce. When the Pharisees came to Jesus asking about it, He told them: <em>because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so</em> (Matt 19:8). God had regulated a practice He did not prefer because the alternative (refusing to engage with His people's brokenness) would have left them worse off.</p>
 
-          <p>Consider Sinai itself. The people stood at the foot of the mountain and were terrified by the thunder. Moses had to tell them: <em>do not be afraid</em> (Ex 20:20). The terror was not what God wanted. He spoke that way because the audience needed it. Later He whispered to Elijah on the same mountain — <em>a still small voice</em> (1 Kings 19:12) — because Elijah did not need thunder. Different method, same God.</p>
+          <p>Consider Sinai itself. The people stood at the foot of the mountain and were terrified by the thunder. Moses had to tell them: <em>do not be afraid</em> (Ex 20:20). The terror was not what God wanted. He spoke that way because the audience needed it. Later He whispered to Elijah on the same mountain, <em>a still small voice</em> (1 Kings 19:12), because Elijah did not need thunder. Different method, same God.</p>
 
-          <p>Consider Jesus stooping to spit on a blind man's eyes at Bethsaida (Mark 8:22-26). The spit was not magical. It was a tangible point of contact for a man whose faith needed something to hold onto. Even the second touch — <em>I see men, but they look like trees</em> — shows God meeting a person at the speed they can manage, not the speed He could deliver.</p>
+          <p>Consider Jesus stooping to spit on a blind man's eyes at Bethsaida (Mark 8:22-26). The spit was not magical. It was a tangible point of contact for a man whose faith needed something to hold onto. Even the second touch, <em>I see men, but they look like trees</em>, shows God meeting a person at the speed they can manage, not the speed He could deliver.</p>
 
           <p>The whole Bible is this. Methods that are not His preference, used because His people are not yet able to receive His preference. The sacrificial system is one example among many.</p>
 
           <h2>What Happens When You Mistake the Method for the Man</h2>
 
-          <p>The problem is that we keep doing the same thing the Israelites did — taking God's stooping personally and reading His character off it.</p>
+          <p>The problem is that we keep doing the same thing the Israelites did: taking God's stooping personally and reading His character off it.</p>
 
           <p>If you treat the thunder at Sinai as a revelation of who God is, you end up with a terrifying deity who likes to make a scene. But the thunder was for the audience. Moses knew Him as the friend who spoke face to face like a man with his friend (Ex 33:11).</p>
 
@@ -139,7 +126,7 @@
 
           <p>If you treat the divorce law as evidence that God is comfortable with broken marriages, you have missed Jesus saying it was never the design. The regulation was damage control. He preferred something better.</p>
 
-          <p>And if you treat the sacrificial system as evidence that God needs blood, you have missed Jeremiah, Hosea, Micah, Isaiah, David, and the entire prophetic tradition saying He never asked for it in the first place. The system was a teaching device. He preferred — and said so loudly — a relationship in which we knew Him well enough not to need it.</p>
+          <p>And if you treat the sacrificial system as evidence that God needs blood, you have missed Jeremiah, Hosea, Micah, Isaiah, David, and the entire prophetic tradition saying He never asked for it in the first place. The system was a teaching device. He preferred (and said so loudly) a relationship in which we knew Him well enough not to need it.</p>
 
           <p>Read literally, the system makes God look bloodthirsty. Read literally, the thunder makes Him look terrifying. Read literally, the monarchy makes Him look like He wanted what He never wanted, and the divorce law makes Him look like He approved of what He never approved.</p>
 
@@ -147,25 +134,25 @@
 
           <h2>The Cross, Reread</h2>
 
-          <p>This brings us, inevitably, to the cross — because the literal reading of the sacrificial system has its biggest payoff at Calvary. If sacrifice was always literally required, then Jesus' death was the final, biggest payment. The Father needed blood; the Son provided it; the account was settled.</p>
+          <p>This brings us, inevitably, to the cross, because the literal reading of the sacrificial system has its biggest payoff at Calvary. If sacrifice was always literally required, then Jesus' death was the final, biggest payment. The Father needed blood; the Son provided it; the account was settled.</p>
 
-          <p>But everything we have just seen calls that reading into question. If God said <em>I did not speak to your fathers about sacrifices</em>, what does it mean to say the whole system was building toward one cosmic sacrifice He actually needed? If He said through Micah <em>will the Lord be pleased with thousands of rams... shall I give my firstborn for my transgression?</em> and answered with <em>no — He has shown you what is good</em> — then how can the cross be the moment He finally cashed in on the very logic Micah said was wrong?</p>
+          <p>But everything we have just seen calls that reading into question. If God said <em>I did not speak to your fathers about sacrifices</em>, what does it mean to say the whole system was building toward one cosmic sacrifice He actually needed? If He said through Micah <em>will the Lord be pleased with thousands of rams... shall I give my firstborn for my transgression?</em> and answered with <em>no, He has shown you what is good</em>, then how can the cross be the moment He finally cashed in on the very logic Micah said was wrong?</p>
 
           <p>A better reading is available, and it is more honest to the whole Bible. The cross was not the moment God finally got what He had always wanted. It was the moment God showed, in person, what He had been trying to communicate through the whole picture-system for two thousand years.</p>
 
-          <p>It was the demonstration the symbols had been pointing toward. The lamb had been pointing to Him — yes — but not as "the final transaction." As the final <em>unveiling</em>. The point of every animal dying in front of every confessing Israelite was: <em>this is what sin does, and this is the kind of God who is willing to bear it Himself when it finally runs its course in front of Me</em>. The cross was God stepping out from behind the visual aid and saying, in flesh and blood: <em>here is what I have been showing you the whole time</em>.</p>
+          <p>It was the demonstration the symbols had been pointing toward. The lamb had been pointing to Him, yes, but not as "the final transaction." As the final <em>unveiling</em>. The point of every animal dying in front of every confessing Israelite was: <em>this is what sin does, and this is the kind of God who is willing to bear it Himself when it finally runs its course in front of Me</em>. The cross was God stepping out from behind the visual aid and saying, in flesh and blood: <em>here is what I have been showing you the whole time</em>.</p>
 
-          <p>He did not need to do it to satisfy His own anger. He did it to settle ours. He did it to answer the universe's question about the kind of person He is. He did it because demonstration was finally possible — because, after thousands of years of pictures, He could afford to come and <em>be</em> the thing the pictures were of.</p>
+          <p>He did not need to do it to satisfy His own anger. He did it to settle ours. He did it to answer the universe's question about the kind of person He is. He did it because demonstration was finally possible: after thousands of years of pictures, He could afford to come and <em>be</em> the thing the pictures were of.</p>
 
-          <p>Read this way, the cross stops being a transaction and becomes a revelation. It stops looking like Nebuchadnezzar — <em>worship me or I'll burn you</em> — and starts looking like Jesus — <em>no greater love has anyone than this, that he lay down his life for his friends</em>. It stops painting God as the one who needed blood, and starts painting Him as the one who was always willing to bleed.</p>
+          <p>Read this way, the cross stops being a transaction and becomes a revelation. It stops looking like Nebuchadnezzar (<em>worship me or I'll burn you</em>) and starts looking like Jesus (<em>no greater love has anyone than this, that he lay down his life for his friends</em>). It stops painting God as the one who needed blood, and starts painting Him as the one who was always willing to bleed.</p>
 
           <h2>A God Worth Knowing</h2>
 
           <p>There is a final thing to say, and it is the heart of why this matters.</p>
 
-          <p>If we read the sacrificial system literally — and the cross with it — we end up with a God who is, frankly, hard to love. Petty. Demanding. Strict about ritual. Needing to be paid before He can forgive. Such a God can be feared. He can be served. He cannot easily be admired, and he certainly cannot be enjoyed.</p>
+          <p>If we read the sacrificial system literally (and the cross with it), we end up with a God who is, frankly, hard to love. Petty. Demanding. Strict about ritual. Needing to be paid before He can forgive. Such a God can be feared. He can be served. He cannot easily be admired, and he certainly cannot be enjoyed.</p>
 
-          <p>If we read the system the way God Himself described it — as teaching, as accommodation, as a stooping to meet hard-hearted people where they were — a very different person emerges. Someone patient enough to spend two thousand years drawing pictures because His audience could not yet hear words. Someone humble enough to use methods He did not prefer, because His people needed them. Someone honest enough, through His prophets, to keep saying <em>I never wanted this — I want you</em>. Someone who, when the moment finally came to step out from behind the symbols, did not appear in the form of a king or a judge or an avenging fire, but as a Galilean carpenter who washed His friends' feet and forgave the men driving the nails through His hands.</p>
+          <p>If we read the system the way God Himself described it (as teaching, as accommodation, as a stooping to meet hard-hearted people where they were), a very different person emerges. Someone patient enough to spend two thousand years drawing pictures because His audience could not yet hear words. Someone humble enough to use methods He did not prefer, because His people needed them. Someone honest enough, through His prophets, to keep saying <em>I never wanted this. I want you</em>. Someone who, when the moment finally came to step out from behind the symbols, did not appear in the form of a king or a judge or an avenging fire, but as a Galilean carpenter who washed His friends' feet and forgave the men driving the nails through His hands.</p>
 
           <p>That is a God you can admire. That is a God you can want to spend eternity with.</p>
 
@@ -175,23 +162,113 @@
 
           <p>The point was always Him.</p>
 
-          <p><a href="index.html">← Back to Essays</a></p>
+        </div>
+
+        <div id="essay-panel-advanced" class="article-body article-panel" role="tabpanel" aria-labelledby="essay-tab-advanced" data-article-panel="advanced" hidden>
+          <p class="article-reading-note">The advanced version: a more formal theological reading for study, teaching, and academic discussion.</p>
+
+          <p>The sacrificial system has often been interpreted as though it discloses a divine requirement for death prior to forgiveness. On this reading, Leviticus establishes the logic of substitutionary payment, and the death of Jesus functions as the climactic instance of that same requirement. The cross, then, becomes the final sacrifice because it supplies the value all previous sacrifices lacked.</p>
+
+          <p>That interpretation is coherent at the level of surface ritual, but it creates a serious canonical problem. The prophets repeatedly deny that sacrifice was ever the object of God's desire. If the sacrificial cult is read as a literal revelation of what God requires in Himself, then the prophetic critique must be softened, spiritualised, or treated as rhetorical excess. Yet the prophetic witness is too direct, too frequent, and too central to be dismissed in that way.</p>
+
+          <h2>The Prophetic Control on Leviticus</h2>
+
+          <p>Jeremiah 7:22-23 is the decisive text: "For in the day that I brought them out of the land of Egypt, I did not speak to your fathers or command them concerning burnt offerings and sacrifices. But this command I gave them: 'Obey my voice, and I will be your God, and you shall be my people.'" The statement does not deny that sacrificial legislation appears in the Torah. Rather, it identifies the theological priority beneath the legislation. Covenant relationship, not ritual bloodshed, is the divine aim.</p>
+
+          <p>Hosea 6:6 makes the same point in compressed form: "I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings." Micah 6:6-8 expands it by rejecting escalating sacrificial logic: thousands of rams, rivers of oil, even the firstborn, are not what the Lord requires. Justice, mercy, and humble walking with God are. Psalm 40:6-8 and Isaiah 1:11-17 continue the same pattern. The issue is not merely hypocritical sacrifice; it is the mistaken assumption that sacrifice is the thing God is ultimately seeking.</p>
+
+          <p>These texts provide a hermeneutical control. Leviticus cannot be read as though God needs blood in order to become gracious when the prophets, speaking in God's name, insist that His desire is covenant fidelity, mercy, knowledge, and transformed life.</p>
+
+          <h2>Sacrifice as Pedagogy</h2>
+
+          <p>The more coherent reading is pedagogical. The sacrificial system was an accommodated teaching structure given to a newly liberated slave people whose religious imagination had been formed in the world of Egypt and the ancient Near East. That world already associated divine encounter with visible ritual, priestly mediation, sacred space, and offerings. God did not create that religious grammar from nothing; He redirected it.</p>
+
+          <p>Paul's description of the law as a <em>paidagōgos</em> in Galatians 3:24 is helpful here. The ceremonial system functioned as a guardian, a tutor, a temporary structure designed to bring an immature people toward a fuller revelation. It was not the final disclosure of God's character. It was a schoolroom fitted to the students' condition.</p>
+
+          <p>Within that schoolroom, the animal did not operate as a payment God required for Himself. It functioned as enacted instruction. The worshipper saw that sin destroys life. He placed his hand on the victim and participated bodily in confession. He watched the priest carry blood into sacred space. The rite dramatised the moral seriousness of sin and the costly mercy of God. It taught through symbol what the people were not yet prepared to receive through abstraction.</p>
+
+          <h2>Accommodation Across Scripture</h2>
+
+          <p>This reading is not unique to sacrifice. It belongs to a broader biblical pattern of divine accommodation. In 1 Samuel 8, monarchy is granted even though God names the request as a rejection of His own kingship. In Matthew 19:8, Jesus explains Mosaic divorce regulation as an accommodation to hardness of heart, not a statement of creational ideal. At Sinai, God speaks through thunder and terror to a people conditioned to associate divine reality with overwhelming spectacle, while Elijah later encounters the same God in a quiet voice.</p>
+
+          <p>In each case, the method must be distinguished from the divine preference. God works through structures His people can understand, even when those structures do not reveal His ideal will. The danger is to absolutise the accommodation and then attribute it directly to God's character.</p>
+
+          <h2>The Cross as Revelation, Not Divine Appeasement</h2>
+
+          <p>The cross must therefore be read through this same canonical pattern. If the sacrificial system was pedagogical, then Jesus is not the final instance of a mechanism God needed. He is the reality toward which the mechanism pointed. The symbols culminate not in a larger transaction, but in an unveiled revelation.</p>
+
+          <p>The cross shows what the sacrificial system had been teaching in partial and symbolic form: sin is lethal, humanity projects violence onto God, and God absorbs that violence rather than returning it. The Father does not require the death of the Son in order to become forgiving. Rather, in the Son, God reveals that He has always been the one willing to bear the cost of reconciliation.</p>
+
+          <p>This preserves the prophetic critique and the typological force of Leviticus. The lamb matters because it points beyond itself. Blood matters because it dramatises life poured out. The sanctuary matters because it stages God's movement toward a people afraid to approach Him. But none of these is the final point. The point is the character of the God who stoops into the symbolic world of His people until they can see Him clearly.</p>
+
+          <h2>Conclusion</h2>
+
+          <p>Read literally and in isolation, sacrifice can make God appear dependent on death, appeasement, and ritual payment. Read canonically, under the pressure of the prophets and in light of Christ, sacrifice becomes an accommodated pedagogy. God gives pictures to people who cannot yet hear the whole truth in words. He works through the religious language available to them while steadily correcting their misunderstanding of Him.</p>
+
+          <p>The sacrificial system was never the centre of God's desire. It was a temporary, visual, merciful condescension. The centre was always relationship: "I will be your God, and you shall be my people." The lamb, the blood, the priest, and the altar were signs. The reality was always the God who would rather stoop into our misunderstanding than leave us alone inside it.</p>
 
         </div>
+
+        <div id="essay-panel-beginner" class="article-body article-panel" role="tabpanel" aria-labelledby="essay-tab-beginner" data-article-panel="beginner" hidden>
+          <p class="article-reading-note">The beginner version: simpler language, more background, and fewer assumed Bible details.</p>
+
+          <p>Some parts of the Bible are hard to read if you are new to it. Leviticus is one of those parts. It talks a lot about animals, priests, altars, blood, and sacrifices. A person can read that and think, "Does God like death? Does He need blood before He can forgive people?"</p>
+
+          <p>That is a fair question. If someone only reads the sacrifices by themselves, God can seem scary. It can look as if He is saying, "Bring Me blood, then I will forgive you." But that is not the whole picture. In fact, later in the Bible, God says very plainly that sacrifice was never what He wanted most.</p>
+
+          <h2>What God Really Wanted</h2>
+
+          <p>In Jeremiah 7:22-23, God reminds Israel about when He rescued them from Egypt. Egypt was the place where they had been slaves for hundreds of years. God says that when He brought them out, His main command was not, "Bring Me sacrifices." His command was, "Obey my voice, and I will be your God, and you shall be my people."</p>
+
+          <p>In simpler words, God was saying, "I want a relationship with you. Listen to Me. Trust Me. Walk with Me." That was the point from the beginning.</p>
+
+          <p>Other Bible writers say the same thing. Hosea says God wants love and knowing Him more than burnt offerings. Micah says God is not asking for thousands of animals. He wants people to do justice, love mercy, and walk humbly with Him. Isaiah says God is tired of sacrifices when people's hearts are far from Him.</p>
+
+          <p>So if God did not really want all that blood, why did He give Israel the sacrificial system at all?</p>
+
+          <h2>A Picture Lesson</h2>
+
+          <p>Think about teaching a small child. If you want to teach them something important, you do not start with a college textbook. You use pictures. You act things out. You give them something they can see and touch.</p>
+
+          <p>Israel was like that in some ways. They had just come out of slavery in Egypt. They were hurt, afraid, and used to a world where people thought gods had to be pleased with rituals. They did not yet know God well. So God taught them in a way they could understand.</p>
+
+          <p>The sacrifices were like picture lessons. The animal was not there because God enjoyed death. It was there to show that sin is serious. Sin hurts. Sin destroys life. But the sacrifice also showed something else: God was making a way for the sinner to come near instead of being pushed away.</p>
+
+          <p>When a person brought a lamb, put a hand on its head, confessed sin, and watched what happened, the lesson was meant to stay in the heart: "My sin matters. It causes death. But God is not abandoning me. God is making a way back."</p>
+
+          <h2>God Meets People Where They Are</h2>
+
+          <p>This is something God does all through the Bible. He meets people where they are, then leads them forward.</p>
+
+          <p>Israel wanted a human king like the other nations. God said that was not His best plan, but He still worked with them through kings. Later, Jesus said divorce was allowed in Moses' law because people's hearts were hard, not because divorce was God's dream for marriage. At Mount Sinai, God used thunder and fire because the people were afraid and needed a strong sign. But later, with Elijah, God spoke in a quiet voice.</p>
+
+          <p>Those examples show the same pattern. Sometimes God uses a method that people can understand, even if that method is not His deepest desire. He stoops down to their level so He can lift them up.</p>
+
+          <h2>What This Means for Jesus</h2>
+
+          <p>Christians often say Jesus is the Lamb of God. That matters. But it does not mean the Father was hungry for blood and Jesus gave Him enough blood to calm Him down. That would make God sound like the angry gods people were afraid of in ancient times.</p>
+
+          <p>The better picture is this: the old sacrifices were pointing toward Jesus. They were saying, again and again, "Sin is deadly, but God Himself will carry the cost of saving you." When Jesus died on the cross, God was not showing that He needed violence. He was showing how far His love would go.</p>
+
+          <p>The cross shows us what God is like. He does not stand far away demanding that someone else suffer before He can love us. He comes close. He enters our pain. He lets human violence fall on Him, and He answers with forgiveness.</p>
+
+          <h2>The Main Point</h2>
+
+          <p>The sacrifices were never the point. The animals were never the point. The blood was never the point. They were pictures for people who needed pictures.</p>
+
+          <p>The point was always God Himself. He wanted His people to know Him, trust Him, and stop being afraid of Him. He was patient enough to teach slowly. He was humble enough to use lessons they could understand. And when the time came, He came in Jesus to show the truth clearly.</p>
+
+          <p>God did not stoop because He is small. He stooped because love bends down.</p>
+
+        </div>
+
+        <p class="article-back"><a href="index.html">← Back to Essays</a></p>
+
       </div>
     </div>
   </main>
 
-  <footer class="site-footer">
-    <div class="container">
-      <span>© 2026 Veritas. All rights reserved.</span>
-      <nav class="footer-links" aria-label="Footer navigation">
-        <a href="../about.html">About</a>
-        <a href="../essays/index.html">Essays</a>
-        <a href="../study/index.html">Study</a>
-      </nav>
-    </div>
-  </footer>
+  <div data-site-footer></div>
 
 </body>
 </html>

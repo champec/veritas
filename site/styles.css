@@ -528,6 +528,170 @@ blockquote {
   color: var(--text);
 }
 
+.principle-card h3 a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition), color var(--transition);
+}
+.principle-card h3 a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* --- Proper Context cards ---------------------------------- */
+.context-list {
+  display: grid;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.context-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.6rem;
+}
+
+.context-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.context-label {
+  font-family: var(--font-head);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-top: 1.1rem;
+  margin-bottom: 0.35rem;
+}
+.context-card > .context-label:first-of-type { margin-top: 0; }
+
+.context-text {
+  color: var(--text);
+  line-height: 1.7;
+}
+
+.context-empty {
+  color: var(--text-muted);
+}
+
+/* --- Greater Principles page ------------------------------- */
+.principles-focus {
+  margin-top: 1rem;
+  padding: 0.85rem 1.1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.principles-list {
+  display: grid;
+  gap: 1rem;
+  max-width: 52rem;
+  padding: 1rem 0 3rem;
+}
+
+.principle-entry {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.principle-entry.is-focus {
+  border-left: 3px solid var(--accent);
+}
+
+.principle-entry-summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem 1.4rem;
+}
+.principle-entry-summary::-webkit-details-marker { display: none; }
+
+.principle-entry-summary::after {
+  content: '+';
+  margin-left: auto;
+  font-family: var(--font-head);
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--accent);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.principle-entry[open] .principle-entry-summary::after { content: '\2212'; }
+
+.principle-entry-title {
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.principle-entry-body {
+  padding: 0 1.4rem 1.5rem;
+}
+
+.principle-entry-text {
+  color: var(--text);
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+
+.principle-examples-label {
+  font-family: var(--font-head);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.principle-examples {
+  list-style: none;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.principle-example {
+  padding-left: 1rem;
+  border-left: 2px solid var(--border);
+  line-height: 1.6;
+}
+.principle-example.is-focus-book {
+  border-left-color: var(--accent);
+}
+
+.principle-example-book {
+  font-family: var(--font-head);
+  font-weight: 600;
+  color: var(--text);
+  margin-right: 0.4rem;
+}
+a.principle-example-book {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition);
+}
+a.principle-example-book:hover { border-bottom-color: var(--accent); }
+
+.principle-example-text {
+  color: var(--text-muted);
+}
+
 /* --- Essays page ------------------------------------------- */
 .essays-list {
   padding: 3rem 0;
@@ -601,10 +765,63 @@ blockquote {
   color: var(--text-muted);
 }
 
+.article-tabs {
+  display: inline-flex;
+  gap: 0.25rem;
+  max-width: 100%;
+  margin-bottom: 2.5rem;
+  padding: 0.3rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow-x: auto;
+}
+
+.article-tab {
+  appearance: none;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: var(--font-head);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.55rem 1.25rem;
+  white-space: nowrap;
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+}
+
+.article-tab:hover {
+  color: var(--text);
+}
+
+.article-tab.is-active {
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
+}
+
 .article-body {
   max-width: 42rem;
   font-size: 1.1rem;
   line-height: 1.85;
+}
+
+.article-panel[hidden] {
+  display: none;
+}
+
+.article-reading-note {
+  border-left: 3px solid var(--accent);
+  color: var(--text-muted);
+  font-family: var(--font-head);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
 }
 
 .article-body h2 {
@@ -618,6 +835,13 @@ blockquote {
 }
 
 .article-body p { margin-bottom: 1.4em; }
+
+.article-back {
+  font-family: var(--font-head);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 3rem;
+}
 
 /* --- Scaffolded page --------------------------------------- */
 .scaffold-wrap {
@@ -671,6 +895,8 @@ blockquote {
   .book-tabs { gap: 0.5rem; }
   .book-tab { font-size: 0.7rem; padding-inline: 0.8rem; }
   .book-panel { padding-top: 2rem; }
+  .article-tabs { gap: 0.2rem; }
+  .article-tab { font-size: 0.68rem; padding-inline: 0.9rem; }
 
   .site-footer .container { flex-direction: column; align-items: flex-start; }
 }
